@@ -66,8 +66,9 @@ sub home {
 <p>This is a brain-dead and half-baked SPARQL endpoint to a subset of LiAM linked data. Enter a query, but there is the disclaimer. Errors will probably happen because of SPARQL syntax errors. Remember, the interface is brain-dead. Your milage <em>will</em> vary.</p>
 <form method='GET' action='./'>
 <textarea style='font-size: large' rows='5' cols='65' name='query' />
-PREFIX dcterms:<http://purl.org/dc/terms/>
-SELECT * WHERE { ?s dcterms:title ?o }
+PREFIX hub:<http://data.archiveshub.ac.uk/def/>
+SELECT ?uri
+WHERE { ?uri ?o hub:FindingAid }
 </textarea><br />
 <input type='submit' value='Search' />
 </form>
@@ -77,6 +78,11 @@ SELECT * WHERE { ?s dcterms:title ?o }
 	<li>Find all items with MODS subjects - <code><a href='http://infomotions.com/sandbox/liam/sparql/?query=PREFIX+mods%3A%3Chttp%3A%2F%2Fsimile.mit.edu%2F2006%2F01%2Fontologies%2Fmods3%23%3E%0D%0ASELECT+*+WHERE+%7B+%3Fs+mods%3Asubject+%3Fo+%7D'>PREFIX mods:&lt;http://simile.mit.edu/2006/01/ontologies/mods3#&gt; SELECT * WHERE { ?s mods:subject ?o }</a></code></li>
 	<li>Find every unique predicate - <code><a href="http://infomotions.com/sandbox/liam/sparql/?query=SELECT+DISTINCT+%3Fp+WHERE+%7B+%3Fs+%3Fp+%3Fo+%7D">SELECT DISTINCT ?p WHERE { ?s ?p ?o }</a></code></li>
 	<li>Find everything - <code><a href="http://infomotions.com/sandbox/liam/sparql/?query=SELECT+*+WHERE+%7B+%3Fs+%3Fp+%3Fo+%7D">SELECT * WHERE { ?s ?p ?o }</a></code></li>
+	<li>Find all classes - <code><a href="http://infomotions.com/sandbox/liam/sparql/?query=SELECT+DISTINCT+%3Fclass+WHERE+%7B+%5B%5D+a+%3Fclass+%7D+ORDER+BY+%3Fclass">SELECT DISTINCT ?class WHERE { [] a ?class } ORDER BY ?class</a></code></li>
+	<li>Find all properties - <code><a href="http://infomotions.com/sandbox/liam/sparql/?query=SELECT+DISTINCT+%3Fproperty%0D%0AWHERE+%7B+%5B%5D+%3Fproperty+%5B%5D+%7D%0D%0AORDER+BY+%3Fproperty">SELECT DISTINCT ?property WHERE { [] ?property [] } ORDER BY ?property</a></code></li>
+	<li>Find URIs of all finding aids - <code><a href="http://infomotions.com/sandbox/liam/sparql/?query=PREFIX+hub%3A%3Chttp%3A%2F%2Fdata.archiveshub.ac.uk%2Fdef%2F%3E+SELECT+%3Furi+WHERE+%7B+%3Furi+%3Fo+hub%3AFindingAid+%7D">PREFIX hub:&lt;http://data.archiveshub.ac.uk/def/&gt; SELECT ?uri WHERE { ?uri ?o hub:FindingAid }</a></code></li>
+	<li>Find URIs of all MARC records - <code><a href="http://infomotions.com/sandbox/liam/sparql/?query=PREFIX+mods%3A%3Chttp%3A%2F%2Fsimile.mit.edu%2F2006%2F01%2Fontologies%2Fmods3%23%3E+SELECT+%3Furi+WHERE+%7B+%3Furi+%3Fo+mods%3ARecord+%7D%0D%0A%0D%0A%0D%0A">PREFIX mods:&lt;http://simile.mit.edu/2006/01/ontologies/mods3#&gt; SELECT ?uri WHERE { ?uri ?o mods:Record }</a></code></li>
+	<li>Find all URIs of all collections - <code><a href="http://infomotions.com/sandbox/liam/sparql/?query=PREFIX+mods%3A%3Chttp%3A%2F%2Fsimile.mit.edu%2F2006%2F01%2Fontologies%2Fmods3%23%3E%0D%0APREFIX+hub%3A%3Chttp%3A%2F%2Fdata.archiveshub.ac.uk%2Fdef%2F%3E%0D%0ASELECT+%3Furi+WHERE+%7B+%7B+%3Furi+%3Fo+hub%3AFindingAid+%7D+UNION+%7B+%3Furi+%3Fo+mods%3ARecord+%7D+%7D%0D%0AORDER+BY+%3Furi%0D%0A">PREFIX mods:&lt;http://simile.mit.edu/2006/01/ontologies/mods3#&gt; PREFIX hub:&lt;http://data.archiveshub.ac.uk/def/&gt; SELECT ?uri WHERE { { ?uri ?o hub:FindingAid } UNION { ?uri ?o mods:Record } } ORDER BY ?uri</a></code></li>
 </ul>
 <p>This is a list of ontologies (namespaces) used in the triple store as predicates:</p>
 $list
@@ -89,7 +95,7 @@ $list
 <hr />
 <p>
 <a href="mailto:eric_morgan\@infomotions.com">Eric Lease Morgan &lt;eric_morgan\@infomotions.com&gt;</a><br />
-December 15, 2013
+January 6, 2014
 </p>
 </body>
 </html>
