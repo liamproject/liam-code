@@ -16,5 +16,4 @@ This is a small set of Perl scripts used to publish MARC and EAD files as linked
   * lib/LiAM/Dereference.pm - mod_perl code to implement content-negotiation
 
 -- 
-Eric "Famous Last Words" Morgan
-March 5, 2014
+Eric Lease Morgan (March 5, 2014)
