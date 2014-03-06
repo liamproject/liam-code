@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" fileSize="58536" maxcomponentid="76" xsi:noNamespaceSchemaLocation="http://hul.harvard.edu/ois/xml/xsd/oasis/ead2002/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid identifier="009301447">hou01549</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Washburne, E. B. (Elihu Benjamin), 1816-1887, collector. E. B. Washburne autograph collection, 1766-1888 (MS Am 1583): Guide.</titleproper>
+         </titlestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>
+            <date calendar="gregorian" era="ce">10/24/2002 </date>Pacific Data Conversion Corp.
+            </creation>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date calendar="gregorian" era="ce" normal="20131107">11/07/2013</date>
+            <item>Loaded into OASIS</item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce">11/19/2003</date>
+            <item>
+               <name>Sarah Chiappetta </name>
+            </item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce" normal="20060517">June 8, 2006</date>
+            <item>hou01549 converted by Harvard University Library OIS from EAD 1.0 to 2002 by
+                    v1to02.xsl (sy2006-06-08).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <num>MS Am 1583 </num>
+         <titleproper>Washburne, E. B. (Elihu Benjamin), 1816-1887, collector. E. B. Washburne
+                autograph collection, 1766-1888: Guide. </titleproper>
+         <author>Houghton Library, Harvard College Library </author>
+         <p>
+            <extptr xlink:href="http://nrs.harvard.edu/urn-3:HUL.OIS:fas_shield" xlink:type="simple" />
+         </p>
+         <publisher>Harvard University, Cambridge, Massachusetts  02138  USA </publisher>
+         <p>© 2004 The President and Fellows of Harvard College </p>
+         <edition>Last update on 2013 September 11. </edition>
+      </titlepage>
+   </frontmatter>
+   <archdesc level="collection">
+      <did>
+         <repository>Houghton Library, Harvard College Library, Harvard University </repository>
+         <physloc>b </physloc>
+         <unitid>MS Am 1583 </unitid>
+         <origination label="&quot;creator&quot;">
+            <persname>Washburne, E. B. (Elihu Benjamin), 1816-1887, collector. </persname>
+         </origination>
+         <unittitle>E. B. Washburne autograph collection, </unittitle>
+         <unitdate calendar="gregorian" endYear="1888" era="ce" startYear="1766">1766-1888. </unitdate>
+         <physdesc>
+            <extent>1 box (.5 linear ft.) </extent>
+         </physdesc>
+         <langmaterial>Collection materials are in <language langcode="eng">English.
+                </language>
+         </langmaterial>
+         <abstract>Autographs of American and French historical figures collected by American
+                politician and diplomat Elihu Benjamin Washburne. </abstract>
+      </did>
+      <acqinfo>
+         <p>Recataloged from  <num>X5.13F*.  </num>Gift of Mrs. <persname>Mary Washburne Fowler,
+                </persname>and grandchildren Clarke, Gratiot, Hempstead, and Annette, in memory of
+                Hon. <persname>Elihu B. Washburne;</persname> received: <date calendar="gregorian" era="ce">1927 </date>December 29. </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>There are no restrictions on physical access to this material. Collection is open for
+                research. </p>
+      </accessrestrict>
+      <prefercite>
+         <head>Preferred Citation for Publication: </head>
+         <p>E. B. Washburne Autograph Collection, 1766-1888 (MS Am 1583).  Houghton Library,
+                Harvard University. </p>
+      </prefercite>
+      <bioghist>
+         <p>Washburne was an American politician and diplomat. </p>
+      </bioghist>
+      <arrangement>
+         <p>Arranged alphabetically by author. </p>
+      </arrangement>
+      <scopecontent>
+         <p>Contains autographs letters from various American and French historical figures,
+                including John Adams, John Quincy Adams, John Hancock, Pierre Menard, Pierre
+                François Tissot, and George Washington. Also includes a letter from the Marquis de
+                Lafayette to Thomas Jefferson and a letter from Thomas Jefferson to Ben Franklin, as
+                well as documents concerning the French Revolution and the Paris Commune, among
+                other items. </p>
+      </scopecontent>
+      <dsc type="in-depth">
+         <c id="hou01549c00001">
+            <did>
+               <unitid>(1) </unitid>
+               <unittitle>
+                  <persname>Adams, John, pres.U.S., 1735-1826. </persname>A.L.s. to
+                            <persname>Oliver Ellsworth; </persname>
+                  <geogname>Quincy, </geogname>22 Sep <unitdate calendar="gregorian" datechar="single" endYear="1799" era="ce" startYear="1799">1799.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s. (2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00002">
+            <did>
+               <unitid>(2) </unitid>
+               <unittitle>
+                  <persname>Adams, John Quincy, pres.U.S., 1767-1848. </persname>A.L.s. to
+                            <persname>Joseph Lancaster; </persname>
+                  <geogname>Washington, </geogname>24 Jan <unitdate calendar="gregorian" datechar="single" endYear="1824" era="ce" startYear="1824">1824.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00003">
+            <did>
+               <unitid>(3) </unitid>
+               <unittitle>
+                  <persname>Adams, Samuel, 1722-1803. </persname>A.L.s. to <persname>Horatio
+                            Gates; </persname>
+                  <geogname>Boston, </geogname>25 Aug <unitdate calendar="gregorian" datechar="single" endYear="1779" era="ce" startYear="1779">1779.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00004">
+            <did>
+               <unitid>(4) </unitid>
+               <unittitle>
+                  <persname>Arnold, Benedict, 1741-1801. </persname>A.L.s. to <persname>John
+                            Imlay; </persname>
+                  <geogname>Philadelphia, </geogname>10 Jul <unitdate calendar="gregorian" datechar="single" endYear="1778" era="ce" startYear="1778">1778.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00005">
+            <did>
+               <unitid>(5) </unitid>
+               <unittitle>
+                  <persname>Astor, John Jacob, 1763-1848. </persname>A.L.s. to
+                            <corpname>Messrs. Berthold, Chouteau and Pratte;</corpname>
+                  <geogname>New York, </geogname>12 May <unitdate calendar="gregorian" datechar="single" endYear="1822" era="ce" startYear="1822">1822.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00006">
+            <did>
+               <unitid>(6) </unitid>
+               <unittitle>
+                  <persname>Astor, William Backhouse, 1792-1875. </persname>A.L.s. to
+                            <persname>Ramsay Crooks; </persname>
+                  <geogname>New York, </geogname>5 Mar <unitdate calendar="gregorian" datechar="single" endYear="1822" era="ce" startYear="1822">1822.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00007">
+            <did>
+               <unitid>(7) </unitid>
+               <unittitle>
+                  <persname>Bazaine, Achille François, 1811-1888, </persname>A.L.s. to
+                            <persname>[Comte Jean Isidore] Harispe; </persname>
+                  <geogname>Miranda de Ebro, </geogname>9 Jan <unitdate calendar="gregorian" datechar="single" endYear="1837" era="ce" startYear="1837">1837.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(4p.) </extent>Partly in cipher.</physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00008">
+            <did>
+               <unitid>(8) </unitid>
+               <unittitle>
+                  <persname>Bazaine, Achille François, 1811-1888. </persname>A.L.s. to
+                            <persname>Elihu Benjamin Washburne; </persname>
+                  <geogname>Madrid, </geogname>13 Aug <unitdate calendar="gregorian" datechar="single" endYear="1880" era="ce" startYear="1880">1880.
+                        </unitdate>
+               </unittitle>
+               <physdesc>On verso of photograph of Bazaine.</physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00009">
+            <did>
+               <unitid>(9) </unitid>
+               <unittitle>
+                  <persname>Boissy d'Anglas, François Antoine, comte de, 1756-1826.
+                        </persname>A.L.s. to []; <geogname>Paris, </geogname>25 Feb <unitdate calendar="gregorian" datechar="single" endYear="1821" era="ce" startYear="1821">1821. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(4p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00010">
+            <did>
+               <unitid>(10) </unitid>
+               <unittitle>
+                  <persname>Burr, Aaron, 1756-1836. </persname>A.L.s. to <persname>Thomas
+                            Tayler; </persname>
+                  <geogname>New York, </geogname>9 Jul <unitdate calendar="gregorian" datechar="single" endYear="1802" era="ce" startYear="1802">1802.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00011">
+            <did>
+               <unitid>(11) </unitid>
+               <unittitle>
+                  <persname>Castellane, Pierre, comte de. </persname>A.L.s. to
+                            <persname>[Comte Jean Isidore] Harispe; </persname>
+                  <geogname>Perpignan, </geogname>17 Aug <unitdate calendar="gregorian" datechar="single" endYear="1838" era="ce" startYear="1838">1838.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00012">
+            <did>
+               <unitid>(12) </unitid>
+               <unittitle>
+                  <persname>Caumont, Arcisse de, 1802-1873. </persname>A.L.s. to [];
+                        [n.p.,n.d.]</unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00013">
+            <did>
+               <unitid>(14) </unitid>
+               <unittitle>
+                  <persname>Clinton, DeWitt, 1769-1828, </persname>A.L.s. to <persname>Micah
+                            Sterling; </persname>
+                  <geogname>Albany, </geogname>21 Dec <unitdate calendar="gregorian" datechar="single" endYear="1821" era="ce" startYear="1821">1821.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00014">
+            <did>
+               <unitid>(13) </unitid>
+               <unittitle>
+                  <persname>Clay, Henry, 1777-1852. </persname>A.L.s. to <persname>Samuel
+                            Smith; </persname>
+                  <geogname>Washington, </geogname>26 Oct <unitdate calendar="gregorian" datechar="single" endYear="1826" era="ce" startYear="1826">1826.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00015">
+            <did>
+               <unitid>(15) </unitid>
+               <unittitle>
+                  <persname>Clinton, DeWitt, 1769-1828. </persname>A.L. (3d person) to
+                            <persname>O. Henry; </persname>
+                  <geogname>Albany, </geogname>14 Mar <unitdate calendar="gregorian" datechar="single" endYear="1826" era="ce" startYear="1826">1826.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00016">
+            <did>
+               <unitid>(16) </unitid>
+               <unittitle>
+                  <persname>Clinton, George, 1739-1812. </persname>A.L.s. to [the Senate];
+                            <geogname>Albany, </geogname>8 Jul <unitdate calendar="gregorian" datechar="single" endYear="1789" era="ce" startYear="1789">1789.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>27 Dec <date calendar="gregorian" endYear="1927" era="ce" startYear="1927">1927</date>
+               </p>
+            </note>
+         </c>
+         <c id="hou01549c00017">
+            <did>
+               <unitid>(17) </unitid>
+               <unittitle>
+                  <persname>Clinton, James, 1733-1812. </persname>A.L.s. to <persname>[Mrs
+                            Clinton]; </persname>
+                  <geogname>Fredricks Burgh, </geogname>30 Sep <unitdate calendar="gregorian" datechar="single" endYear="1778" era="ce" startYear="1778">1778.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00018">
+            <did>
+               <unitid>(18) </unitid>
+               <unittitle>
+                  <persname>Colden, Cadwallader, 1688-1776. </persname>A.L.s. to <persname>Sir
+                            William Johnson; </persname>
+                  <geogname>Springhill, </geogname>10 Apr <unitdate calendar="gregorian" datechar="single" endYear="1766" era="ce" startYear="1766">1766.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00019">
+            <did>
+               <unitid>(19) </unitid>
+               <unittitle>
+                  <persname>Condorcet, Marie Jean Antoine Nicolas Caritat, marquis de,
+                            1743-1794. </persname>A.L.s. to <persname>[Chrétien Guillaume de
+                            Lamoignon de Malesherbes]; </persname>[n.p.,n.d.] </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00020">
+            <did>
+               <unitid>(20) </unitid>
+               <unittitle>
+                  <persname>Daunou, Pierre Claude François, 1761-1840. </persname>A.L.s. to
+                            <persname>[Etienne Maurice,] comte Gérard; </persname>
+                  <geogname>Paris, </geogname>17 Mar <unitdate calendar="gregorian" datechar="single" endYear="1839" era="ce" startYear="1839">1839.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00021">
+            <did>
+               <unitid>(21) </unitid>
+               <unittitle>
+                  <persname>Daunou, Pierre Claude François, 1761-1840. </persname>A.L.s. to
+                        []; [n.p.] 30 Sep <unitdate calendar="gregorian" datechar="single" endYear="1831" era="ce" startYear="1831">1831. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00022">
+            <did>
+               <unitid>(22) </unitid>
+               <unittitle>
+                  <persname>David, Jacques Louis, 1748-1825. </persname>A.D.s.;
+                            <geogname>Paris, </geogname>27 Sep <unitdate calendar="gregorian" datechar="single" endYear="1775" era="ce" startYear="1775">1775.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.) </extent>A receipt.</physdesc>
+            </did>
+            <note>
+               <p>27 Dec <date calendar="gregorian" endYear="1927" era="ce" startYear="1927">1927</date>
+               </p>
+            </note>
+         </c>
+         <c id="hou01549c00023">
+            <did>
+               <unitid>(23) </unitid>
+               <unittitle>
+                  <persname>De Bry, Jean, 1760-1834. </persname>A.L.s. to []; <geogname>Paris,
+                        </geogname>15 Feb <unitdate calendar="gregorian" datechar="single" endYear="1832" era="ce" startYear="1832">1832. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>27 Dec <date calendar="gregorian" endYear="1927" era="ce" startYear="1927">1927.</date>
+               </p>
+            </note>
+         </c>
+         <c id="hou01549c00024">
+            <did>
+               <unitid>(24) </unitid>
+               <unittitle>
+                  <persname>Dubois de Crancé, Edmond Louis Alexis, 1747-1814.
+                        </persname>A.L.s. to [citoyens directeurs]; <geogname>Paris, </geogname>[13
+                        Mar <unitdate calendar="gregorian" datechar="single" endYear="1797" era="ce" startYear="1797">1797] </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00025">
+            <did>
+               <unitid>(25) </unitid>
+               <unittitle>
+                  <persname>Franklin, Benjamin, 1706-1790. </persname>A.L.s. to
+                            <persname>Messrs. Robert S. Jones, </persname>
+                  <persname>Samuel Rhoads </persname>and <persname>Josiah Hewes; </persname>
+                  <geogname>London, </geogname>22 Aug <unitdate calendar="gregorian" datechar="single" endYear="1772" era="ce" startYear="1772">1772.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00026">
+            <did>
+               <unitid>(26) </unitid>
+               <unittitle>French revolutionary documents. </unittitle>
+               <physdesc>
+                  <extent>44 pieces.</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00027">
+            <did>
+               <unitid>(27) </unitid>
+               <unittitle>Miscellaneous French documents. </unittitle>
+               <physdesc>
+                  <extent>13 pieces.</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00028">
+            <did>
+               <unitid>(28) </unitid>
+               <unittitle>
+                  <persname>Goujon, Alexandre, 1766-1795. </persname>A.L.s. to
+                        [administrators, district of Corbeil]; <geogname>Versailles, </geogname>21
+                        Oct <unitdate calendar="gregorian" datechar="single" endYear="1792" era="ce" startYear="1792">1792. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00029">
+            <did>
+               <unitid>(29) </unitid>
+               <unittitle>
+                  <persname>Goujon, Alexandre, 1766-1795. </persname>A.L.s. to
+                            <persname>[Pierre François] Tissot; </persname>
+                  <geogname>Versailles, </geogname>11 Jun <unitdate calendar="gregorian" datechar="single" endYear="1794" era="ce" startYear="1794">[1794]
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00030">
+            <did>
+               <unitid>(30) </unitid>
+               <unittitle>
+                  <persname>Goujon, Alexandre, 1766-1795. </persname>MS.L.s. to
+                        [administrators, district of Mantes]; <geogname>Versailles, </geogname>18
+                        Jun <unitdate calendar="gregorian" datechar="single" endYear="1793" era="ce" startYear="1793">1793. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00031">
+            <did>
+               <unitid>(32) </unitid>
+               <unittitle>
+                  <persname>Hancock, John, 1731-1793. </persname>MS.L.s. to <persname>Samuel
+                            Holten; </persname>
+                  <geogname>Boston, </geogname>16 Mar <unitdate calendar="gregorian" datechar="single" endYear="1785" era="ce" startYear="1785">1785.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00032">
+            <did>
+               <unitid>(31) </unitid>
+               <unittitle>
+                  <persname>Hamilton, Alexander, 1757-1804. </persname>A.L.s. to
+                            <persname>Jonathan Dayton; </persname>
+                  <geogname>Philadelphia, </geogname>13 Aug <unitdate calendar="gregorian" datechar="single" endYear="1792" era="ce" startYear="1792">1792.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00033">
+            <did>
+               <unitid>(33) </unitid>
+               <unittitle>
+                  <persname>Harispe, Jean Isidore, comte, 1768-1855. </persname>A.L.s. to [];
+                            <geogname>Maulion, </geogname>11 Sep <unitdate calendar="gregorian" datechar="single" endYear="1837" era="ce" startYear="1837">1837.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>27 Dec <date calendar="gregorian" endYear="1927" era="ce" startYear="1927">1927</date>
+               </p>
+            </note>
+         </c>
+         <c id="hou01549c00034">
+            <did>
+               <unitid>(34) </unitid>
+               <unittitle>
+                  <persname>Harrison, William Henry, pres. U.S., 1773-1841. </persname>A.L.s.
+                        to <persname>J. C. Hill; </persname>
+                  <geogname>North Bend, </geogname>2 Jan <unitdate calendar="gregorian" datechar="single" endYear="1833" era="ce" startYear="1833">1833.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00035">
+            <did>
+               <unitid>(35) </unitid>
+               <unittitle>
+                  <persname>Healy, George Peter Alexander, 1813-1894. </persname>A.L.s. to
+                            <persname>Elihu Benjamin Washburne; </persname>
+                  <geogname>Paris, </geogname>17 Nov <unitdate calendar="gregorian" datechar="single" endYear="1886" era="ce" startYear="1886">1886.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00036">
+            <did>
+               <unitid>(36) </unitid>
+               <unittitle>
+                  <persname>Huntington, Samuel, 1731-1796. </persname>A.L.s. to
+                            <persname>Roger Sherman; </persname>
+                  <geogname>Norwich, </geogname>10 Jan <unitdate calendar="gregorian" datechar="single" endYear="1792" era="ce" startYear="1792">1792.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00037">
+            <did>
+               <unitid>(37) </unitid>
+               <unittitle>
+                  <persname>Jackson, Andrew, pres. U.S., 1767-1845. </persname>A.L.s. to
+                            <persname>Henry Toland; </persname>
+                  <geogname>Hermitage, </geogname>12 Sep <unitdate calendar="gregorian" datechar="single" endYear="1832" era="ce" startYear="1832">1832.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00038">
+            <did>
+               <unitid>(38) </unitid>
+               <unittitle>
+                  <persname>Jay, John, 1745-1829. </persname>MS.L.s. to <persname>Abraham Van
+                            Vechten; </persname>
+                  <geogname>New York, </geogname>9 May <unitdate calendar="gregorian" datechar="single" endYear="1796" era="ce" startYear="1796">1796.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00039">
+            <did>
+               <unitid>(39) </unitid>
+               <unittitle>
+                  <persname>Jeanbon Saint-André, André Jeanbon, called, 1749-1813.
+                        </persname>MS.L.s. to <persname>[] Vence; </persname>
+                  <geogname>Algiers, </geogname>17 Apr <unitdate calendar="gregorian" datechar="single" endYear="1798" era="ce" startYear="1798">1798.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00040">
+            <did>
+               <unitid>(40) </unitid>
+               <unittitle>
+                  <persname>Jefferson, Thomas, pres.U.S., 1743-1826. </persname>A.L.s. to
+                            <persname>Benjamin Franklin; </persname>
+                  <geogname>Paris, </geogname>6 Aug <unitdate calendar="gregorian" datechar="single" endYear="1787" era="ce" startYear="1787">1787.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00041">
+            <did>
+               <unitid>(41) </unitid>
+               <unittitle>
+                  <persname>Lafayette, Marie Joseph Paul Yves Roch Gilbert du Motier, marquis
+                            de, 1757-1834. </persname>A.L.s. to <persname>Thomas
+                            Jefferson;</persname>
+                  <geogname>La Grange, </geogname>25 Feb <unitdate calendar="gregorian" datechar="single" endYear="1814" era="ce" startYear="1814">1814.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>27 Dec <date calendar="gregorian" endYear="1927" era="ce" startYear="1927">1927</date>
+               </p>
+            </note>
+         </c>
+         <c id="hou01549c00042">
+            <did>
+               <unitid>(42) </unitid>
+               <unittitle>
+                  <persname>Lancaster, Joseph, 1778-1838. </persname>A.L.s. to <persname>[]
+                            Feuillet; </persname>
+                  <geogname>Philadelphia, </geogname>5 Apr <unitdate calendar="gregorian" datechar="single" endYear="1838" era="ce" startYear="1838">1838.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>5s.(9p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00043">
+            <did>
+               <unitid>(43) </unitid>
+               <unittitle>
+                  <persname>Lanjuinais, Jean Denis, 1753-1827. </persname>A.L.s. to
+                            <persname>[] Joubert; </persname>
+                  <geogname>Paris, </geogname>3 Ayg <unitdate calendar="gregorian" datechar="single" endYear="1815" era="ce" startYear="1815">1815.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00044">
+            <did>
+               <unitid>(44) </unitid>
+               <unittitle>
+                  <persname>Latour Maubourg, Rodolphe de Fay, vicomte de, 1787-1853.
+                        </persname>MS.L.s. to <persname>[Comte Jean Isidore] Harispe; </persname>
+                  <geogname>Madrid, </geogname>14 Apr <unitdate calendar="gregorian" datechar="single" endYear="1888" era="ce" startYear="1888">1888.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>27 Dec <date calendar="gregorian" endYear="1927" era="ce" startYear="1927">1927</date>
+               </p>
+            </note>
+         </c>
+         <c id="hou01549c00045">
+            <did>
+               <unitid>(45) </unitid>
+               <unittitle>
+                  <persname>Laurens, Henry, 1724-1792. </persname>A.L.s. to <persname>Major
+                            General Green; </persname>
+                  <geogname>York Town, </geogname>28 Apr <unitdate calendar="gregorian" datechar="single" endYear="1778" era="ce" startYear="1778">1778.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00046">
+            <did>
+               <unitid>(46) </unitid>
+               <unittitle>
+                  <persname>Livingston, Edward, 1764-1836. </persname>A.L.s. to <persname>Duke
+                            de Broglie; </persname>
+                  <geogname>Legation of U. S., </geogname>5 Oct <unitdate calendar="gregorian" datechar="single" endYear="1833" era="ce" startYear="1833">1833.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00047">
+            <did>
+               <unitid>(47) </unitid>
+               <unittitle>
+                  <persname>Lockroy, Joseph Philippe Simon, called, 1803-1891.
+                        </persname>A.L.s. to <persname>[] Rochambeau; </persname>
+                  <geogname>[Paris] </geogname>16 Sep <unitdate calendar="gregorian" datechar="single" endYear="1837" era="ce" startYear="1837">1837.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00048">
+            <did>
+               <unitid>(48) </unitid>
+               <unittitle>
+                  <persname>Magnier, Brutus. </persname>A.L.s. to <persname>[Pierre François]
+                            Tissot; </persname>
+                  <geogname>Perigeux, </geogname>[11 Apr <unitdate calendar="gregorian" datechar="single" endYear="1796" era="ce" startYear="1796">1796</unitdate>]</unittitle>
+               <physdesc>
+                  <extent>1s.(4p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00049">
+            <did>
+               <unitid>(49) </unitid>
+               <unittitle>
+                  <persname>Marat, Jean Paul, 1743-1793. </persname>A.L. (unsigned); to
+                            <persname>[] Feneau; </persname>[n.p.] 15 Feb <unitdate calendar="gregorian" datechar="single" endYear="1791" era="ce" startYear="1791">1791. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00050">
+            <did>
+               <unitid>(50) </unitid>
+               <unittitle>
+                  <persname>Menard, Pierre, 1766-1844. </persname>A.L.s. to <persname>Pierre
+                            Chauteau; </persname>
+                  <geogname>Kaskaskia, Ill., </geogname>13 Dec <unitdate calendar="gregorian" datechar="single" endYear="1834" era="ce" startYear="1834">1834.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>27 Dec <date calendar="gregorian" endYear="1927" era="ce" startYear="1927">1927</date>.</p>
+            </note>
+         </c>
+         <c id="hou01549c00051">
+            <did>
+               <unitid>(51) </unitid>
+               <unittitle>
+                  <persname>Metternich-Winneburg, Pauline (Sandor von Szlaviczna) fürstin von,
+                            1836-1921. </persname>A.L.s. to []; <geogname>[Paris, </geogname>n.d.] </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00052">
+            <did>
+               <unitid>(52) </unitid>
+               <unittitle>
+                  <persname>Mirabeau, André Boniface Louis Riquetti, vicomte de, 1754-1792. </persname>
+                  <geogname>Bataille de Fontenoy.</geogname> A.MS.(unsigned); [n.p.,
+                        n.d.]</unittitle>
+               <physdesc>
+                  <extent>1s.(2p.) </extent>Partly in another (unidentified) hand.</physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00053">
+            <did>
+               <unitid>(53) </unitid>
+               <unittitle>
+                  <persname>Monroe, James, pres.U.S., 1758-1831. </persname>A.L.s. to
+                            <persname>[George Washington]; </persname>
+                  <geogname>Fredricksburg, </geogname>15 Feb <unitdate calendar="gregorian" datechar="single" endYear="1789" era="ce" startYear="1789">1789.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00054">
+            <did>
+               <unitid>(54) </unitid>
+               <unittitle>
+                  <persname>Morris, Gouverneur, 1752-1816. </persname>MS.L.s. to
+                            <persname>Abraham Van Vechten; </persname>
+                  <geogname>Morrisania, </geogname>24 Jan <unitdate calendar="gregorian" datechar="single" endYear="1810" era="ce" startYear="1810">1810.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00055">
+            <did>
+               <unitid>(55) </unitid>
+               <unittitle>
+                  <persname>Morris, Robert, 1734-1806. </persname>A.L.s. to <persname>[Mrs
+                            Ferguson]; </persname>
+                  <geogname>Philadelphia, </geogname>12 Apr <unitdate calendar="gregorian" datechar="single" endYear="1781" era="ce" startYear="1781">1781.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00056">
+            <did>
+               <unitid>(56) </unitid>
+               <unittitle>
+                  <persname>Newman, John Henry, cardinal, 1801-1890. </persname>A.L.s. to
+                            <persname>Lord Coleridge; </persname>
+                  <geogname>The Oratory, </geogname>2 Apr <unitdate calendar="gregorian" datechar="single" endYear="1880" era="ce" startYear="1880">1880.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(4p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00057">
+            <did>
+               <unitid>(57) </unitid>
+               <unittitle>
+                  <corpname>Paris. Commune, 1871-1872. </corpname>Documents.</unittitle>
+               <physdesc>
+                  <extent>11 pieces.</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00058">
+            <did>
+               <unitid>(58) </unitid>
+               <unittitle>
+                  <persname>Prévost-Paradol, Lucien Anatole Prévost, called, 1820-1870.
+                        </persname>A.L.s. to <persname>[Elihu Benjamin] Washburne; </persname>[n.p.]
+                        11 <unitdate calendar="gregorian" endYear="1870" era="ce" startYear="1870">[1870</unitdate>]</unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00059">
+            <did>
+               <unitid>(59) </unitid>
+               <unittitle>
+                  <persname>Ramsay, David, 1749-1815. </persname>A.L.s. to <persname>John
+                            Witherspoon; </persname>
+                  <geogname>Charleston, </geogname>28 Feb <unitdate calendar="gregorian" datechar="single" endYear="1785" era="ce" startYear="1785">1785.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00060">
+            <did>
+               <unitid>(60) </unitid>
+               <unittitle>
+                  <persname>Rochambeau, Jean Baptiste Donatien de Vimeur, comte de, 1725-1807.
+                        </persname>A.L.s. to <persname>[Comte Dominique Joseph] Garat; </persname>
+                  <geogname>Rochambeau </geogname>[27 Oct <unitdate calendar="gregorian" datechar="single" endYear="1804" era="ce" startYear="1804">1804
+                        </unitdate>]</unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00061">
+            <did>
+               <unitid>(61) </unitid>
+               <unittitle>
+                  <persname>Romme, Gilbert, 1750-1795. </persname>MS.L.s. to <persname>[]
+                            Cailhava; </persname>
+                  <geogname>Paris, </geogname>5 May <unitdate calendar="gregorian" datechar="single" endYear="1792" era="ce" startYear="1792">1792.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00062">
+            <did>
+               <unitid>(62) </unitid>
+               <unittitle>
+                  <persname>Romme, Gilbert, 1750-1795. </persname>A.L. (3d person) to
+                            <persname>[] Dantic; </persname>
+                  <geogname>Paris, </geogname>27 May <unitdate calendar="gregorian" datechar="single" endYear="1790" era="ce" startYear="1790">1790.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>27 Dec <date calendar="gregorian" endYear="1927" era="ce" startYear="1927">1927.</date>
+               </p>
+            </note>
+         </c>
+         <c id="hou01549c00063">
+            <did>
+               <unitid>(63) </unitid>
+               <unittitle>
+                  <persname>Rouget de Lisle, Joseph, 1760-1836. </persname>A.L.s. to
+                            <persname>[] Perregay; </persname>
+                  <geogname>[Paris, </geogname>22 Jun <unitdate calendar="gregorian" datechar="single" endYear="1800" era="ce" startYear="1800">1800]
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00064">
+            <did>
+               <unitid>(64) </unitid>
+               <unittitle>
+                  <persname>Rush, Benjamin, 1745-1813. </persname>A.L.s. to <persname>David
+                            Hosack; </persname>
+                  <geogname>Philadelphia, </geogname>7 Jun <unitdate calendar="gregorian" datechar="single" endYear="1809" era="ce" startYear="1809">1809.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00065">
+            <did>
+               <unitid>(65) </unitid>
+               <unittitle>
+                  <persname>Van Buren, Martin, pres.U.S., 1782-1862. </persname>A.L.s. to
+                            <persname>Major Worthen; </persname>
+                  <geogname>Washington, </geogname>3 Mar <unitdate calendar="gregorian" datechar="single" endYear="1822" era="ce" startYear="1822">1822.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00066">
+            <did>
+               <unitid>(66) </unitid>
+               <unittitle>
+                  <persname>Rutledge, John, 1739-1800. </persname>A.L.s. to [.]; [n.p.] 8 Apr
+                            <unitdate calendar="gregorian" datechar="single" endYear="1780" era="ce" startYear="1780">1780. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00067">
+            <did>
+               <unitid>(67) </unitid>
+               <unittitle>
+                  <persname>Stevens, Benjamin Franklin, 1824-1908. </persname>4 A.L.s. &amp; 1
+                        telegram to <persname>[Mrs Elihu Benjamin] Washburne:</persname>
+               </unittitle>
+            </did>
+            <note>
+               <p>
+                  <list>
+                     <item>
+                        <geogname>London, </geogname>29 Nov <date calendar="gregorian" endYear="1870" era="ce" startYear="1870">1870. </date>1s.(2p.)
+                                env. </item>
+                     <item>Same, 14 Dec <date calendar="gregorian" endYear="1870" era="ce" startYear="1870">1870. </date>1s.(1p.) telegram </item>
+                     <item>Same, 14 Dec <date calendar="gregorian" endYear="1870" era="ce" startYear="1870">1870. </date>1s.(2p.) </item>
+                     <item>Same, 15 Dec <date calendar="gregorian" endYear="1870" era="ce" startYear="1870">1870. </date>1s.(2p.) env. </item>
+                     <item>Same, 8 Feb <date calendar="gregorian" endYear="1871" era="ce" startYear="1871">1871. </date>1s.(2p.)</item>
+                  </list>
+               </p>
+            </note>
+         </c>
+         <c id="hou01549c00068">
+            <did>
+               <unitid>(68) </unitid>
+               <unittitle>
+                  <persname>Tissot, Pierre François, 1768-1854. </persname>A.L.s. to
+                            <persname>[] Richaud; </persname>
+                  <geogname>Paris, </geogname>[30 May <unitdate calendar="gregorian" datechar="single" endYear="1795" era="ce" startYear="1795">1795]
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(4p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00069">
+            <did>
+               <unitid>(69) </unitid>
+               <unittitle>
+                  <persname>Tissot, Pierre François, 1768-1854. </persname>[Vie de Alexandre
+                        Goujon] A.MS. (unsigned); [n.p.,n.d.]</unittitle>
+               <physdesc>
+                  <extent>3s.(10p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00070">
+            <did>
+               <unitid>(70) </unitid>
+               <unittitle>U.S. Army. Northern Virginia. MS. agreements. (John Gibbon &amp; 5
+                        others); Appomattox Court House, 10 Apr <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>Re surrender of army of Northern Virginia to U.S. authorities.</p>
+            </note>
+         </c>
+         <c id="hou01549c00071">
+            <did>
+               <unitid>(71) </unitid>
+               <unittitle>
+                  <persname>Washburne, Elihu Benjamin, 1816-1887. </persname>[Fragment of
+                        essay on the administration of President Andrew Johnson] A.MS. (unsigned);
+                        [n.p.,n.d.] </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00072">
+            <did>
+               <unitid>(72) </unitid>
+               <unittitle>
+                  <persname>Washington, George, pres.U.S., 1732-1799. </persname>[Notes on
+                        agriculture] A.MS. (unsigned); [n.p.,n.d.] </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>P.11-12 from a notebook, containing abstracts from ch.9-10 of unidentified
+                        work.</p>
+            </note>
+         </c>
+         <c id="hou01549c00073">
+            <did>
+               <unitid>(73) </unitid>
+               <unittitle>
+                  <persname>Washington, George, pres.U.S., 1732-1799. </persname>A.L.s. to
+                            <persname>Matthew Carey; </persname>
+                  <geogname>New York, </geogname>22 May <unitdate calendar="gregorian" datechar="single" endYear="1789" era="ce" startYear="1789">1789.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00074">
+            <did>
+               <unitid>(74) </unitid>
+               <unittitle>
+                  <persname>Webster, Daniel, 1782-1852. </persname>A.L.s. to <persname>James
+                            McFarlane Mathews; </persname>
+                  <geogname>Washington, </geogname>22 Feb <unitdate calendar="gregorian" datechar="single" endYear="1831" era="ce" startYear="1831">1831.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(1p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01549c00075">
+            <did>
+               <unitid>(75) </unitid>
+               <unittitle>
+                  <persname>Wolcott, Oliver, 1726-1797. </persname>A.L.s. to <persname>Samuel
+                            Lyman; </persname>
+                  <geogname>Philadelphia, </geogname>26 Feb <unitdate calendar="gregorian" datechar="single" endYear="1781" era="ce" startYear="1781">1781.
+                        </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>27 Feb <date calendar="gregorian" endYear="1927" era="ce" startYear="1927">1927</date>
+               </p>
+               <p>
+                  <num>r.f. X5.13F*</num>
+               </p>
+            </note>
+         </c>
+         <c id="hou01549c00076">
+            <did>
+               <unitid>(76) </unitid>
+               <unittitle>
+                  <persname>Ysabeau, Claude Alexandre, 1754-1831. </persname>A.L.s. to
+                            <persname>[Pierre François] Tissot; </persname>[n.p.] 5 Jun <unitdate calendar="gregorian" datechar="single" endYear="1811" era="ce" startYear="1811">1811. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

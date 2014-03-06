@@ -1,0 +1,2680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" fileSize="142848" maxcomponentid="105" xsi:noNamespaceSchemaLocation="http://hul.harvard.edu/ois/xml/xsd/oasis/ead2002/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid identifier="009596857">hou01534</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Dickinson, Emily, 1830-1886. Emily Dickinson letters to Josiah Gilbert Holland and Elizabeth Chapin Holland, ca. 1853-1886 (MS Am 1118.2): Guide.</titleproper>
+         </titlestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>
+            <date calendar="gregorian" era="ce">04/05/2005 </date>Pacific Data Services
+            </creation>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date calendar="gregorian" era="ce" normal="20131107">11/07/2013</date>
+            <item>Loaded into OASIS</item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce">04/06/2005</date>
+            <item>
+               <name>Diane Booton </name>
+            </item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce">June 8, 2006</date>
+            <item>hou01534 converted by Harvard University Library OIS from EAD 1.0 to 2002 by
+                    v1to02.xsl (sy2006-06-08).</item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce">04/26/2007</date>
+            <item>
+               <name>Melanie Wisner </name>inserted link to PDS object from (17a)</item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce">01/22/2010</date>
+            <item>
+               <name>AH</name>added digital links</item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce">10/25/2012</date>
+            <item>
+               <name>Emilie Hardman </name>added digital links</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <num>MS Am 1118.2 </num>
+         <titleproper>Dickinson, Emily, 1830-1886. Emily Dickinson letters to Josiah Gilbert
+                Holland and Elizabeth Chapin Holland, ca. 1853-1886: Guide. </titleproper>
+         <author>Houghton Library, Harvard College Library </author>
+         <p>
+            <extptr xlink:href="http://nrs.harvard.edu/urn-3:HUL.OIS:fas_shield" xlink:type="simple" />
+         </p>
+         <publisher>Harvard University, Cambridge, Massachusetts 02138 USA </publisher>
+         <p>© 2005 The President and Fellows of Harvard College </p>
+         <edition>Last update on 2013 October 28  </edition>
+      </titlepage>
+   </frontmatter>
+   <archdesc level="collection">
+      <did>
+         <repository>Houghton Library, Harvard College Library, Harvard University </repository>
+         <physloc>Box 1 (Dickinson Room) </physloc>
+         <physloc>Box 2 (Manuscript stacks) </physloc>
+         <unitid>MS Am 1118.2 </unitid>
+         <origination label="creator">
+            <persname>Dickinson, Emily, 1830-1886.
+                </persname>
+         </origination>
+         <unittitle>Emily Dickinson letters to Josiah Gilbert Holland and Elizabeth Chapin
+                Holland, </unittitle>
+         <unitdate calendar="gregorian" endYear="1886" era="ce" startYear="1853" type="inclusive">ca. 1853-1886. </unitdate>
+         <physdesc>
+            <extent>2 boxes (1 linear ft.) </extent>
+         </physdesc>
+         <langmaterial>Collection materials are in <language langcode="eng">English.
+                </language>
+         </langmaterial>
+         <abstract>Letters and poems by the American poet Emily Dickinson sent to her friends,
+                Mr. and Mrs. Josiah Holland. </abstract>
+      </did>
+      <processinfo>
+         <p>The typed copies of letters in this collection, with the exception of nos. 30 and 62,
+                were made by Mrs. Theodora Ward from the 1931 edition of<emph render="italic">
+                    Letters of Emily Dickinson</emph>, edited by Mabel Loomis Todd. The originals of
+                these published letters seem to have been destroyed. The original of no. 30 belongs
+                to Josiah Gilbert Holland, 3d.; the original of no. 62 belongs to Alison Howe
+                Yaeger.</p>
+         <p>In November, 1954, Mrs. Walter Bingham found among the Dickinson papers four
+                additional MSS. belonging to the Holland family. These she returned to Mrs Ward, who
+                presented them to Harvard. They were accessioned under no. *54M-116, and then added
+                to the series as nos. 96-99.</p>
+      </processinfo>
+      <acqinfo>
+         <p>
+            <num>49M-248, 54M-116. </num>Gift of <persname role="Donor">Mrs. Theodora V. W. Ward,
+                </persname>32 Healey Street, Cambridge 38, Mass.; received: <date calendar="gregorian" era="ce">1950 </date>June 8. </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>Access to the originals requires the permission of the curator. </p>
+      </accessrestrict>
+      <userestrict>
+         <p>Images linked to this finding aid are intended for public access and educational use.
+                This material is owned and/or held by the Houghton Library, and is provided solely
+                for the purpose of teaching or individual research. Any other use, including
+                commercial reuse, mounting on other systems, or other forms of redistribution
+                requires the permission of the curator. </p>
+      </userestrict>
+      <altformavail>
+         <p>Readers are expected to use the facsimiles available. </p>
+      </altformavail>
+      <userestrict>
+         <head>Copyright: </head>
+         <p>For permission to quote from or reproduce from manuscript material of Dickinson,
+                contact the Curator of Modern Books and Manuscripts, Houghton Library. For
+                permission to quote from published editions of Dickinson's work that are still in
+                copyright (such as the Johnson and Franklin editions of the poems) and for all
+                commercial uses of Emily Dickinson texts, write to the Permissions Department,
+                Harvard University Press, 79 Garden St., Cambridge, Massachusetts, USA, 02138-1499
+                or use their online form (HUP does not accept permissions requests by email or fax):
+                    <extref xlink:href="http://www.hup.harvard.edu/rights/permissions.html" xlink:type="simple">http://www.hup.harvard.edu/rights/permissions.html</extref>
+         </p>
+      </userestrict>
+      <prefercite>
+         <head>Preferred Citation for Publication: </head>
+         <p>Emily Dickinson Letters to Josiah Gilbert Holland and Elizabeth Chapin Holland, ca.
+                1853-1886 (MS Am 1118.2). Houghton Library, Harvard University. </p>
+      </prefercite>
+      <bioghist>
+         <p>Dickinson was an American poet. Josiah Gilbert Holland, assistant of Samuel Bowles of
+                the <emph render="italic">Springfield Republican</emph>, and his wife Elizabeth were
+                family friends.</p>
+      </bioghist>
+      <arrangement>
+         <p>Arranged chronologically. </p>
+      </arrangement>
+      <scopecontent>
+         <p>Typescript copies of letters, frequently accompanied by her poems, to Dr. and Mrs.
+                Josiah Holland. </p>
+      </scopecontent>
+      <bibliography>
+         <p>References included in the notes include: </p>
+         <list>
+            <item>
+               <bibref xlink:href="" xlink:type="simple">F = Franklin, R. W. <emph render="italic">The poems of Emily Dickinson</emph>. Cambridge, Mass.:
+                        Belknap Press of Harvard University Press, 1998. </bibref>
+            </item>
+            <item>
+               <bibref xlink:href="" xlink:type="simple">J = Johnson, Thomas, ed. <emph render="italic">The complete poems of Emily Dickinson : including
+                            variant readings critically compared with all known manuscripts</emph>.
+                        Cambridge, Mass. : Belknap Press of Harvard University Press, 1955.
+                    </bibref>
+            </item>
+            <item>
+               <bibref xlink:href="" xlink:type="simple">JL = Johnson, Thomas, ed. <emph render="italic">The letters of Emily Dickinson</emph>. Cambridge, Mass.:
+                        Belknap Press of Harvard University Press, 1958. </bibref>
+            </item>
+         </list>
+      </bibliography>
+      <dsc type="in-depth">
+         <c id="hou01534c00001">
+            <did>
+               <unitid>(1) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Josiah Gilbert] Holland, </persname>
+                  <persname>[Elizabeth
+                            (Chapin)] Holland, </persname>and "Minnie" [i.e. <persname>Amelia
+                            (Chapin) May</persname>]; [<geogname>Amherst, </geogname>autumn
+                            <unitdate calendar="gregorian" datechar="single" endYear="1853" era="ce" startYear="1853">1853</unitdate>?] </unittitle>
+               <physdesc>
+                  <extent>2s. (2p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768955" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 133</p>
+            </note>
+         </c>
+         <c id="hou01534c00002">
+            <did>
+               <unitid>(2) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                                [same]; [<geogname>Amherst</geogname>] 2 Jan [<unitdate calendar="gregorian" datechar="single" endYear="1854" era="ce" startYear="1854">1854</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768965" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 149</p>
+            </note>
+         </c>
+         <c id="hou01534c00003">
+            <did>
+               <unitid>(3) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                        [same]; [<geogname>Amherst, </geogname>winter <unitdate calendar="gregorian" endYear="1855" era="ce" startYear="1854" type="inclusive">1854-1855</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (2p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768969" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>With this is a T. MS. (copy) poem beginning: <title xlink:href="" xlink:type="simple">Truth is as old as God.</title>
+               </p>
+               <p>J 847, Fr 795</p>
+            </note>
+         </c>
+         <c id="hou01534c00004">
+            <did>
+               <unitid>(4) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Elizabeth (Chapin)] Holland, </persname>
+                  <persname>[Josiah
+                            Gilbert] Holland, </persname>and "Minnie" [i.e. <persname>Amelia
+                            (Chapin) May</persname>]; <geogname>Philadelphia </geogname>[May
+                            <unitdate calendar="gregorian" datechar="single" endYear="1854" era="ce" startYear="1854">1854</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (2p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768972" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 179</p>
+            </note>
+         </c>
+         <c id="hou01534c00005">
+            <did>
+               <unitid>(5) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Elizabeth (Chapin)] Holland; </persname>[<geogname>Amherst,
+                            </geogname>Sept <unitdate calendar="gregorian" datechar="single" endYear="1854" era="ce" startYear="1854">1854</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (2p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768974" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 174</p>
+            </note>
+         </c>
+         <c id="hou01534c00006">
+            <did>
+               <unitid>(6) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Josiah Gilbert] Holland; </persname>[<geogname>Amherst,
+                            </geogname>Nov <unitdate calendar="gregorian" datechar="single" endYear="1854" era="ce" startYear="1854">1854</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768975" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 181</p>
+            </note>
+         </c>
+         <c id="hou01534c00007">
+            <did>
+               <unitid>(7) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Elizabeth (Chapin)] Holland; </persname>[<geogname>Amherst,
+                            </geogname>20? Jan <unitdate calendar="gregorian" datechar="single" endYear="1856" era="ce" startYear="1856">1856</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (2p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768982" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 182</p>
+            </note>
+         </c>
+         <c id="hou01534c00008">
+            <did>
+               <unitid>(8) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                                same; [<geogname>Amherst, </geogname>summer <unitdate calendar="gregorian" datechar="single" endYear="1856" era="ce" startYear="1856">1856</unitdate>?] </unittitle>
+               <physdesc>
+                  <extent>2s. (2p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768983" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 185</p>
+            </note>
+         </c>
+         <c id="hou01534c00009">
+            <did>
+               <unitid>(9) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Josiah Gilbert] Holland </persname>and <persname>[Elizabeth
+                            (Chapin)] Holland; </persname>[<geogname>Amherst, </geogname>Nov
+                                    <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768984" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 195</p>
+            </note>
+         </c>
+         <c id="hou01534c00010">
+            <did>
+               <unitid>(10) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Elizabeth (Chapin)] Holland; </persname>[<geogname>Amherst,
+                            </geogname>Mar <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (2p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768956" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 202</p>
+            </note>
+         </c>
+         <c id="hou01534c00011">
+            <did>
+               <unitid>(11) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Josiah Gilbert] Holland </persname>and <persname>[Elizabeth
+                            (Chapin)] Holland; </persname>[<geogname>Amherst, </geogname>summer
+                                <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859</unitdate>?] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768957" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 269</p>
+            </note>
+         </c>
+         <c id="hou01534c00012">
+            <did>
+               <unitid>(12) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Josiah Gilbert] Holland </persname>and <persname>[Elizabeth
+                            (Chapin)] Holland; </persname>[<geogname>Amherst, </geogname>Sept
+                                    <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (2p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768958" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 207</p>
+            </note>
+         </c>
+         <c id="hou01534c00013">
+            <did>
+               <unitid>(13) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Elizabeth (Chapin)] Holland; </persname>[<geogname>Amherst,
+                            </geogname>8? Dec <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768959" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 210</p>
+            </note>
+         </c>
+         <c id="hou01534c00014">
+            <did>
+               <unitid>(14) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Lavinia, 1833-1899. </persname>A.L.s. to same;
+                            [<geogname>Amherst, </geogname>Dec <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592568" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+         </c>
+         <c id="hou01534c00015">
+            <did>
+               <unitid>(15) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to [ ];
+                                [<geogname>Amherst, </geogname>Dec <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859</unitdate>?] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768960" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 211</p>
+            </note>
+         </c>
+         <c id="hou01534c00016">
+            <did>
+               <unitid>(16) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            <persname>[Elizabeth (Chapin) Holland]; </persname>[<geogname>Amherst,
+                            </geogname>Mar <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592569" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 204, HCL (H16)</p>
+            </note>
+         </c>
+         <c id="hou01534c00017">
+            <did>
+               <unitid>(17) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                                [same]; [<geogname>Amherst, </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768961" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 227</p>
+            </note>
+         </c>
+         <c id="hou01534c00018">
+            <did>
+               <unitid>(17a) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>
+                  <title xlink:href="" xlink:type="simple">Baffled for just a day or two</title>
+                        [first line] A.MS.s.; [<geogname>Amherst, </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:1121651" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>With rose-bud attached.</p>
+               <p>J 110, Fr 66</p>
+               <p>Bequest of Theodora V. W. Ward, 1974. [Note: This one manuscript was to
+                        remain the property of <persname>Mrs. Theodora V. W. Ward </persname>during
+                        her lifetime, and was merely on deposit in the Library. At her death it
+                        become the property of the Library]. </p>
+            </note>
+         </c>
+         <c id="hou01534c00019">
+            <did>
+               <unitid>(17b) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] [2 poems: <title xlink:href="" xlink:type="simple">Away from home are some and I,</title>
+                        [first line] and: <title xlink:href="" xlink:type="simple">Though my destiny
+                            be fustian</title> [first line]] TS. (copy); [<geogname>Boston?
+                        </geogname>and <geogname>Amherst? </geogname> ca. <unitdate calendar="gregorian" endYear="1869" era="ce" startYear="1860">1860-1869</unitdate>?] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768962" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>J 865, Fr 807; J 123, Fr 131</p>
+            </note>
+         </c>
+         <c id="hou01534c00020">
+            <did>
+               <unitid>(18) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                            <persname>[Elizabeth (Chapin) Holland]; </persname>[<geogname>Amherst,
+                            </geogname>early Nov <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768963" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 311</p>
+            </note>
+         </c>
+         <c id="hou01534c00021">
+            <did>
+               <unitid>(19) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] T.L. (copy) to
+                        [same]; [<geogname>Amherst, </geogname>late <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865</unitdate>?] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768964" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">Not all die
+                            early, dying young.</title>
+               </p>
+               <p>J 867, Fr 937</p>
+            </note>
+         </c>
+         <c id="hou01534c00022">
+            <did>
+               <unitid>(20) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                                [same]; [<geogname>Amherst, </geogname>Mar <unitdate calendar="gregorian" datechar="single" endYear="1866" era="ce" startYear="1866">1866</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768966" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 315</p>
+            </note>
+         </c>
+         <c id="hou01534c00023">
+            <did>
+               <unitid>(21) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                        [same]; [<geogname>Amherst, </geogname>early May <unitdate calendar="gregorian" datechar="single" endYear="1866" era="ce" startYear="1866">1866</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (2p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768967" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes a T.MS (copy) poem beginning: <title xlink:href="" xlink:type="simple">Count not that far that can be had.</title>
+               </p>
+               <p>J 1185, Fr 1124</p>
+            </note>
+         </c>
+         <c id="hou01534c00024">
+            <did>
+               <unitid>(22) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Lavinia, 1833-1899. </persname>A.L.s. to
+                            [<persname>Josiah Gilbert Holland </persname>and <persname>Elizabeth
+                            (Chapin) Holland</persname>]; [<geogname>Amherst, </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1866" era="ce" startYear="1866">ca. 1866</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592570" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+         </c>
+         <c id="hou01534c00025">
+            <did>
+               <unitid>(23) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] T.L. (copy) to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                            </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1867" era="ce" startYear="1867">ca. 1867</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768968" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 321</p>
+            </note>
+         </c>
+         <c id="hou01534c00026">
+            <did>
+               <unitid>(24) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                            [<geogname>Amherst, </geogname>Oct <unitdate calendar="gregorian" datechar="single" endYear="1870" era="ce" startYear="1870">1870</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (6p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592571" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">The life we
+                                have is very great.</title>
+               </p>
+               <p>L354, HCL (H24), J 1168, Fr 1178</p>
+            </note>
+         </c>
+         <c id="hou01534c00027">
+            <did>
+               <unitid>(25) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] A.L. (unsigned) to
+                                    [same?]; [<geogname>Amherst, </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1870" era="ce" startYear="1870">1870?</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592572" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 351 HCL (H25)</p>
+            </note>
+         </c>
+         <c id="hou01534c00028">
+            <did>
+               <unitid>(26) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                        [<geogname>Amherst, </geogname>spring <unitdate calendar="gregorian" datechar="single" endYear="1871" era="ce" startYear="1871">1871</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592573" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 359 HCL (H26)</p>
+            </note>
+         </c>
+         <c id="hou01534c00029">
+            <did>
+               <unitid>(27) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                            [<geogname>Amherst, </geogname>late Nov <unitdate calendar="gregorian" datechar="single" endYear="1871" era="ce" startYear="1871">1871</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592574" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 369 HCL (H27)</p>
+            </note>
+         </c>
+         <c id="hou01534c00030">
+            <did>
+               <unitid>(28) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                                [<geogname>Amherst, </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1872" era="ce" startYear="1872">1872</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592575" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 370 HCL (H28)</p>
+            </note>
+         </c>
+         <c id="hou01534c00031">
+            <did>
+               <unitid>(29) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                                    [<geogname>Amherst, </geogname>Aug <unitdate calendar="gregorian" datechar="single" endYear="1872" era="ce" startYear="1872">1872</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592576" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 377 HCL (H29)</p>
+            </note>
+         </c>
+         <c id="hou01534c00032">
+            <did>
+               <unitid>(30) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                        [same]; [<geogname>Amherst, </geogname>early summer <unitdate calendar="gregorian" datechar="single" endYear="1873" era="ce" startYear="1873">1873</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768970" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes a T. MS. (copy) poem beginning: <title xlink:href="" xlink:type="simple">The most triumphant Bird.</title>
+               </p>
+               <p>J 1283, Fr 1285</p>
+            </note>
+         </c>
+         <c id="hou01534c00033">
+            <did>
+               <unitid>(31) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                            [<geogname>Amherst, </geogname>Sep? <unitdate calendar="gregorian" datechar="single" endYear="1873" era="ce" startYear="1873">1873</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592577" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL395 HCL (H31)</p>
+            </note>
+         </c>
+         <c id="hou01534c00034">
+            <did>
+               <unitid>(32) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                [<geogname>Amherst, </geogname>autumn <unitdate calendar="gregorian" datechar="single" endYear="1873" era="ce" startYear="1873">1873</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592578" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 399 HCL (H32)</p>
+            </note>
+         </c>
+         <c id="hou01534c00035">
+            <did>
+               <unitid>(32a) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>
+                  <title xlink:href="" xlink:type="simple">Longing is like the seed</title>
+                        [first line] A.MS.s.; [<geogname>Amherst, </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1873" era="ce" startYear="1873">1873</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (2p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592579" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>J 1350, Fr 1298</p>
+            </note>
+         </c>
+         <c id="hou01534c00036">
+            <did>
+               <unitid>(33) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                            </geogname>May <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (6p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592580" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 412, HCL (H33)</p>
+            </note>
+         </c>
+         <c id="hou01534c00037">
+            <did>
+               <unitid>(33a) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] <title xlink:href="" xlink:type="simple">When memory is full</title> [first
+                        line] A.MS. (unsigned); [<geogname>Amherst, </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+               <note>
+                  <p>J 1228, Fr 1301</p>
+               </note>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592581" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+         </c>
+         <c id="hou01534c00038">
+            <did>
+               <unitid>(34) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                            </geogname>late Jan <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (8p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592582" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 432, HCL (H34)</p>
+            </note>
+         </c>
+         <c id="hou01534c00039">
+            <did>
+               <unitid>(35) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                            </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (2p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592583" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p> L439, HCL (H35); p. 3: J1336, Fr1371</p>
+            </note>
+         </c>
+         <c id="hou01534c00040">
+            <did>
+               <unitid>(35a) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>[2 poems: <title xlink:href="" xlink:type="simple">Summer laid her simple hat</title>
+                        [first line] and: <title xlink:href="" xlink:type="simple">She laid her
+                            docile crescent down</title> [first line]] A.MSS.s.; [<geogname>Amherst,
+                            </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <note>
+               <p>J 1421, Fr 1411; J 1514, Fr 1453</p>
+            </note>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592584" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592585" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+         </c>
+         <c id="hou01534c00041">
+            <did>
+               <unitid>(36) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            <persname>[Elizabeth (Chapin)] Holland; </persname>[<geogname>Amherst,
+                            </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1876" era="ce" startYear="1876">1876</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592586" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 475, HCL (H36)</p>
+            </note>
+         </c>
+         <c id="hou01534c00042">
+            <did>
+               <unitid>(36a) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>
+                  <title xlink:href="" xlink:type="simple">No passenger was known to flee</title>
+                        [first line] A.MS.s.; [<geogname>Amherst, </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1876" era="ce" startYear="1876">1876</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592587" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>J 1475, Fr 1451</p>
+            </note>
+         </c>
+         <c id="hou01534c00043">
+            <did>
+               <unitid>(37) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] T.L. (copy) to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                            </geogname>Aug <unitdate calendar="gregorian" datechar="single" endYear="1876" era="ce" startYear="1876">1876</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768971" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 473</p>
+            </note>
+         </c>
+         <c id="hou01534c00044">
+            <did>
+               <unitid>(38) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                [<geogname>Amherst, </geogname>winter <unitdate calendar="gregorian" endYear="1877" era="ce" startYear="1876" type="inclusive">1876-1877</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592588" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 487, HCL (H38)</p>
+            </note>
+         </c>
+         <c id="hou01534c00045">
+            <did>
+               <unitid>(39) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                            [<geogname>Amherst, </geogname>winter <unitdate calendar="gregorian" endYear="1877" era="ce" startYear="1876" type="inclusive">1876-1877</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592589" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">"Tomorrow,"
+                                whose location.</title>
+               </p>
+               <p>JL 490, HCL (H39); J1440, Fr1417</p>
+            </note>
+         </c>
+         <c id="hou01534c00046">
+            <did>
+               <unitid>(40) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] A.L. (unsigned) to
+                                    [same]; [<geogname>Amherst, </geogname>winter <unitdate calendar="gregorian" endYear="1877" era="ce" startYear="1876" type="inclusive">1876-1877</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592590" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 481, HCL (H40)</p>
+            </note>
+         </c>
+         <c id="hou01534c00047">
+            <did>
+               <unitid>(41) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                        [<geogname>Amherst, </geogname>early spring <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (6p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592591" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 492, HCL (H41)</p>
+            </note>
+         </c>
+         <c id="hou01534c00048">
+            <did>
+               <unitid>(42) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                            [<geogname>Amherst, </geogname>late May <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (6p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592592" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">Bees are
+                                Black with Gilt Surcingles.</title>
+               </p>
+               <p>JL502, HCL (H42); p. 5-6: J 1444, Fr 1426</p>
+            </note>
+         </c>
+         <c id="hou01534c00049">
+            <did>
+               <unitid>(43) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] A.L. (unsigned) to
+                                    [same]; [<geogname>Amherst, </geogname>early autumn <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592593" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 521, HCL (H43)</p>
+            </note>
+         </c>
+         <c id="hou01534c00050">
+            <did>
+               <unitid>(44) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                        [<geogname>Amherst, </geogname>early Jan <unitdate calendar="gregorian" datechar="single" endYear="1878" era="ce" startYear="1878">1878</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592594" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 525, HCL (H44)</p>
+            </note>
+         </c>
+         <c id="hou01534c00051">
+            <did>
+               <unitid>(45) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                            [<geogname>Amherst, </geogname>early <unitdate calendar="gregorian" datechar="single" endYear="1878" era="ce" startYear="1878">1878</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (6p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592595" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 542, HCL (H45)</p>
+            </note>
+         </c>
+         <c id="hou01534c00052">
+            <did>
+               <unitid>(46) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Josiah Gilbert Holland</persname>]; [<geogname>Amherst,
+                        </geogname>early <unitdate calendar="gregorian" datechar="single" endYear="1878" era="ce" startYear="1878">1878</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592596" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">These held
+                            their Wick above the west.</title>
+               </p>
+               <p>JL 544, HCL (H46); p. 3-4: J 1365, Fr 1416</p>
+            </note>
+         </c>
+         <c id="hou01534c00053">
+            <did>
+               <unitid>(47) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                            </geogname>Mar <unitdate calendar="gregorian" datechar="single" endYear="1878" era="ce" startYear="1878">1878</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592597" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 547, HCL (H47)</p>
+            </note>
+         </c>
+         <c id="hou01534c00054">
+            <did>
+               <unitid>(48) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                                [same]; [<geogname>Amherst, </geogname>spring <unitdate calendar="gregorian" datechar="single" endYear="1878" era="ce" startYear="1878">1878</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768973" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 555, HCL (H49)</p>
+            </note>
+         </c>
+         <c id="hou01534c00055">
+            <did>
+               <unitid>(49) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                    [<geogname>Amherst, </geogname>Jun <unitdate calendar="gregorian" datechar="single" endYear="1878" era="ce" startYear="1878">1878</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (6p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592598" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 555, HCL (H49)</p>
+            </note>
+         </c>
+         <c id="hou01534c00056">
+            <did>
+               <unitid>(50) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                        [<geogname>Amherst, </geogname>mid-Jan <unitdate calendar="gregorian" datechar="single" endYear="1879" era="ce" startYear="1879">1879</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592599" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 589, HCL (H50)</p>
+            </note>
+         </c>
+         <c id="hou01534c00057">
+            <did>
+               <unitid>(51) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] A.L.s. to [same];
+                                            [<geogname>Amherst, </geogname>Oct <unitdate calendar="gregorian" datechar="single" endYear="1879" era="ce" startYear="1879">1879</unitdate>?] </unittitle>
+               <physdesc>
+                  <extent>3s. (6p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592600" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 619, HCL (H51)</p>
+            </note>
+         </c>
+         <c id="hou01534c00058">
+            <did>
+               <unitid>(52) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] A.L. (unsigned) to
+                        [same]; [<geogname>Amherst</geogname>] 4, 15 Jul [<unitdate calendar="gregorian" datechar="single" endYear="1880" era="ce" startYear="1880">1880</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (6p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592601" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">The Road to
+                            Paradise is plain.</title>
+               </p>
+               <p>JL 650, HCL (H52): p.5, 7: J1571, Fr1525</p>
+            </note>
+         </c>
+         <c id="hou01534c00059">
+            <did>
+               <unitid>(53) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                [<geogname>Amherst, </geogname>Sep <unitdate calendar="gregorian" datechar="single" endYear="1880" era="ce" startYear="1880">1880</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592602" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 667, HCL (H53)</p>
+            </note>
+         </c>
+         <c id="hou01534c00060">
+            <did>
+               <unitid>(54) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                    [<geogname>Amherst, </geogname>5? Dec <unitdate calendar="gregorian" datechar="single" endYear="1880" era="ce" startYear="1880">1880</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592603" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 678, HCL (H54)</p>
+            </note>
+         </c>
+         <c id="hou01534c00061">
+            <did>
+               <unitid>(55) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                        [<geogname>Amherst, </geogname>28 Dec <unitdate calendar="gregorian" datechar="single" endYear="1880" era="ce" startYear="1880">1880</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592604" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 683, HCL (H55)</p>
+            </note>
+         </c>
+         <c id="hou01534c00062">
+            <did>
+               <unitid>(56) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                            [<geogname>Amherst, </geogname>Jan <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592605" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 685, HCL (H56)</p>
+            </note>
+         </c>
+         <c id="hou01534c00063">
+            <did>
+               <unitid>(57) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] A.L. (unsigned) to
+                                                [same]; [<geogname>Amherst, </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592606" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 687, HCL (H57)</p>
+            </note>
+         </c>
+         <c id="hou01534c00064">
+            <did>
+               <unitid>(58) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Josiah Gilbert Holland</persname>]; [<geogname>Amherst,
+                            </geogname>early <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592607" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 715, HCL (H58)</p>
+            </note>
+         </c>
+         <c id="hou01534c00065">
+            <did>
+               <unitid>(59) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                        </geogname>late Mar <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:3535515" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital images</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Color digital facsimile available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">An
+                            Antiquated tree.</title>
+               </p>
+               <p>J 1514, Fr 1544</p>
+            </note>
+         </c>
+         <c id="hou01534c00066">
+            <did>
+               <unitid>(60) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] A.L. (unsigned) to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                            </geogname>spring <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592608" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 692, HCL (H60)</p>
+            </note>
+         </c>
+         <c id="hou01534c00067">
+            <did>
+               <unitid>(61) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                [<geogname>Amherst, </geogname>Aug <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592609" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 721, HCL (H61)</p>
+            </note>
+         </c>
+         <c id="hou01534c00068">
+            <did>
+               <unitid>(62) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                    [<geogname>Amherst, </geogname>late summer <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592610" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 723, HCL (H62)</p>
+            </note>
+         </c>
+         <c id="hou01534c00069">
+            <did>
+               <unitid>(63) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                                        [same]; [<geogname>Amherst, </geogname>13? Oct <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768976" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 729</p>
+            </note>
+         </c>
+         <c id="hou01534c00070">
+            <did>
+               <unitid>(64) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                                            [same]; [<geogname>Amherst, </geogname>15? Oct <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768977" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 730</p>
+            </note>
+         </c>
+         <c id="hou01534c00071">
+            <did>
+               <unitid>(65) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                                                [same]; [<geogname>Amherst, </geogname>20 Oct <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768978" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 731</p>
+            </note>
+         </c>
+         <c id="hou01534c00072">
+            <did>
+               <unitid>(66) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                                                    [same]; [<geogname>Amherst, </geogname>late Oct <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768979" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 732</p>
+            </note>
+         </c>
+         <c id="hou01534c00073">
+            <did>
+               <unitid>(67) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                            [<geogname>Amherst, </geogname>late Oct <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592611" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">No Autumn's
+                                intercepting Chill.</title>
+               </p>
+               <p>JL 738, HCL (H67); p. 7: J 1611, Fr 1563</p>
+            </note>
+         </c>
+         <c id="hou01534c00074">
+            <did>
+               <unitid>(68) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                                    [same]; [<geogname>Amherst, </geogname>mid-Dec <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768980" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 740</p>
+            </note>
+         </c>
+         <c id="hou01534c00075">
+            <did>
+               <unitid>(69) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>T.L. (copy) to
+                        [same]; [<geogname>Amherst, </geogname>Christmas <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768981" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes a T. MS. (copy) poem beginning: <title xlink:href="" xlink:type="simple">How much of Source escapes with thee--.</title>
+               </p>
+               <p>J 1623, Fr 1567</p>
+            </note>
+         </c>
+         <c id="hou01534c00076">
+            <did>
+               <unitid>(70) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                            [<geogname>Amherst, </geogname>late <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881</unitdate>?] </unittitle>
+               <physdesc>
+                  <extent>1s. (2p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <note>
+               <p>Includes a portion of the poem, <title xlink:href="" xlink:type="simple">The
+                                Things that never can come back, are several,</title> beginning: <title xlink:href="" xlink:type="simple">Foretold Locations--.</title>
+               </p>
+               <p>JL 733, HCL (H70); J 1515, Fr 1564</p>
+            </note>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592612" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+         </c>
+         <c id="hou01534c00077">
+            <did>
+               <unitid>(71) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                    [<geogname>Amherst, </geogname>29? Oct <unitdate calendar="gregorian" datechar="single" endYear="1882" era="ce" startYear="1882">1882</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592613" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 775, HCL (H71)</p>
+            </note>
+         </c>
+         <c id="hou01534c00078">
+            <did>
+               <unitid>(72) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                        [<geogname>Amherst, </geogname>mid-Nov <unitdate calendar="gregorian" datechar="single" endYear="1882" era="ce" startYear="1882">1882</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592614" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 775, HCL (H71)</p>
+            </note>
+         </c>
+         <c id="hou01534c00079">
+            <did>
+               <unitid>(73) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                            [<geogname>Amherst, </geogname>19? Dec <unitdate calendar="gregorian" datechar="single" endYear="1882" era="ce" startYear="1882">1882</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592615" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL792, HCL (H73)</p>
+            </note>
+         </c>
+         <c id="hou01534c00080">
+            <did>
+               <unitid>(74) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                                [<geogname>Amherst, </geogname>after Christmas <unitdate calendar="gregorian" datechar="single" endYear="1882" era="ce" startYear="1882">1882</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592616" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 794, HCL (H74)</p>
+            </note>
+         </c>
+         <c id="hou01534c00081">
+            <did>
+               <unitid>(75) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                                    [<geogname>Amherst, </geogname>early <unitdate calendar="gregorian" datechar="single" endYear="1883" era="ce" startYear="1883">1883</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592617" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 801, HCL (H75)</p>
+            </note>
+         </c>
+         <c id="hou01534c00082">
+            <did>
+               <unitid>(76) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                        </geogname>early <unitdate calendar="gregorian" datechar="single" endYear="1883" era="ce" startYear="1883">1883</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592618" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">To see her
+                            is a picture--.</title>
+               </p>
+               <p>JL 802, HCL (H76); p. 7: J 1631, Fr 1597</p>
+            </note>
+         </c>
+         <c id="hou01534c00083">
+            <did>
+               <unitid>(77) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                            [<geogname>Amherst, </geogname>3 Mar <unitdate calendar="gregorian" datechar="single" endYear="1883" era="ce" startYear="1883">1883</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592619" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">The Clock
+                                strikes one that just struck two--.</title>
+               </p>
+               <p>JL 805, HCL (H77); p. 3: J 1640, Fr 1598</p>
+            </note>
+         </c>
+         <c id="hou01534c00084">
+            <did>
+               <unitid>(78) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                    [<geogname>Amherst, </geogname>Mar <unitdate calendar="gregorian" datechar="single" endYear="1883" era="ce" startYear="1883">1883</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592620" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 806, HCL (H78)</p>
+            </note>
+         </c>
+         <c id="hou01534c00085">
+            <did>
+               <unitid>(79) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                            [<geogname>Amherst, </geogname>Mar <unitdate calendar="gregorian" datechar="single" endYear="1883" era="ce" startYear="1883">1883</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592621" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes poem beginning: <title xlink:href="" xlink:type="simple">Forever
+                                honored be the tree.</title>
+               </p>
+               <p>JL 808, HCL (H79); p. 5, 7: J 1663, Fr 1600</p>
+            </note>
+         </c>
+         <c id="hou01534c00086">
+            <did>
+               <unitid>(80) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                    [<geogname>Amherst, </geogname>spring <unitdate calendar="gregorian" datechar="single" endYear="1883" era="ce" startYear="1883">1883</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592622" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 820, HCL (H80)</p>
+            </note>
+         </c>
+         <c id="hou01534c00087">
+            <did>
+               <unitid>(81) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                        [<geogname>Amherst, </geogname>early May <unitdate calendar="gregorian" datechar="single" endYear="1883" era="ce" startYear="1883">1883</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592623" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 822, HCL (H81)</p>
+            </note>
+         </c>
+         <c id="hou01534c00088">
+            <did>
+               <unitid>(82) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                            [<geogname>Amherst, </geogname>late Sep <unitdate calendar="gregorian" datechar="single" endYear="1883" era="ce" startYear="1883">1883</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592624" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 866, HCL (H82)</p>
+            </note>
+         </c>
+         <c id="hou01534c00089">
+            <did>
+               <unitid>(83) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                                [<geogname>Amherst, </geogname>Nov? <unitdate calendar="gregorian" datechar="single" endYear="1883" era="ce" startYear="1883">1883</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592625" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 866, HCL (H82)</p>
+            </note>
+         </c>
+         <c id="hou01534c00090">
+            <did>
+               <unitid>(84) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                                    [<geogname>Amherst, </geogname>early <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592626" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 882, HCL (H84)</p>
+            </note>
+         </c>
+         <c id="hou01534c00091">
+            <did>
+               <unitid>(85) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                                        [<geogname>Amherst, </geogname>Feb? <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592627" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 888, HCL (H85)</p>
+            </note>
+         </c>
+         <c id="hou01534c00092">
+            <did>
+               <unitid>(86) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                            [<geogname>Amherst, </geogname>Mar <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (6p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592628" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>Includes 2 poems: (1) <title xlink:href="" xlink:type="simple">Quite empty,
+                                quite at rest</title> [first line] and (2) <title xlink:href="" xlink:type="simple">Within that little Hive</title> [first line].</p>
+               <p>JL890, HCL (H86); p. 5, 7,: J 1653, Fr 1632; p. 11: J 1654, Fr 1633</p>
+            </note>
+         </c>
+         <c id="hou01534c00093">
+            <did>
+               <unitid>(87) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886</persname>] A.L. (unsigned) to
+                                    [same]; [<geogname>Amherst, </geogname>1 Jun <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592629" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 901, HCL (H87)</p>
+            </note>
+         </c>
+         <c id="hou01534c00094">
+            <did>
+               <unitid>(88) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Theodore Holland</persname>]; [<geogname>Amherst,
+                            </geogname>summer? <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (2p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592630" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 921, HCL (H88)</p>
+            </note>
+         </c>
+         <c id="hou01534c00095">
+            <did>
+               <unitid>(89) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                            </geogname>summer <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592631" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 921, HCL (H88)</p>
+            </note>
+         </c>
+         <c id="hou01534c00096">
+            <did>
+               <unitid>(90) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to
+                            [<persname>Elizabeth (Chapin) Holland</persname>]; [<geogname>Amherst,
+                            </geogname>late Sep <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592632" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 936, HCL (H90)</p>
+            </note>
+         </c>
+         <c id="hou01534c00097">
+            <did>
+               <unitid>(91) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                [<geogname>Amherst, </geogname>late Oct <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>3s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592633" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 950, HCL (H91)</p>
+            </note>
+         </c>
+         <c id="hou01534c00098">
+            <did>
+               <unitid>(92) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                    [<geogname>Amherst, </geogname>Feb <unitdate calendar="gregorian" datechar="single" endYear="1885" era="ce" startYear="1885">1885</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592634" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 966, HCL (H92)</p>
+            </note>
+         </c>
+         <c id="hou01534c00099">
+            <did>
+               <unitid>(93) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                        [<geogname>Amherst, </geogname>Mar <unitdate calendar="gregorian" datechar="single" endYear="1885" era="ce" startYear="1885">1885</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592635" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 977, HCL (H93)</p>
+            </note>
+         </c>
+         <c id="hou01534c00100">
+            <did>
+               <unitid>(94) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886. </persname>A.L.s. to [same];
+                                            [<geogname>Amherst, </geogname>spring <unitdate calendar="gregorian" datechar="single" endYear="1885" era="ce" startYear="1885">1885</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (4p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592636" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 977, HCL (H93)</p>
+            </note>
+         </c>
+         <c id="hou01534c00101">
+            <did>
+               <unitid>(95) </unitid>
+               <unittitle>[<persname>Dickinson, Emily, 1830-1886.</persname>] T.L. (copy) to
+                                                [same]; [<geogname>Amherst, </geogname>Mar? <unitdate calendar="gregorian" datechar="single" endYear="1886" era="ce" startYear="1886">1886</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>1s. (1p.)</extent>
+               </physdesc>
+               <container>Box 2</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:9768985" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 979, HCL (H94)</p>
+            </note>
+         </c>
+         <c id="hou01534c00102">
+            <did>
+               <unitid>(96) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886.</persname> A.L.s. to
+                            <persname>Josiah Gilbert Holland;</persname> [<geogname>Amherst,
+                            </geogname>Mar. <unitdate calendar="gregorian" datechar="single" endYear="1886" era="ce" startYear="1886">1886</unitdate>] </unittitle>
+               <physdesc>
+                  <extent>2s. (5p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592637" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>JL 979, HCL (H94)</p>
+            </note>
+         </c>
+         <c id="hou01534c00103">
+            <did>
+               <unitid>(97) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886.</persname>
+                  <title xlink:href="" xlink:type="simple">At half past three ...</title> [first line] A.MS.s.;
+                            [<geogname>Amherst, </geogname>n.d.] </unittitle>
+               <physdesc>
+                  <extent>1s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592638" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>J 1107, Fr 1099</p>
+            </note>
+         </c>
+         <c id="hou01534c00104">
+            <did>
+               <unitid>(98) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886.</persname>
+                  <title xlink:href="" xlink:type="simple">Not all die early, ...</title> [first line] A.MS.s.;
+                            [<geogname>Amherst, </geogname>n.d.] </unittitle>
+               <physdesc>
+                  <extent>1s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592639" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>J 867, Fr 937</p>
+            </note>
+         </c>
+         <c id="hou01534c00105">
+            <did>
+               <unitid>(99) </unitid>
+               <unittitle>
+                  <persname>Dickinson, Emily, 1830-1886.</persname>
+                  <title xlink:href="" xlink:type="simple">Truth is as old as God.</title> [first line]
+                        A.MS.s.; [<geogname>Amherst, </geogname>n.d.] </unittitle>
+               <physdesc>
+                  <extent>1s. (3p.)</extent>
+               </physdesc>
+               <container>Box 1</container>
+            </did>
+            <dao xlink:actuate="onRequest" xlink:href="http://nrs.harvard.edu/urn-3:FHCL.HOUGH:8592640" xlink:show="new" xlink:type="simple">
+               <daodesc>
+                  <p>Click for color digital facsimile</p>
+               </daodesc>
+            </dao>
+            <accessrestrict>
+               <p>Available to users with a valid Harvard ID.</p>
+            </accessrestrict>
+            <note>
+               <p>J 847, Fr 795</p>
+            </note>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

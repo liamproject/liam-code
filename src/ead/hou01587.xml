@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" fileSize="38451" maxcomponentid="76">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid identifier="000603141">hou01587</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Ellerbe, Harry. Papers (MS Thr 437): Guide.</titleproper>
+         </titlestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>
+            <date calendar="gregorian" era="ce">09/26/2003 </date>Pacific Data Conversion Corp. </creation>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date calendar="gregorian" era="ce" normal="20131107">11/07/2013</date>
+            <item>Loaded into OASIS</item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce">11/06/2003</date>
+            <item>
+               <name>Sarah Chiappetta </name>
+            </item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce" normal="20060517">June 8, 2006</date>
+            <item>hou01587 converted by Harvard University Library OIS from EAD 1.0 to 2002 by v1to02.xsl (sy2006-06-08).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <num>MS Thr 437 </num>
+         <titleproper>Ellerbe, Harry. Papers: Guide. </titleproper>
+         <author>Houghton Library, Harvard College Library </author>
+         <p>
+            <extptr xlink:href="http://nrs.harvard.edu/urn-3:HUL.OIS:fas_shield" xlink:type="simple" />
+         </p>
+         <publisher>Harvard University, Cambridge, MA 02138 </publisher>
+         <p>© 2004 The President and Fellows of Harvard College </p>
+      </titlepage>
+   </frontmatter>
+   <archdesc level="collection">
+      <did>
+         <repository>Harvard Theatre Collection, Houghton Library, Harvard University </repository>
+         <physloc>b </physloc>
+         <unitid>MS Thr 437 </unitid>
+         <origination label="&quot;creator&quot;">
+            <persname>Ellerbe, Harry. </persname>
+         </origination>
+         <unittitle>Papers, </unittitle>
+         <unitdate calendar="gregorian" endYear="1983" era="ce" startYear="1924">1924-1983. </unitdate>
+         <physdesc>
+            <extent>3 boxes
+and 9 scrapbooks (6 linear ft.) </extent>
+         </physdesc>
+         <abstract>Promptbooks, annotated plays,
+contracts, and other miscellaneous material of American actor and director Harry Ellerbe. </abstract>
+      </did>
+      <acqinfo>
+         <p>
+            <num>*2003MT-0137(b) </num>
+         </p>
+         <p>Gift of <persname role="Donor">Mr. Harry Ellerbe, </persname>1896 Wycliff Road, N.W. Atlanta, GA 30309; received: <date calendar="gregorian" era="ce">1984 </date>September 19. </p>
+      </acqinfo>
+      <bioghist>
+         <p>Ellerbe (1901-1992) was an American actor and director.</p>
+      </bioghist>
+      <arrangement>
+         <p>Organized into the following series: <list>
+               <item>I. Promptbooks and
+annotated plays</item>
+               <item>II. Manuscripts</item>
+               <item>III. Clipping Files</item>
+               <item>IV. Photographs</item>
+               <item>V. Scrapbooks</item>
+               <item>VI. Playbills and other printed
+materials</item>
+            </list>
+         </p>
+      </arrangement>
+      <scopecontent>
+         <p>Contains promptbooks and
+annotated plays; actors' equity contracts, 1930-1936; letters to Ellerbe; financial records; address
+books; clippings; photos; scrapbooks on his acting career; playbills of plays he acted in or
+directed; souvenir programs; and miscellaneous theatre flyers and other printed material.</p>
+      </scopecontent>
+      <dsc type="in-depth">
+         <c id="hou01587c00001" level="series">
+            <did>
+               <unittitle>I. Promptbooks and annotated plays</unittitle>
+            </did>
+            <c id="hou01587c00002">
+               <did>
+                  <unitid>(1) </unitid>
+                  <unittitle>
+                     <persname>Kelly, George. </persname>
+                     <title xlink:type="simple">Phillip Goes Forth. </title>Samuel French, <unitdate calendar="gregorian" datechar="single" endYear="1931" era="ce" startYear="1931">1931. </unitdate>Autographed copy. <persname />
+                  </unittitle>
+               </did>
+               <note>
+                  <p>Mr. Ellerbe created the role of Phillip.</p>
+               </note>
+            </c>
+            <c id="hou01587c00003">
+               <did>
+                  <unitid>(2) </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">King Arthur. </title>TS. (mimeo) signed; <corpname>Alliance Theatre, </corpname>
+                     <geogname>Atlanta, </geogname>[n.d.].</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00004">
+               <did>
+                  <unitid>(3) </unitid>
+                  <unittitle>
+                     <persname>Ibsen, Henrik. </persname>
+                     <title xlink:type="simple">Ghosts. </title>TS., signed; annotated in pencil and red ink. For <persname>Mme. Nazimova</persname>'s production, <unitdate calendar="gregorian" datechar="single" endYear="1935" era="ce" startYear="1935">1935.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00005">
+               <did>
+                  <unitid>(4) </unitid>
+                  <unittitle>
+                     <persname>Ibsen, Henrik. </persname>
+                     <title xlink:type="simple">Ghosts. </title>TS. signed; prepared from memory by Mr. Ellerbe, from <persname>Nazimova</persname> production, <corpname>Empire Theatre, </corpname>
+                     <geogname>New York, </geogname>
+                     <unitdate calendar="gregorian" endYear="1936" era="ce" startYear="1935" type="inclusive">1935-1936. </unitdate>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>Mr. Ellerbe
+appeared as Oswald.</p>
+               </note>
+            </c>
+            <c id="hou01587c00006">
+               <did>
+                  <unitid>(5) </unitid>
+                  <unittitle>
+                     <persname>Shaw, George Bernard. </persname>
+                     <title xlink:type="simple">Heartbreak House. </title>Actor's sides, annotated typescript, signed. <corpname>Meadowbrook Theatre, </corpname>
+                     <geogname>Rochester, Michigan, </geogname>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1971" era="ce" startYear="1971">1971.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00007">
+               <did>
+                  <unitid>(6) </unitid>
+                  <unittitle>
+                     <persname>Bolt, Robert. </persname>
+                     <title xlink:type="simple">A Man
+for all Seasons. </title>Actor's sides, annotated typescript, signed. <corpname>Peachtree
+Playhouse, </corpname>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1973" era="ce" startYear="1973">1973.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00008">
+               <did>
+                  <unitid>(7) </unitid>
+                  <unittitle>
+                     <persname>Williams, Tennessee. </persname>
+                     <title xlink:type="simple">Summer and Smoke. </title>Actor's sides, annotated typescript, signed. [n.p., <unitdate calendar="gregorian" datechar="single" endYear="1973" era="ce" startYear="1973">1973</unitdate>].</unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="hou01587c00009" level="series">
+            <did>
+               <unittitle>II. Manuscripts</unittitle>
+            </did>
+            <c id="hou01587c00010">
+               <did>
+                  <unitid>(8) </unitid>
+                  <unittitle>Actor's Equity <genreform>contracts, </genreform>
+                     <unitdate calendar="gregorian" endYear="1936" era="ce" startYear="1930" type="inclusive">1930-1936. </unitdate>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>For: <list>
+                        <item>
+                           <title xlink:type="simple">Phillip Goes Forth, </title>
+                           <date calendar="gregorian" endYear="1930" era="ce" startYear="1930">1930; </date>
+                        </item>
+                        <item>
+                           <title xlink:type="simple">The Tadpole, </title>
+                           <date calendar="gregorian" endYear="1931" era="ce" startYear="1931">1931; </date>
+                        </item>
+                        <item>
+                           <title xlink:type="simple">The Men on Stilts, </title>
+                           <date calendar="gregorian" endYear="1931" era="ce" startYear="1931">1931; </date>
+                        </item>
+                        <item>
+                           <title xlink:type="simple">Ghosts, </title>
+                           <date calendar="gregorian" endYear="1936" era="ce" startYear="1936">1936; </date>
+                        </item>
+                        <item>
+                           <title xlink:type="simple">Ghosts/Hedda Gabler, </title>
+                           <date calendar="gregorian" endYear="1936" era="ce" startYear="1936">1936.</date>
+                        </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01587c00011">
+               <did>
+                  <unitid>(9) </unitid>
+                  <unittitle>32 letters to <persname>Harry Ellerbe </persname>from various correspondents, <unitdate calendar="gregorian" endYear="1983" era="ce" startYear="1970" type="inclusive">1970-1983.</unitdate>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>On
+opening nights.</p>
+               </note>
+            </c>
+            <c id="hou01587c00012">
+               <did>
+                  <unitid>(10) </unitid>
+                  <unittitle>
+                     <genreform>Financial records.</genreform>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00013">
+               <did>
+                  <unitid>(11) </unitid>
+                  <unittitle>
+                     <genreform>Address books, </genreform>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1949" era="ce" startYear="1949">1949 </unitdate>and n.d.</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00014">
+               <did>
+                  <unitid>(12) </unitid>
+                  <unittitle>
+                     <persname>Hancock, Mrs. Roy (nee Ellerbe) </persname>Letters to <persname>Harry Ellerbe, </persname>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1974" era="ce" startYear="1974">1974.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="hou01587c00015" level="series">
+            <did>
+               <unittitle>III. Clipping Files</unittitle>
+            </did>
+            <c id="hou01587c00016">
+               <did>
+                  <unitid>(13) </unitid>
+                  <unittitle>
+                     <genreform>Obituaries</genreform> of friends and colleagues.</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00017">
+               <did>
+                  <unitid>(14) </unitid>
+                  <unittitle>
+                     <genreform>Reviews </genreform>from Mr.
+Ellerbe's career, <unitdate calendar="gregorian" endYear="1981" era="ce" startYear="1931" type="inclusive">1931-1981.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00018">
+               <did>
+                  <unitid>(15) </unitid>
+                  <unittitle>Miscellaneous <genreform>clippings </genreform>from various Atlanta papers.</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00019">
+               <did>
+                  <unitid>(16) </unitid>
+                  <unittitle>Miscellaneous <genreform>clippings, </genreform>
+                     <unitdate calendar="gregorian" endYear="1983" era="ce" startYear="1929" type="inclusive">1929-1983.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00020">
+               <did>
+                  <unitid>(17) </unitid>
+                  <unittitle>
+                     <genreform>Clippings </genreform>related to Mr.
+Ellerbe's school years.</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00021">
+               <did>
+                  <unitid>(18) </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Summer and Smoke, </title>photocopies of <genreform>reviews.</genreform>
+                  </unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="hou01587c00022" level="series">
+            <did>
+               <unittitle>IV. Photographs</unittitle>
+            </did>
+            <c id="hou01587c00023">
+               <did>
+                  <unitid>(19) </unitid>
+                  <unittitle>Folder of personal<genreform> photographs, </genreform>
+                     <geogname>New York </geogname>and <geogname>Hollywood </geogname>apartments.</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00024">
+               <did>
+                  <unitid>(20) </unitid>
+                  <unittitle>Folder of <genreform>photographs </genreform>and
+letters relating to Mr. Ellerbe's dog Billy.</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00025">
+               <did>
+                  <unitid>(21) </unitid>
+                  <unittitle>Album containing <genreform>photographs </genreform>of friends and colleagues, <unitdate calendar="gregorian" endYear="1980" era="ce" startYear="1930" type="inclusive">1930-1980.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00026">
+               <did>
+                  <unitid>(22) </unitid>
+                  <unittitle>Album of <genreform>photographs </genreform>from the productions of <title xlink:type="simple">Ghosts </title>and <title xlink:type="simple">Hedda Gabler </title>[<unitdate calendar="gregorian" endYear="1936" era="ce" startYear="1935" type="inclusive">1935-1936</unitdate>].</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00027">
+               <did>
+                  <unitid>(23) </unitid>
+                  <unittitle>Album of <genreform>photographs </genreform>from Mr. Ellerbe's career; also includes programs and clippings.</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00028">
+               <did>
+                  <unitid>(24) </unitid>
+                  <unittitle>Folder of <genreform>photographs </genreform>of <persname>Alla Nazimova </persname>and <persname>Rudolf Valentino.</persname>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00029">
+               <did>
+                  <unitid>(25) </unitid>
+                  <unittitle>Folder of personal <genreform>photographs </genreform>of <persname>Mr. Ellerbe, </persname>
+                     <unitdate calendar="gregorian" endYear="1973" era="ce" startYear="1924" type="inclusive">1924-1973 </unitdate>and n.d.</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00030">
+               <did>
+                  <unitid>(26) </unitid>
+                  <unittitle>Folder of <genreform>photographs </genreform>of
+friends and colleagues.</unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="hou01587c00031" level="series">
+            <did>
+               <unittitle>V. Scrapbooks</unittitle>
+            </did>
+            <c id="hou01587c00032">
+               <did>
+                  <unitid>(27) </unitid>
+                  <unittitle>1 <genreform>scrapbook </genreform>relating to Mr. Ellerbe's acting career, compiled by a fan
+(with photocopy). <unitdate calendar="gregorian" datechar="single" endYear="1930" era="ce" startYear="1930">1930's.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00033">
+               <did>
+                  <unitid>(28) </unitid>
+                  <unittitle>9 personal <genreform>scrapbooks </genreform>of
+reviews and photographs from Mr. Ellerbe's career. <unitdate calendar="gregorian" endYear="1948" era="ce" startYear="1926" type="inclusive">1926-1948.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="hou01587c00034" level="series">
+            <did>
+               <unittitle>VI. Playbills and other printed materials</unittitle>
+            </did>
+            <c id="hou01587c00035" level="otherlevel" otherlevel="namegroup">
+               <did>
+                  <unitid>(29) </unitid>
+                  <unittitle>
+                     <genreform>Playbills </genreform>of plays acted in:</unittitle>
+               </did>
+               <c id="hou01587c00036">
+                  <did>
+                     <unittitle>15 <geogname>New York, </geogname>
+                        <unitdate calendar="gregorian" endYear="1973" era="ce" startYear="1936" type="inclusive">1936-1973.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00037">
+                  <did>
+                     <unittitle>4 <geogname>New York, </geogname>n.d.</unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00038">
+                  <did>
+                     <unittitle>14 <geogname>Rochester, Michigan, </geogname>
+                        <unitdate calendar="gregorian" endYear="1981" era="ce" startYear="1970" type="inclusive">1970-1981.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00039">
+                  <did>
+                     <unittitle>3 <geogname>Rochester, Michigan, </geogname>n.d.</unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00040">
+                  <did>
+                     <unittitle>8 <geogname>Atlanta </geogname>and <geogname>Columbus, Georgia, </geogname>
+                        <unitdate calendar="gregorian" endYear="1973" era="ce" startYear="1925" type="inclusive">1925-1973.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00041">
+                  <did>
+                     <unittitle>1 <geogname>Atlanta, Georgia, </geogname>n.d.</unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00042">
+                  <did>
+                     <unittitle>6 <geogname>Springfield </geogname>and <geogname>Marblehead,
+Massachusetts, </geogname>
+                        <unitdate calendar="gregorian" endYear="1975" era="ce" startYear="1941" type="inclusive">1941-1975.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00043">
+                  <did>
+                     <unittitle>3 <geogname>Cape Cod, Massachusetts, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1973" era="ce" startYear="1973">1973.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00044">
+                  <did>
+                     <unittitle>4 <geogname>Florida, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1973" era="ce" startYear="1973">1973.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00045">
+                  <did>
+                     <unittitle>2 <geogname>Westport, Connecticut, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1973" era="ce" startYear="1973">1973.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00046">
+                  <did>
+                     <unittitle>2 <geogname>Washington, DC, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1973" era="ce" startYear="1973">1973.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00047">
+                  <did>
+                     <unittitle>1 <geogname>Hollywood, California, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1966" era="ce" startYear="1966">1966.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00048">
+                  <did>
+                     <unittitle>2 <geogname>New Mexico, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1974" era="ce" startYear="1974">1974.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00049">
+                  <did>
+                     <unittitle>3 <geogname>Pittsburgh, Pennsylvania, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1976" era="ce" startYear="1976">1976.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00050">
+                  <did>
+                     <unittitle>2 <geogname>Abington, Virginia, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1976" era="ce" startYear="1976">1976.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c id="hou01587c00051" level="otherlevel" otherlevel="namegroup">
+               <did>
+                  <unitid>(30) </unitid>
+                  <unittitle>
+                     <genreform>Playbills </genreform>of plays directed:</unittitle>
+               </did>
+               <c id="hou01587c00052">
+                  <did>
+                     <unittitle>3 <geogname>Olney, Maryland, </geogname>
+                        <unitdate calendar="gregorian" endYear="1951" era="ce" startYear="1949" type="inclusive">1949-1951.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00053">
+                  <did>
+                     <unittitle>2 <geogname>Atlanta, Georgia, </geogname>
+                        <unitdate calendar="gregorian" endYear="1972" era="ce" startYear="1971" type="inclusive">1971-1972.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00054">
+                  <did>
+                     <unittitle>3 <geogname>Columbus, Georgia, </geogname>
+                        <unitdate calendar="gregorian" endYear="1975" era="ce" startYear="1973" type="inclusive">1973-1975.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00055">
+                  <did>
+                     <unittitle>2 <geogname>Springfield, Massachusetts, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1975" era="ce" startYear="1975">1975.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00056">
+                  <did>
+                     <unittitle>1 <geogname>Rochester, Michigan, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1971" era="ce" startYear="1971">1971.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00057">
+                  <did>
+                     <unittitle>1 <geogname>Hollywood, California, </geogname>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1962" era="ce" startYear="1962">1962.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00058">
+                  <did>
+                     <unittitle>1 <geogname>California, </geogname>Ritz Theatre, n.d.</unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00059">
+                  <did>
+                     <unittitle>1 <geogname>Bermuda, </geogname>n.d.</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c id="hou01587c00060" level="otherlevel" otherlevel="namegroup">
+               <did>
+                  <unitid>(31) </unitid>
+                  <unittitle>Souvenir programs:</unittitle>
+               </did>
+               <c id="hou01587c00061">
+                  <did>
+                     <unittitle>
+                        <title xlink:type="simple">An Evening with the Playwrights, </title>Springer Opera House, [<unitdate calendar="gregorian" datechar="single" endYear="1976" era="ce" startYear="1976">1976</unitdate>]. </unittitle>
+                     <physdesc>
+                        <extent>2 copies.</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c id="hou01587c00062">
+                  <did>
+                     <unittitle>
+                        <title xlink:type="simple">King Arthur, </title>Atlanta Repertory Theatre, <unitdate calendar="gregorian" datechar="single" endYear="1968" era="ce" startYear="1968">1968.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00063">
+                  <did>
+                     <unittitle>
+                        <title xlink:type="simple">Oliver, </title>Theatre of the Stars, <unitdate calendar="gregorian" datechar="single" endYear="1970" era="ce" startYear="1970">1970.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00064">
+                  <did>
+                     <unittitle>
+                        <title xlink:type="simple">Camelot, </title>Theatre of the Stars, <unitdate calendar="gregorian" datechar="single" endYear="1969" era="ce" startYear="1969">1969.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00065">
+                  <did>
+                     <unittitle>
+                        <title xlink:type="simple">The Subject was Roses, </title>Springer Opera House, <unitdate calendar="gregorian" datechar="single" endYear="1978" era="ce" startYear="1978">1978. </unitdate>
+                     </unittitle>
+                     <physdesc>
+                        <extent>2 copies.</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c id="hou01587c00066">
+                  <did>
+                     <unittitle>
+                        <title xlink:type="simple">The Desk Set, </title>Artist's Embassy, n.d. </unittitle>
+                     <physdesc>
+                        <extent>2 copies.</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c id="hou01587c00067">
+                  <did>
+                     <unittitle>
+                        <title xlink:type="simple">Black Eyed Susan, </title>Music Box Theatre, <geogname>Hollywood, </geogname>n.d.</unittitle>
+                  </did>
+               </c>
+            </c>
+            <c id="hou01587c00068">
+               <did>
+                  <unitid>(32) </unitid>
+                  <unittitle>Flyers from various theatres, <unitdate calendar="gregorian" endYear="1978" era="ce" startYear="1971" type="inclusive">1971-1978 </unitdate>and n.d.</unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00069" level="otherlevel" otherlevel="namegroup">
+               <did>
+                  <unitid>(33) </unitid>
+                  <unittitle>Miscellaneous materials</unittitle>
+               </did>
+               <c id="hou01587c00070">
+                  <did>
+                     <unittitle>Huntington Hartford Theatre, <unitdate calendar="gregorian" datechar="single" endYear="1973" era="ce" startYear="1973">1973.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+               <c id="hou01587c00071">
+                  <did>
+                     <unittitle>
+                        <corpname>Roundabout Theatre Company, </corpname>
+                        <title xlink:type="simple">The Show
+Off, </title>
+                        <unitdate calendar="gregorian" datechar="single" endYear="1977" era="ce" startYear="1977">1977. </unitdate>
+                     </unittitle>
+                     <physdesc>
+                        <extent>2 copies.</extent>
+                     </physdesc>
+                  </did>
+               </c>
+               <c id="hou01587c00072">
+                  <did>
+                     <unittitle>Actor's prayer from <persname>Linda Darnell, </persname>March 3, <unitdate calendar="gregorian" datechar="single" endYear="1965" era="ce" startYear="1965">1965.</unitdate>
+                     </unittitle>
+                  </did>
+               </c>
+            </c>
+            <c id="hou01587c00073">
+               <did>
+                  <unitid>(34) </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">The Theatre Magazine, </title>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1913" era="ce" startYear="1913">1913, </unitdate>
+                  </unittitle>
+                  <physdesc>
+                     <extent>2 vols.</extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01587c00074">
+               <did>
+                  <unitid>(35) </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Theatre World, </title>
+                     <unitdate calendar="gregorian" endYear="1945" era="ce" startYear="1944" type="inclusive">1944-1945.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00075">
+               <did>
+                  <unitid>(36) </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">The American Stage of Today, </title>
+                     <geogname>New York, </geogname>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1910" era="ce" startYear="1910">1910.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01587c00076">
+               <did>
+                  <unitid>(37) </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Who is that?, </title>
+                     <persname>Warren B.
+Myers, </persname>
+                     <geogname>New York, </geogname>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1967" era="ce" startYear="1967">1967.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

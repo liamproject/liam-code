@@ -15,10 +15,9 @@ use RDF::Redland;
 
 # sanity check #1 - command line arguments
 my $db  = $ARGV[ 0 ];
-my $uri = $ARGV[ 1 ];
 if ( ! $db ) {
 
-	print "Usage: $0 <db> <uri>\n";
+	print "Usage: $0 <db>\n";
 	exit;
 	
 }

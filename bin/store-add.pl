@@ -23,6 +23,9 @@ if ( ! $db or ! $file ) {
 	
 }
 
+# echo
+warn "$file\n";
+
 # sanity check #2 - store exists
 die "Error: po2s file not found. Make a store?\n" if ( ! -e ETC . $db . '-po2s.db' );
 die "Error: so2p file not found. Make a store?\n" if ( ! -e ETC . $db . '-so2p.db' );
@@ -53,16 +56,17 @@ while ( ! $stream->end ) {
 }
 
 # echo the result
-warn "Namespaces:\n";
-my %namespaces = $parser->namespaces_seen;
-while ( my ( $prefix, $uri ) = each %namespaces ) {
-
-	warn " prefix: $prefix\n";
-	warn '    uri: ' . $uri->as_string . "\n";
-	warn "\n";
-
-}
+#warn "Namespaces:\n";
+#my %namespaces = $parser->namespaces_seen;
+#while ( my ( $prefix, $uri ) = each %namespaces ) {
+#
+#	warn " prefix: $prefix\n";
+#	warn '    uri: ' . $uri->as_string . "\n";
+#	warn "\n";
+#
+#}
 warn "Added $count statements\n";
+warn "\n";
 
 # "save"
 $store = undef;

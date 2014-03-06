@@ -1,0 +1,2437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" fileSize="114001" maxcomponentid="202" xsi:noNamespaceSchemaLocation="http://hul.harvard.edu/ois/xml/xsd/oasis/ead2002/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid identifier="009899526">hou01547</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Brainard, Charles Henry, 1817-1885. Charles Henry Brainard papers, 1795-1884 (MS Am 889.14-889.16): Guide.</titleproper>
+         </titlestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>
+            <date calendar="gregorian" era="ce">04/23/2008</date>Bonnie B. Salt </creation>
+         <descrules>Finding aid prepared using DACS </descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date calendar="gregorian" era="ce" normal="20131107">11/07/2013</date>
+            <item>Loaded into OASIS</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <num>MS Am 889.14-889.16 </num>
+         <titleproper>Brainard, Charles Henry, 1817-1885. Charles Henry Brainard papers, 1795-1884 :
+        Guide. </titleproper>
+         <author>Houghton Library, Harvard College Library </author>
+         <p>
+            <extptr xlink:href="http://nrs.harvard.edu/urn-3:HUL.OIS:fas_shield" xlink:type="simple" />
+         </p>
+         <publisher>Harvard University, Cambridge, Massachusetts 02138 USA </publisher>
+         <p>© 2008 The President and Fellows of Harvard College </p>
+         <p>Last update on 2013 September 11  </p>
+      </titlepage>
+   </frontmatter>
+   <archdesc level="collection">
+      <did>
+         <repository>Houghton Library, Harvard College Library, Harvard University </repository>
+         <unitid>MS Am 889.14</unitid>
+         <unitid>MS Am 889.15</unitid>
+         <unitid>MS Am 889.16</unitid>
+         <origination label="creator">
+            <persname>Brainard, Charles Henry, 1817-1885. </persname>
+         </origination>
+         <unittitle>Charles Henry Brainard papers, </unittitle>
+         <unitdate calendar="gregorian" endYear="1884" era="ce" startYear="1795">1795-1884 and undated. </unitdate>
+         <physdesc>
+            <extent>4 volumes (.5 linear ft.) </extent>
+         </physdesc>
+         <langmaterial>Collection materials are in English. </langmaterial>
+         <abstract>Autograph album (1858-1884), a letter book (1855-1883), and a scrapbook of letters
+        and autographs (1795-1857 and undated) of American print dealer, publisher, and historian,
+        Charles Henry Brainard. </abstract>
+      </did>
+      <processinfo>
+         <p>Processed by: Alison Harris, Peter K. Steinberg, and Bonnie B. Salt </p>
+      </processinfo>
+      <acqinfo>
+         <p>
+            <num>No accession number. </num>Bequest of <persname role="donor">Evert Jansen Wendell;
+        </persname>received: <date calendar="gregorian" era="ce">1918. </date>
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>There are no restrictions on physical access to this material. </p>
+      </accessrestrict>
+      <prefercite>
+         <head>Preferred Citation for Publication: </head>
+         <p>Charles Henry Brainard Papers, 1795-1884  (MS Am 889.14-889.16). Houghton Library, Harvard
+        University. </p>
+      </prefercite>
+      <bioghist>
+         <p>Brainard (1817-1885) was an historian, print dealer, and publisher as C.H. Brainard
+        Publishing Co., in Boston, Massachusetts. In 1885 he wrote: John Howard Payne, a
+        biographical sketch of the author of "Home , sweet home", ... </p>
+      </bioghist>
+      <arrangement>
+         <p>Arranged in call-number order: <list>
+               <item>MS Am 889.14: Autograph album </item>
+               <item>MS Am 889.15: Letter book </item>
+               <item>MS Am 889.16: Scrapbook and index </item>
+            </list>
+         </p>
+      </arrangement>
+      <scopecontent>
+         <p>Includes three volumes: an autograph album (1858-1884), a letter book (1855-1883), and a
+        scrapbook of letters and autographs (1795-1857 and undated). </p>
+         <p>The autograph album (MS Am 889.14) contains autograph quotations or sentiments, signed,
+        from Matilda Goddard, Jacqueline Pendleton, Rufus Dawes, S. E. Sewall, Thaddeus Hyatt (dated
+        3 Apr. 1860 at the Washington jail), Anna E. Dickinson, W. H. H. Murray, and others; with a
+        photograph of Hyatt, signed, addressed to Brainard. </p>
+         <p>The letter book (MS Am 889.15) contains letters to Brainard written to Brainard from John
+        Whittier, Charles Sumner, William Burleigh, Celia Burleigh, Rufus Dawes, George Ripley, and
+        others; with a portrait print of Ripley. </p>
+         <p>The scrapbook (MS Am 889.16) contains letters, few to Brainard, and cut-out signatures from
+        Noah Webster, Washington Allston, Jared Sparks, John Pierpont, and others. The autographs of
+        Eliza Leslie, John Whittier, Thomas Read, Horace Greeley, and others are accompanied by
+        portrait prints. A typescript list of autographs was inserted the front, now removed to
+        separate folder. </p>
+      </scopecontent>
+      <dsc type="in-depth">
+         <c id="hou01547c00001" level="series">
+            <did>
+               <head>(MS Am 889.14) </head>
+               <unittitle>Brainard, Charles Henry, 1817-1885. <genreform>Autograph album, </genreform>
+                  <unitdate calendar="gregorian" endYear="1884" era="ce" startYear="1858">1858-1884.
+            </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1 volume. </extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>Contains autograph poems, quotations, or sentiments, signed and dated. Most often the
+            text is copied and is not original to the author. Also includes a carte-de-visite
+            photograph. </p>
+               <p>Includes the following items [blank pages have not been listed]: </p>
+            </note>
+            <c id="hou01547c00002">
+               <did>
+                  <unitid>Page 1 </unitid>
+                  <unittitle>
+                     <persname>Mackay, Charles, 1814-1889. </persname>
+                     <title xlink:type="simple">Returning messengers</title> : autograph manuscript
+                <genreform>poem, </genreform>
+                     <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00003">
+               <did>
+                  <unitid>Page 2 </unitid>
+                  <unittitle>
+                     <persname>Cary, Phoebe, 1824-1871. </persname>
+                     <title xlink:type="simple">Trust</title> : autograph manuscript <genreform>poem, </genreform>
+                     <unitdate calendar="gregorian" endYear="1867" era="ce" startYear="1867">1867.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00004">
+               <did>
+                  <unitid>Page 3 </unitid>
+                  <unittitle>
+                     <persname>Janvier, Francis De Haes, 1817-1885. </persname>
+                     <title xlink:type="simple">Alas! That friendship's fragile flowers </title>[first
+              line] : autograph manuscript <genreform>poem, </genreform>
+                     <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00005">
+               <did>
+                  <unitid>Page 5 </unitid>
+                  <unittitle>
+                     <persname>Bailey, Gamaliel, 1807-1859. </persname>
+                     <title xlink:type="simple">What to other men would be no duty </title>[first line] :
+              autograph manuscript, <unitdate calendar="gregorian" endYear="1859" era="ce" startYear="1859">1859. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00006">
+               <did>
+                  <unitid>Pages 7-8 </unitid>
+                  <unittitle>
+                     <persname>Dawes, Rufus, 1803-1859. </persname>
+                     <title xlink:type="simple">A farewell</title> : autograph manuscript <genreform>poem, </genreform>
+                     <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00007">
+               <did>
+                  <unitid>Page 9 </unitid>
+                  <unittitle>
+                     <persname>Giddings, Joshua R. (Joshua Reed), 1795-1864. </persname>
+                     <title xlink:type="simple">God and nature </title>[first line] : autograph manuscript,
+                <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00008">
+               <did>
+                  <unitid>Page 11 </unitid>
+                  <unittitle>
+                     <persname>Bodichon, Barbara Leigh Smith, 1827-1891. </persname>
+                     <title xlink:type="simple">A love of nature </title>[first line] : autograph
+              manuscript, <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00009">
+               <did>
+                  <unitid>Page 13 </unitid>
+                  <unittitle>
+                     <persname>Southworth, Emma Dorothy Eliza Nevitte, 1819-1899. </persname>
+                     <title xlink:type="simple">Asperations are prophecies</title> : autograph manuscript,
+                <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00010">
+               <did>
+                  <unitid>Page 15 </unitid>
+                  <unittitle>
+                     <persname>Mario, Jessie White, 1832-1906. </persname>
+                     <title xlink:type="simple">Endurance is the crowning quality </title>[first line] :
+              autograph manuscript, <unitdate calendar="gregorian" endYear="1859" era="ce" startYear="1859">1859. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00011">
+               <did>
+                  <unitid>Page 17 </unitid>
+                  <unittitle>
+                     <persname>Tindleton, Jacqueline. </persname>
+                     <title xlink:type="simple">Educate your women, as they have authority to be respected
+              </title>[first line] : autograph manuscript, <unitdate calendar="gregorian" endYear="1859" era="ce" startYear="1859">1859. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00012">
+               <did>
+                  <unitid>Page 19 </unitid>
+                  <unittitle>
+                     <persname>Sewall, Samuel E. (Samuel Edmund), 1799-1888. </persname>
+                     <title xlink:type="simple">Justice is the everlasting and immutable </title>[first
+              line] : autograph manuscript, <unitdate calendar="gregorian" endYear="1860" era="ce" startYear="1860">1860. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00013">
+               <did>
+                  <unitid>Page 21 </unitid>
+                  <unittitle>
+                     <persname>Sewall, H. W. </persname>
+                     <title xlink:type="simple">Life's garlands fade and fall too fast </title>[first line]
+              : autograph manuscript <genreform>poem, </genreform>undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00014">
+               <did>
+                  <unitid>Page 23 </unitid>
+                  <unittitle>
+                     <corpname>J.T. Cognacq (Paris), photographer. </corpname>
+                     <persname>Thaddeus Hyatt</persname> : <genreform>carte-de-visite</genreform>
+              photograph, <unitdate calendar="gregorian" endYear="1863" era="ce" startYear="1863">1863. </unitdate>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>Recto signed by Hyatt and inscribed: "La Rochelle 14. Dec. '63." </p>
+                  <p>Verso inscribed: "Presented to Ch. H. Brainard by his sincere friend Thaddeus Hyatt."
+            </p>
+               </note>
+            </c>
+            <c id="hou01547c00015">
+               <did>
+                  <unitid>Page 25 </unitid>
+                  <unittitle>
+                     <persname>Hyatt, Thaddeus. </persname>
+                     <title xlink:type="simple">He that is true to himself is true to God </title>[first
+              line] : autograph manuscript, <unitdate calendar="gregorian" endYear="1860" era="ce" startYear="1860">1860. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00016">
+               <did>
+                  <unitid>Page 26 </unitid>
+                  <unittitle>
+                     <persname>Garrison, William Lloyd, 1805-1879. </persname>
+                     <title xlink:type="simple">To Thaddeus Hyatt</title> : autograph manuscript
+                <genreform>poem, </genreform>
+                     <unitdate calendar="gregorian" endYear="1860" era="ce" startYear="1860">1860.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00017">
+               <did>
+                  <unitid>Page 27 </unitid>
+                  <unittitle>
+                     <persname>Tilton, Theodore, 1835-1907. </persname>
+                     <title xlink:type="simple">Infidelity is the religion of </title>[first line] :
+              autograph manuscript, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00018">
+               <did>
+                  <unitid>Page 29 </unitid>
+                  <unittitle>
+                     <persname>Barry, Charles A., 1830-1892. </persname>
+                     <title xlink:type="simple">F. H. B. In paradise-</title> : autograph manuscript
+                <genreform>poem,</genreform>
+                     <unitdate calendar="gregorian" endYear="1862" era="ce" startYear="1862">1862.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00019">
+               <did>
+                  <unitid>Page 31 </unitid>
+                  <unittitle>
+                     <persname>Kimball, Josiah F. </persname>
+                     <title xlink:type="simple">As wanderers seek some mill they oft have tasted
+              </title>[first line] : autograph manuscript <genreform>poem,</genreform>
+                     <unitdate calendar="gregorian" endYear="1861" era="ce" startYear="1861">1861.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00020">
+               <did>
+                  <unitid>Page 33 </unitid>
+                  <unittitle>
+                     <persname>Whittier, M. F. </persname>
+                     <title xlink:type="simple">What is man, or the son of man? </title>[first line] :
+              autograph manuscript, <unitdate calendar="gregorian" endYear="1861" era="ce" startYear="1861">1861. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00021">
+               <did>
+                  <unitid>Page 35 </unitid>
+                  <unittitle>
+                     <persname>Slack, Charles W. (Charles Wesley), 1825-1885. </persname>
+                     <title xlink:type="simple"> Weak men have wishes; strong men wills </title>[first
+              line] : autograph manuscript, <unitdate calendar="gregorian" endYear="1861" era="ce" startYear="1861">1861. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00022">
+               <did>
+                  <unitid>Page 37 </unitid>
+                  <unittitle>
+                     <persname>Goddard, Matilda. </persname>
+                     <title xlink:type="simple">Our future may seem defeat but </title>[first line] :
+              autograph manuscript, <unitdate calendar="gregorian" endYear="1862" era="ce" startYear="1862">1862. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00023">
+               <did>
+                  <unitid>Page 39 </unitid>
+                  <unittitle>
+                     <persname>Hunt, Harriet H. </persname>
+                     <title xlink:type="simple">God's completeness round out incompleteness </title>[first
+              line] : autograph manuscript, <unitdate calendar="gregorian" endYear="1862" era="ce" startYear="1862">1862. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00024">
+               <did>
+                  <unitid>Page 41 </unitid>
+                  <unittitle>
+                     <persname>Sargent, John T. (John Turner), 1808-1877. </persname>
+                     <title xlink:type="simple">There is no power outside of the church </title>[first
+              line] : autograph manuscript, <unitdate calendar="gregorian" endYear="1862" era="ce" startYear="1862">1862. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00025">
+               <did>
+                  <unitid>Page 43 </unitid>
+                  <unittitle>
+                     <persname>Carpenter, F. B. (Francis Bicknell), 1830-1900. </persname>
+                     <title xlink:type="simple">The possibilities opened up to the human family by a true
+              </title>[first line] : autograph manuscript, <unitdate calendar="gregorian" endYear="1864" era="ce" startYear="1864">1864. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00026">
+               <did>
+                  <unitid>Page 45 </unitid>
+                  <unittitle>
+                     <persname>Joyce, Robert Dwyer, 1836-1883. </persname>
+                     <title xlink:type="simple">Thou ran she 'till she plucked his gown again
+              </title>[first line] : autograph manuscript <genreform>poem,</genreform>
+                     <unitdate calendar="gregorian" endYear="1878" era="ce" startYear="1878">1878.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00027">
+               <did>
+                  <unitid>Page 47 </unitid>
+                  <unittitle>
+                     <persname>Dickinson, Anna E. (Anna Elizabeth), 1842-1932. </persname>
+                     <title xlink:type="simple">All the world's a stage, &amp; all the </title>[first line]
+              : autograph manuscript, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00028">
+               <did>
+                  <unitid>Page 49 </unitid>
+                  <unittitle>
+                     <persname>Burleigh, Celia, 1825-1875. </persname>
+                     <title xlink:type="simple">The home is to each human soul the </title>[first line] :
+              autograph manuscript, <unitdate calendar="gregorian" endYear="1871" era="ce" startYear="1871">1871. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00029">
+               <did>
+                  <unitid>Page 51 </unitid>
+                  <unittitle>
+                     <persname>Owen, John, 1806-1882. </persname>
+                     <title xlink:type="simple">To John Greenleaf Whittier: On the seventieth anniversary
+                of his birthday December 17, 1877</title> : autograph manuscript
+                <genreform>poem,</genreform>
+                     <unitdate calendar="gregorian" endYear="1878" era="ce" startYear="1878">1878.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00030">
+               <did>
+                  <unitid>Page 53 </unitid>
+                  <unittitle>
+                     <persname>Cook, Joseph. </persname>
+                     <title xlink:type="simple">Duty done is the soul's fireside </title>[first line] :
+              autograph manuscript, <unitdate calendar="gregorian" endYear="1878" era="ce" startYear="1878">1878. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00031">
+               <did>
+                  <unitid>Page 55 </unitid>
+                  <unittitle>
+                     <persname>Trowbridge, J. T. (John Townsend), 1827-1916. </persname>
+                     <title xlink:type="simple">Religion is no leaf of faded green</title> : autograph
+              manuscript <genreform>poem,</genreform>
+                     <unitdate calendar="gregorian" endYear="1878" era="ce" startYear="1878">1878.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00032">
+               <did>
+                  <unitid>Page 57 </unitid>
+                  <unittitle>
+                     <persname>Whiffle, E. P. </persname>
+                     <title xlink:type="simple">In all the autographs </title>[first line] : autograph
+              manuscript, <unitdate calendar="gregorian" endYear="1879" era="ce" startYear="1879">1879. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00033">
+               <did>
+                  <unitid>Page 59 </unitid>
+                  <unittitle>
+                     <persname>Perkins, Frederic B. (Frederic Beecher), 1828-1899. </persname>
+                     <title xlink:type="simple">As I am no poet, as facts </title>[first line] : autograph
+              manuscript, <unitdate calendar="gregorian" endYear="1879" era="ce" startYear="1879">1879. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00034">
+               <did>
+                  <unitid>Page 61 </unitid>
+                  <unittitle>
+                     <persname>Shillaber, B. P. (Benjamin Penhallow), 1814-1890. </persname>
+                     <title xlink:type="simple">An art creed</title> : autograph manuscript
+                <genreform>poem,</genreform>
+                     <unitdate calendar="gregorian" endYear="1879" era="ce" startYear="1879">1879.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00035">
+               <did>
+                  <unitid>Page 63 </unitid>
+                  <unittitle>
+                     <persname>Murray, W. H. H. (William Henry Harrison), 1840-1904. </persname>
+                     <title xlink:type="simple">Character dictates destiny </title>[first line] : autograph
+              manuscript, <unitdate calendar="gregorian" endYear="1878" era="ce" startYear="1878">1878. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00036">
+               <did>
+                  <unitid>Page 69 </unitid>
+                  <unittitle>
+                     <persname>Clemmer, Mary, 1839-1884. </persname>
+                     <title xlink:type="simple">Tis not the thought that Jesus died</title> : autograph
+              manuscript <genreform>poem,</genreform>
+                     <unitdate calendar="gregorian" endYear="1881" era="ce" startYear="1881">1881.
+              </unitdate>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>Also with autograph of <persname> Gustavus A. Somerby</persname> pasted to page. </p>
+               </note>
+            </c>
+            <c id="hou01547c00037">
+               <did>
+                  <unitid>Page 71-73 </unitid>
+                  <unittitle>
+                     <persname>Gallagher, William D. (William Davis), 1808-1894. </persname>
+                     <title xlink:type="simple">The brown thrush</title> : autograph manuscript
+                <genreform>poem,</genreform>
+                     <unitdate calendar="gregorian" endYear="1882" era="ce" startYear="1882">1882.
+              </unitdate>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>With a clipping which includes <title xlink:type="simple">The brown thrush</title>.
+            </p>
+               </note>
+            </c>
+            <c id="hou01547c00038">
+               <did>
+                  <unitid>Page 75 </unitid>
+                  <unittitle>
+                     <persname>Burnett, Jerome C., 1833-1891. </persname>
+                     <title xlink:type="simple">Magnolia</title> : autograph manuscript
+                <genreform>poem,</genreform>
+                     <unitdate calendar="gregorian" endYear="1884" era="ce" startYear="1884">1884.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00039">
+               <did>
+                  <unitid>Page 79 </unitid>
+                  <unittitle>
+                     <persname>Rice, Albert. </persname>
+                     <title xlink:type="simple">Life's autumn</title> : autograph manuscript
+                <genreform>poem,</genreform>
+                     <unitdate calendar="gregorian" endYear="1884" era="ce" startYear="1884">1884.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="hou01547c00040" level="series">
+            <did>
+               <head>(MS Am 889.15) </head>
+               <unittitle>Brainard, Charles Henry, 1817-1885. <genreform>Letter book, </genreform>
+                  <unitdate calendar="gregorian" endYear="1883" era="ce" startYear="1855">1855-1883.
+            </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1 volume. </extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>Letters sent to Brainard. </p>
+               <p>Includes the following items: </p>
+            </note>
+            <c id="hou01547c00041">
+               <did>
+                  <unitid>(1) - (12) </unitid>
+                  <unittitle>
+                     <persname>Whittier, John Greenleaf, 1807-1892. </persname>Letters to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1878" era="ce" startYear="1864">1864-1878 </unitdate>and undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00042">
+               <did>
+                  <unitid>(13) - (28) </unitid>
+                  <unittitle>
+                     <persname>Sumner, Charles, 1811-1874. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1870" era="ce" startYear="1855">1855-1870
+              </unitdate>and undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00043">
+               <did>
+                  <unitid>(29) - (30) </unitid>
+                  <unittitle>
+                     <persname>Phillips, Wendell, 1811-1884. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1876" era="ce" startYear="1876">1876
+              </unitdate>and undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00044">
+               <did>
+                  <unitid>(31) </unitid>
+                  <unittitle>Unidentified correspondent. Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1855" era="ce" startYear="1855">1855. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00045">
+               <did>
+                  <unitid>(32) </unitid>
+                  <unittitle>
+                     <persname>Seward, William Henry, 1801-1872. </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1855" era="ce" startYear="1855">1855. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00046">
+               <did>
+                  <unitid>(33) </unitid>
+                  <unittitle>
+                     <persname>Smith, Gerrit, 1797-1874. </persname>Letter to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1860" era="ce" startYear="1860">1860.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00047">
+               <did>
+                  <unitid>(34) </unitid>
+                  <unittitle>
+                     <persname>Seward, William Henry, 1801-1872. </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1859" era="ce" startYear="1859">1859. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00048">
+               <did>
+                  <unitid>(35) </unitid>
+                  <unittitle>
+                     <persname>Giddings, Joshua Reed, 1795 - 1864. </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1856" era="ce" startYear="1856">1856. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00049">
+               <did>
+                  <unitid>(36) </unitid>
+                  <unittitle>
+                     <persname>Durkee, Charles, 1805-1870. </persname>Letter to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1860" era="ce" startYear="1860">1860.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00050">
+               <did>
+                  <unitid>(37) </unitid>
+                  <unittitle>
+                     <persname>Giddings, Joshua Reed, 1795 - 1864. </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1850" era="ce" startYear="1850">1850. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00051">
+               <did>
+                  <unitid>(38) </unitid>
+                  <unittitle>
+                     <persname>Wilson, Henry, 1812-1875. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1850" era="ce" startYear="1850">1850.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00052">
+               <did>
+                  <unitid>(39) </unitid>
+                  <unittitle>
+                     <persname>Newman, John. </persname>Letters to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00053">
+               <did>
+                  <unitid>(40) </unitid>
+                  <unittitle>
+                     <persname>Burleigh, Celia, 1825-1875. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" era="ce">18?? </unitdate>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>Letter signed "Celia M. Burr". </p>
+               </note>
+            </c>
+            <c id="hou01547c00054">
+               <did>
+                  <unitid>(41) - (42) </unitid>
+                  <unittitle>
+                     <persname>Burleigh, William Henry, 1812-1871. </persname>Letters to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1869" era="ce" startYear="1869">1869. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00055">
+               <did>
+                  <unitid>(43) - (57) </unitid>
+                  <unittitle>
+                     <persname>Burleigh, Celia, 1825-1875. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1875" era="ce" startYear="1869">1869-1875.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00056">
+               <did>
+                  <unitid>(58) - (59) </unitid>
+                  <unittitle>
+                     <persname>Tilton, Theodore, 1835-1907. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1863" era="ce" startYear="1860">1860-1863.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00057">
+               <did>
+                  <unitid>(60) - (61) </unitid>
+                  <unittitle>
+                     <persname>Cary, Phoebe, 1824-1871. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1867" era="ce" startYear="1867">1867
+              </unitdate>and undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00058">
+               <did>
+                  <unitid>(62) </unitid>
+                  <unittitle>
+                     <persname>Clemmer, Mary, 1839-1884. </persname>Letter to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1877" era="ce" startYear="1877">1877.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00059">
+               <did>
+                  <unitid>(63) </unitid>
+                  <unittitle>
+                     <persname>Dickinson, Anna E. (Anna Elizabeth), 1842-1932. </persname>Letter to Charles
+              Henry Brainard, <unitdate calendar="gregorian" endYear="1869" era="ce" startYear="1869">1869. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00060">
+               <did>
+                  <unitid>(64) - (66) </unitid>
+                  <unittitle>
+                     <persname>Dawes, Rufus, 1803-1859. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1853" era="ce" startYear="1849">1849-1853.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00061">
+               <did>
+                  <unitid>(67) </unitid>
+                  <unittitle>
+                     <persname>Read, Thomas Buchanan, 1822-1872. </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00062">
+               <did>
+                  <unitid>(68) </unitid>
+                  <unittitle>Unidentified correspondent. Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1870" era="ce" startYear="1870">1870. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00063">
+               <did>
+                  <unitid>(69) </unitid>
+                  <unittitle>
+                     <persname>?, Richard. </persname>Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1860" era="ce" startYear="1860">1860. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00064">
+               <did>
+                  <unitid>(70) </unitid>
+                  <unittitle>
+                     <persname>Reilly, Thomas Devin. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1853" era="ce" startYear="1853">1853.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00065">
+               <did>
+                  <unitid>(71) </unitid>
+                  <unittitle>
+                     <persname>Emerson, Ralph Waldo, 1803-1882</persname>Letter to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1838" era="ce" startYear="1838">1838.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00066">
+               <did>
+                  <unitid>(72) </unitid>
+                  <unittitle>
+                     <persname>Winship. </persname>Letters to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1871" era="ce" startYear="1871">1871. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00067">
+               <did>
+                  <unitid>(73) </unitid>
+                  <unittitle>
+                     <persname>Shillaber, B. P. (Benjamin Penhallow), 1814-1890. </persname>Letter to
+              Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1877" era="ce" startYear="1877">1877. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00068">
+               <did>
+                  <unitid>(74) - (76) </unitid>
+                  <unittitle>
+                     <persname>Bodichon, Barbara Leigh Smith, 1827-1891. </persname>Letters to Charles
+              Henry Brainard, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00069">
+               <did>
+                  <unitid>(77) - (78) </unitid>
+                  <unittitle>
+                     <persname>Mario, Jessie White, 1832-1906. </persname>Letters to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1859" era="ce" startYear="1859">1859
+              </unitdate>and undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00070">
+               <did>
+                  <unitid>(79) </unitid>
+                  <unittitle>
+                     <persname>Hosmer, Harriet Goodhue, 1830-1908. </persname>Letter to Charles Henry
+              Brainard, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00071">
+               <did>
+                  <unitid>(80) </unitid>
+                  <unittitle>
+                     <persname>Cushman, Charlotte, 1816-1876</persname>Letter to Charles Henry Brainard,
+              undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00072">
+               <did>
+                  <unitid>(81) </unitid>
+                  <unittitle>
+                     <persname>Southworth, Emma Dorothy Eliza Nevitte, 1819-1899. </persname>Letter to
+              Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1849" era="ce" startYear="1849">1849.</unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00073">
+               <did>
+                  <unitid>(82) </unitid>
+                  <unittitle>Unidentifed correspondent. Letter to Charles Henry Brainard, undated.
+            </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00074">
+               <did>
+                  <unitid>(83) - (85a) </unitid>
+                  <unittitle>
+                     <persname>King, Susan Petigru, 1824-1875. </persname>Letters to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1869" era="ce" startYear="1855">1855-1869. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00075">
+               <did>
+                  <unitid>(86) - (88) </unitid>
+                  <unittitle>
+                     <persname>Johnston, Thomas M. </persname>Letters to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1860" era="ce" startYear="1859">1859-1860. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00076">
+               <did>
+                  <unitid>(89) - (93) </unitid>
+                  <unittitle>
+                     <persname>Pendleton, John S. (John Strother), 1802-1868. </persname>Letters to Charles
+              Henry Brainard, <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858 </unitdate>and undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00077">
+               <did>
+                  <unitid>(94) </unitid>
+                  <unittitle>
+                     <persname>Baker, E.K. </persname>Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1849" era="ce" startYear="1849">1849. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00078">
+               <did>
+                  <unitid>(95) </unitid>
+                  <unittitle>
+                     <persname>Morehead, C. S. (Charles Slaughter), 1802-1868. </persname>Letter to Charles
+              Henry Brainard, <unitdate calendar="gregorian" endYear="1849" era="ce" startYear="1849">1849. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00079">
+               <did>
+                  <unitid>(96) </unitid>
+                  <unittitle>
+                     <persname>Niles, M. A. H. (Mark Antony Haskell). </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1845" era="ce" startYear="1845">1845. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00080">
+               <did>
+                  <unitid>(97) </unitid>
+                  <unittitle>
+                     <persname>Toombs, Robert Augustus, 1810-1885. </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1854" era="ce" startYear="1854">1854. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00081">
+               <did>
+                  <unitid>(98) </unitid>
+                  <unittitle>
+                     <persname>Millan, W.H.? </persname>Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1855" era="ce" startYear="1855">1855. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00082">
+               <did>
+                  <unitid>(99) </unitid>
+                  <unittitle>
+                     <persname>Pearce, James Alfred, 1804-1862. </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00083">
+               <did>
+                  <unitid>(100) - (101) </unitid>
+                  <unittitle>
+                     <persname>Lowell, Charles, 1782-1861. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1859" era="ce" startYear="1859">1859.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00084">
+               <did>
+                  <unitid>(102) </unitid>
+                  <unittitle>
+                     <persname>Meade? </persname>Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1859" era="ce" startYear="1859">1859. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00085">
+               <did>
+                  <unitid>(103) - (104) </unitid>
+                  <unittitle>
+                     <persname>Slack, Charles W. (Charles Wesley), 1825-1885. </persname>Letters to Charles
+              Henry Brainard, <unitdate calendar="gregorian" endYear="1864" era="ce" startYear="1861">1861-1864. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00086">
+               <did>
+                  <unitid>(105) </unitid>
+                  <unittitle>
+                     <persname>Koehler, S. R. (Sylvester Rosa), 1837-1900. </persname>Letter to Charles
+              Henry Brainard, <unitdate calendar="gregorian" endYear="1869" era="ce" startYear="1869">1869. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00087">
+               <did>
+                  <unitid>(106) </unitid>
+                  <unittitle>
+                     <persname>Carpenter, F. B. (Francis Bicknell), 1830-1900. </persname>Letter to Charles
+              Henry Brainard, <unitdate calendar="gregorian" endYear="1867" era="ce" startYear="1867">1867. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00088">
+               <did>
+                  <unitid>(107) </unitid>
+                  <unittitle>
+                     <persname>Bellows, A. F. (Albert Fitch), 1829-1883. </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" era="ce">187? </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00089">
+               <did>
+                  <unitid>(108) </unitid>
+                  <unittitle>Unidentified correspondent. Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1876" era="ce" startYear="1876">1876. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00090">
+               <did>
+                  <unitid>(109) - (110) </unitid>
+                  <unittitle>
+                     <persname>Rogers, John. </persname>Letters to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1874" era="ce" startYear="1874">1874 </unitdate>and
+              undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00091">
+               <did>
+                  <unitid>(111) </unitid>
+                  <unittitle>
+                     <persname>Ripley, George, 1802-1880. </persname>Letter to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1864" era="ce" startYear="1864">1864.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00092">
+               <did>
+                  <unitid>(112) </unitid>
+                  <unittitle>Unidentified correspondent. Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1879" era="ce" startYear="1879">1879. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00093">
+               <did>
+                  <unitid>(113) - (115) </unitid>
+                  <unittitle>
+                     <persname>Whittier, John Greenleaf, 1807-1892. </persname>Letters to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1882" era="ce" startYear="1881">1881-1882. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00094">
+               <did>
+                  <unitid>(116) - (117) </unitid>
+                  <unittitle>
+                     <persname>Loring, George Bailey, 1817-1891. </persname>Letters to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1881" era="ce" startYear="1881">1881. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00095">
+               <did>
+                  <unitid>(118) </unitid>
+                  <unittitle>
+                     <persname>Whittier, John Greenleaf, 1807-1892. </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1882" era="ce" startYear="1882">1882. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00096">
+               <did>
+                  <unitid>(119) </unitid>
+                  <unittitle>
+                     <persname>B[ ], Joel. </persname>Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1882" era="ce" startYear="1882">1882. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00097">
+               <did>
+                  <unitid>(120) </unitid>
+                  <unittitle>
+                     <persname>Corcoran, W. W. (William Wilson), 1798-1888. </persname>Letter to Charles
+              Henry Brainard, <unitdate calendar="gregorian" endYear="1882" era="ce" startYear="1882">1882. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00098">
+               <did>
+                  <unitid>(121) </unitid>
+                  <unittitle>
+                     <persname>Sprague, Kate Chase, 1840-1899. </persname>Letters to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1883" era="ce" startYear="1883">1883. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00099">
+               <did>
+                  <unitid>(122) </unitid>
+                  <unittitle>Manuscript list of autograph signatures and addresses, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00100">
+               <did>
+                  <unitid>(123) </unitid>
+                  <unittitle>
+                     <persname>Henry, J. A. </persname>Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1883" era="ce" startYear="1883">1883. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00101">
+               <did>
+                  <unitid>(124) </unitid>
+                  <unittitle>
+                     <persname>Gitt, D.L. </persname>Letters to Charles Henry Brainard, undated.
+            </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00102">
+               <did>
+                  <unitid>(125) </unitid>
+                  <unittitle>
+                     <persname>Tuttle, Edmund B. (Edmund Bostwick), 1815-1881. </persname>Letter to Charles
+              Henry Brainard, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00103">
+               <did>
+                  <unitid>(126) </unitid>
+                  <unittitle>
+                     <persname>Walker, Jason. </persname>Letter to Charles Henry Brainard, undated.
+            </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00104">
+               <did>
+                  <unitid>(127) </unitid>
+                  <unittitle>
+                     <persname>Smith, Azariah. </persname>Letters to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1882" era="ce" startYear="1882">1882. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00105">
+               <did>
+                  <unitid>(128) </unitid>
+                  <unittitle>
+                     <persname>Foley, Margaret F. </persname>Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00106">
+               <did>
+                  <unitid>(129) </unitid>
+                  <unittitle>
+                     <persname>Snelling, William Joseph, 1804-1848. </persname>Letter to Charles Henry
+              Brainard, <unitdate calendar="gregorian" endYear="1845" era="ce" startYear="1845">1845. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00107">
+               <did>
+                  <unitid>(130) - (131) </unitid>
+                  <unittitle>
+                     <persname>Carleton, Will, 1845-1912. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1884" era="ce" startYear="1884">1884.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00108">
+               <did>
+                  <unitid>(132) - (133) </unitid>
+                  <unittitle>
+                     <persname>Read, Harriet Denison. </persname>Letters to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1881" era="ce" startYear="1881">1881.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00109">
+               <did>
+                  <unitid>(134) </unitid>
+                  <unittitle>
+                     <persname>Foley, Margaret F. </persname>Letter to Charles Henry Brainard, <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00110">
+               <did>
+                  <unitid>(135) </unitid>
+                  <unittitle>
+                     <persname>Chapman. </persname>Letter to Charles Henry Brainard, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00111">
+               <did>
+                  <unitid>(136) </unitid>
+                  <unittitle>
+                     <persname>Sumner, Charles, 1811-1874. </persname>Letter to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1856" era="ce" startYear="1856">1856.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="hou01547c00112" level="series">
+            <did>
+               <head>(MS Am 889.16) </head>
+               <unittitle>Brainard, Charles Henry, 1817-1885. <genreform>Scrapbook, </genreform>
+                  <unitdate calendar="gregorian" endYear="1857" era="ce" startYear="1795">1795-1857.
+            </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>2 volumes. </extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>Primarily letters, autographs, and portrait prints sometimes with annotations by
+            Brainard. </p>
+               <p>Typescript list of autographs was inserted at front of volume, now removed to separate
+            folder. </p>
+               <p>Includes the following items [blank pages have not been listed]: </p>
+            </note>
+            <c id="hou01547c00113">
+               <did>
+                  <unitid>Page 1 </unitid>
+                  <unittitle>Seated woman and child : <genreform>engraving, </genreform>undated.
+            </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00114">
+               <did>
+                  <unitid>Page 4 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Phobe Cary </title>: portrait print, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00115">
+               <did>
+                  <unitid>Page 6 </unitid>
+                  <unittitle>
+                     <persname>Webster, Noah, 1758-1843. </persname>Letter to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1830" era="ce" startYear="1830">1830.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00116">
+               <did>
+                  <unitid>Page 7 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Allston medal</title> : print, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00117">
+               <did>
+                  <unitid>Page 8 </unitid>
+                  <unittitle>
+                     <persname>Allston, Washington, 1779-1843. </persname>Letter to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1837" era="ce" startYear="1837">1837.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00118">
+               <did>
+                  <unitid>Page 9 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Sarah Stearns</title> : manuscript <genreform>poem,
+              </genreform>undated. </unittitle>
+               </did>
+               <note>
+                  <p>Includes braided lock of human hair. </p>
+               </note>
+            </c>
+            <c id="hou01547c00119">
+               <did>
+                  <unitid>Page 10 </unitid>
+                  <unittitle>
+                     <persname>Dawes, Richard, 1793-1867. </persname>Letter to Charles Henry Brainard,
+                <unitdate calendar="gregorian" endYear="1854" era="ce" startYear="1854">1854.
+              </unitdate>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>Also Includes: Note from <persname>Emma Dorothy Eliza Nevitte Southworth
+              </persname>to Charles Henry Brainard, undated. </p>
+               </note>
+            </c>
+            <c id="hou01547c00120">
+               <did>
+                  <unitid>Page 14 </unitid>
+                  <unittitle>
+                     <persname>Russell, John. </persname>Letter to James?, <unitdate calendar="gregorian" endYear="1810" era="ce" startYear="1810">1810. </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00121">
+               <did>
+                  <unitid>Page 18 </unitid>
+                  <unittitle>
+                     <persname>Gallatin, Albert, 1761-1849. </persname>Letter to <persname>George P.
+                Stark?, </persname>
+                     <unitdate calendar="gregorian" endYear="1847" era="ce" startYear="1847">1847.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00122">
+               <did>
+                  <unitid>Page 19</unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Brig. Genl. Daniel Morgan : </title>
+                     <genreform>engraving </genreform>, undated. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <persname>Morgan, Daniel, 1736-1802. </persname>Autograph. </p>
+               </note>
+            </c>
+            <c id="hou01547c00123">
+               <did>
+                  <unitid>Page 20 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Glover, John. </persname>Autograph. </item>
+                        <item>
+                           <persname>Morgan, Daniel, 1736-1802. </persname>
+                           <genreform>Receipt, </genreform>
+                           <unitdate calendar="gregorian" endYear="1798" era="ce" startYear="1798"> 1798.
+                  </unitdate>
+                        </item>
+                     </list>
+                  </p>
+                  <p>Page has top portion torn away. </p>
+               </note>
+            </c>
+            <c id="hou01547c00124">
+               <did>
+                  <unitid>Page 22 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Easton, J.H. </persname>Autograph. </item>
+                        <item>? from U. S. Navy Department. Autograph. </item>
+                        <item>
+                           <persname>Priestly, J. </persname>Autograph. </item>
+                        <item>
+                           <persname>Vance, Joseph, 1786-1852. </persname>Autograph. </item>
+                        <item>
+                           <persname>Clay, Henry, 1777-1852. </persname>Autograph. </item>
+                        <item>
+                           <persname>Force, Peter, 1790-1868. </persname>Autograph. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00125">
+               <did>
+                  <unitid>Page 23 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Major General Arthur St. Clair</title> :
+                <genreform>engraving </genreform>, undated. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <persname>St. Clair, Arthur, 1734-1818. </persname>Autograph. </p>
+               </note>
+            </c>
+            <c id="hou01547c00126">
+               <did>
+                  <unitid>Page 24 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>St. Clair, Arthur, 1734-1818. </persname>Autograph. </item>
+                        <item>
+                           <persname>Randolph, Peyton, 1721-1775. </persname>Autograph. </item>
+                        <item>Illegible autograph. </item>
+                        <item>
+                           <persname>Eliott, Jesse D. (Jesse Duncan), 1782-1845. </persname>Autograph. </item>
+                        <item>
+                           <persname>Southard, Samuel L. (Samuel Lewis), 1787-1842. </persname>
+                        </item>
+                        <item>Illegible autograph. </item>
+                        <item>
+                           <persname>Webster, Daniel, 1782-1852. </persname>Autograph. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00127">
+               <did>
+                  <unitid>Page 26 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Irving, Washington, 1783-1859. </persname>Autograph. </item>
+                        <item>
+                           <persname>Cooper, James Fenimore, 1789-1851. </persname>Autograph. </item>
+                        <item>
+                           <persname>Everett, Edward, 1794-1865. </persname>Autograph. </item>
+                        <item>
+                           <persname>Briggs, George N. (George Nixon), 1796-1861. </persname>Autograph. </item>
+                        <item>
+                           <persname>Seaton, William Winston, 1785-1866. </persname>Autograph. </item>
+                        <item>
+                           <persname>Espy, James P. (James Pollard), 1785-1860. </persname>Autograph. </item>
+                        <item>
+                           <persname>Nichol, J.P. (John Pringle), 1804-1859. </persname>Autograph. </item>
+                        <item>
+                           <persname>Davis, John Wesley, 1799-1859. </persname>Autograph. </item>
+                        <item>
+                           <persname>Hill, Isaac, 1789-1851. </persname>Autograph. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00128">
+               <did>
+                  <unitid>Page 27 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Custis, George Washington Parke, 1781-1857. </persname>Autograph. </item>
+                        <item>
+                           <persname>Ujhari, Ladislaus? </persname> Autograph. </item>
+                        <item>
+                           <persname>Fillmore, Milliard, 1800-1874. </persname>Autograph. </item>
+                        <item>
+                           <persname>Dawes, Rufus, 1803-1859. </persname>Autograph note. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00129">
+               <did>
+                  <unitid>Page 28 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Whittier, John Greenleaf, 1807-1892. </persname>Autograph. </item>
+                        <item>Part of fifty dollar banknote with illegible signature. </item>
+                        <item>
+                           <persname>Halleck, Fitz-Greene, 1790-1867. </persname>Autograph. </item>
+                        <item>
+                           <persname>Morris, George Pope, 1802-1864. </persname>Autograph. </item>
+                        <item>
+                           <persname>Pierpont, John, 1785-1866. </persname>Autograph. </item>
+                        <item>
+                           <persname>Sigourney, L.H. (Lydia Howard), 1791-1865. </persname>Autograph. </item>
+                        <item>
+                           <persname>Bryant, William Cullen, 1794-1878. </persname>Autograph. </item>
+                        <item>
+                           <persname>Gallagher, William D. (William Davis), 1808-1894. </persname>Autograph.
+                </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00130">
+               <did>
+                  <unitid>Page 29 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Stearns, Geo. L. (George Luther), 1809-1867. </persname>Autograph,
+                  includes address, <geogname>Medford, Massachusetts. </geogname>
+                        </item>
+                        <item>
+                           <persname>Manley, John R? </persname>Autograph, includes address, 24 Doch Square. </item>
+                        <item>
+                           <persname>Woodman, Horatio, 1821-1879. </persname>Autograph, includes address, 25
+                  R.R. Exchange. </item>
+                        <item>
+                           <persname>Dudley, E.G? </persname>Autograph, includes address, 20 Court Street.
+                </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00131">
+               <did>
+                  <unitid>Page 30 </unitid>
+                  <unittitle>
+                     <persname>Clay, H. </persname> Autograph. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00132">
+               <did>
+                  <unitid>Page 31 </unitid>
+                  <unittitle>
+                     <persname>Sigourney, L.H. (Lydia Howard), 1791-1865. </persname>
+                     <title xlink:type="simple">The Butterfly</title> : autograph manuscript poem.
+            </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00133">
+               <did>
+                  <unitid>Page 32 </unitid>
+                  <unittitle>
+                     <persname>Lyon, Caleb, 1822-1875. </persname>
+                     <title xlink:type="simple">Embathed in thoughts divine my soul</title> [first line] :
+              autograph manuscript poem; <geogname>Washington D.C., </geogname>
+                     <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+              </unitdate>February 19. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00134">
+               <did>
+                  <unitid>Page 33 </unitid>
+                  <unittitle>
+                     <persname>Gould, Hannah Flagg, 1789-1865. </persname>
+                     <title xlink:type="simple">We Are Spirits</title> [first stanza] : autograph
+              manuscript poem, <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848 </unitdate>September 4. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00135">
+               <did>
+                  <unitid>Page 34 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Eliza Leslie</title> : <genreform>engraving,
+              </genreform>undated. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <persname>Leslie, Eliza, 1787-1858. </persname>Autograph; United States
+              Hotel, <geogname>Philadelphia, Pennsylvania, </geogname>
+                     <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+              </unitdate>February 22. </p>
+               </note>
+            </c>
+            <c id="hou01547c00136">
+               <did>
+                  <unitid>Page 35 </unitid>
+                  <unittitle>
+                     <persname>Poore, Benjamin Perley, 1820-1887. </persname>
+                     <title xlink:type="simple">Of Poets</title> : autograph manuscript poem to Charles
+              Henry Brainard, Indian Hill Farm near <geogname>Newburyport, Massachusetts, </geogname>
+                     <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848.
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00137">
+               <did>
+                  <unitid>Page 36 </unitid>
+                  <unittitle>
+                     <persname>Dow, Jesse E. (Jesse Erskine), 1809-1850. </persname>
+                     <title xlink:type="simple">Star of the brave whose sisters glow</title> [first line] :
+              autograph manuscript poem; <geogname>Washington, D.C., </geogname>
+                     <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+              </unitdate>January 28. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00138">
+               <did>
+                  <unitid>Page 37 </unitid>
+                  <unittitle>
+                     <persname>Hale, Sarah Josepha Buell, 1788-1879. </persname>
+                     <title xlink:type="simple">While our faith in good grows stronger</title> [first line]
+              : autograph manuscript poem, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00139">
+               <did>
+                  <unitid>Page 38 </unitid>
+                  <unittitle>
+                     <persname>Zschokke, Heinrich, 1771-1848. </persname>Letter to unidentified recipient.
+            </unittitle>
+               </did>
+               <note>
+                  <p>Written in German. </p>
+               </note>
+            </c>
+            <c id="hou01547c00140">
+               <did>
+                  <unitid>Page 39 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Channing, William F. (William Francis), 1820-1901. </persname>Letter to
+                  Charles Henry Brainard; <geogname>Boston, Massachusetts, </geogname>
+                           <unitdate calendar="gregorian" endYear="1857" era="ce" startYear="1857">1857
+                  </unitdate>May 4. </item>
+                        <item>
+                           <persname>Channing, William Ellery, 1780-1842. </persname>Autograph. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00141">
+               <did>
+                  <unitid>Page 40 </unitid>
+                  <unittitle>
+                     <persname>Dawes, Rufus, 1803-1859. </persname>
+                     <title xlink:type="simple">This is the hour of thought - when mind is free</title>
+              [first line] : autograph manuscript poem, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00142">
+               <did>
+                  <unitid>Page 42 </unitid>
+                  <unittitle>
+                     <persname>Read, Thomas Buchanan, 1822-1872. </persname>
+                     <title xlink:type="simple">Some Things Love Me</title> : autograph manuscript poem,
+              undated. Includes notation to Charles Henry Brainard. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00143">
+               <did>
+                  <unitid>Page 44 </unitid>
+                  <unittitle>
+                     <persname>Harrison, A.M. (Alexander Medina), 1829-1881. </persname>
+                     <title xlink:type="simple">To Charlie</title> : autograph manuscript poem;
+                <geogname>Washington D.C., </geogname>
+                     <unitdate calendar="gregorian" endYear="1847" era="ce" startYear="1847">1847?
+              </unitdate>December 25. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00144">
+               <did>
+                  <unitid>Page 45 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">John Greenleaf Whittier</title> :
+                <genreform>engraving</genreform>, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00145">
+               <did>
+                  <unitid>Page 46 </unitid>
+                  <unittitle>
+                     <persname>Willis, Nathaniel Parker, 1806-1867. </persname>Letter to <persname>Horatio
+                Greenough, </persname>
+                     <unitdate calendar="gregorian" endYear="1842" era="ce" startYear="1842">1842
+              </unitdate>July 16. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00146">
+               <did>
+                  <unitid>Page 47 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Thomas Buchanan Read</title> :
+                <genreform>engraving</genreform>, undated. <unitdate calendar="gregorian" era="ce" />
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00147">
+               <did>
+                  <unitid>Page 48 </unitid>
+                  <unittitle>
+                     <persname>Sparks, Jared, 1789-1866. </persname>Letter to <persname>Benjamin Perley
+                Poore, </persname>
+                     <unitdate calendar="gregorian" endYear="1847" era="ce" startYear="1847">1847
+              </unitdate>October 25. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00148">
+               <did>
+                  <unitid>Page 49</unitid>
+                  <unittitle>
+                     <persname>Lawrence, Abbott, 1792-1855. </persname>Letter to <persname>D.P. King?; </persname>
+                     <geogname>Boston, Massachusetts, </geogname>
+                     <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+              </unitdate>March 1? </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00149">
+               <did>
+                  <unitid>Page 50 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>?, Charles. </persname>Autograph, <unitdate calendar="gregorian" endYear="1795" era="ce" startYear="1795">1795 </unitdate>May 5. </item>
+                        <item>
+                           <persname>Hiller, Joseph, 1748-1814. </persname>Autograph. </item>
+                        <item>
+                           <persname>Lee, William Raymond, 1807-1891. </persname>Autograph. </item>
+                        <item>
+                           <persname>Hawthorne, Nathaniel, 1804-1864. </persname>Autograph. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00150">
+               <did>
+                  <unitid>Page 52 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">George Lippard</title> : <genreform>engraving, </genreform>
+              undated. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <persname>Lippard, George, 1822-1854. </persname>Autograph. </p>
+               </note>
+            </c>
+            <c id="hou01547c00151">
+               <did>
+                  <unitid>Page 53 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Orville Dewey</title> : <genreform>engraving</genreform>,
+              undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00152">
+               <did>
+                  <unitid>Page 54 </unitid>
+                  <unittitle>
+                     <persname>Dewey, Orville, 1794-1882. </persname>Letter to Charles Henry Brainard;
+                <geogname>New York, </geogname>
+                     <unitdate calendar="gregorian" endYear="1837" era="ce" startYear="1837">1837
+              </unitdate>May? 24. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00153">
+               <did>
+                  <unitid>Page 56 </unitid>
+                  <unittitle>
+                     <persname>Eastburn, Manton, 1807-1872. </persname>Letter to Charles Henry Brainard;
+                <geogname>New York, </geogname>
+                     <unitdate calendar="gregorian" endYear="1837" era="ce" startYear="1837">1837
+              </unitdate>May 18. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00154">
+               <did>
+                  <unitid>Page 57</unitid>
+                  <unittitle>
+                     <persname>Simms, William Gilmore, 1806-1870. </persname>Letter to <persname>Solyman
+                Brown; </persname>
+                     <geogname>Charleston, South Carolina, </geogname>
+                     <unitdate calendar="gregorian" endYear="1837" era="ce" startYear="1837">1837
+              </unitdate>May 28. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00155">
+               <did>
+                  <unitid>Page 58 </unitid>
+                  <unittitle>
+                     <persname>Headley, Joel Tyler, 1813-1897. </persname>Letter to Charles Henry Brainard;
+                <geogname>New York, </geogname>
+                     <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848?
+              </unitdate>February 22. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00156">
+               <did>
+                  <unitid>Page 59 </unitid>
+                  <unittitle>
+                     <persname>Everett, Edward, 1794-1865. </persname>Letter to <persname>George P. Marsh; </persname>
+                     <geogname>Cambridge, Massachusetts, </geogname>
+                     <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+              </unitdate>August 22. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00157">
+               <did>
+                  <unitid>Page 60 </unitid>
+                  <unittitle>
+                     <persname>Choate, Rufus, 1799-1859. </persname>Letter to unidentified recipient;
+                <geogname>Boston, Massachusetts, </geogname>
+                     <unitdate calendar="gregorian" endYear="1849" era="ce" startYear="1849">1849
+              </unitdate>January 10. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00158">
+               <did>
+                  <unitid>Page 62</unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Mathew, Theobald, 1790-1856. </persname>Autograph. </item>
+                        <item>Pencil sketch titled Yankee Doodle. </item>
+                        <item>Sketch titled Willard. </item>
+                     </list>
+                  </p>
+                  <p>Page has bottom portion torn away. </p>
+               </note>
+            </c>
+            <c id="hou01547c00159">
+               <did>
+                  <unitid>Page 63 </unitid>
+                  <unittitle>
+                     <persname>James, G.P.R. (George Payne Rainsford), 1801?-1860. </persname>Letter to
+              Charles Henry Brainard; New York Hotel, <geogname>New York, </geogname>
+                     <unitdate calendar="gregorian" endYear="1837" era="ce" startYear="1837">1837
+              </unitdate>July 27. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00160">
+               <did>
+                  <unitid>Page 64 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Wallace, William Ross, 1819-1881. </persname>Excerpt from <title xlink:type="simple">Alban, </title>undated. </item>
+                        <item>
+                           <persname>Otis, Harrison Gray, 1765-1848. </persname>Letter to Charles Henry
+                  Brainard, <unitdate calendar="gregorian" endYear="1845" era="ce" startYear="1845">1845 </unitdate>June 6. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00161">
+               <did>
+                  <unitid>Page 65 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Fredrika Bremer</title> : <genreform>engraving,
+              </genreform> undated. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <persname>Bremer, Fredrika, 1801-1865. </persname>Autograph. </p>
+               </note>
+            </c>
+            <c id="hou01547c00162">
+               <did>
+                  <unitid>Page 66 </unitid>
+                  <unittitle>
+                     <persname>Cary, Phoebe, 1824-1871. </persname>
+                     <title xlink:type="simple">The Poem</title> : autograph manuscript poem, undated.
+            </unittitle>
+               </did>
+               <note>
+                  <p>Also includes newspaper <genreform>clipping </genreform>of Cary's funeral. </p>
+               </note>
+            </c>
+            <c id="hou01547c00163">
+               <did>
+                  <unitid>Page 67 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Daniel Webster</title> : <genreform>engraving, </genreform>
+              undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00164">
+               <did>
+                  <unitid>Page 68 </unitid>
+                  <unittitle>
+                     <persname>Webster, Daniel, 1782-1852. </persname>Autograph note, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00165">
+               <did>
+                  <unitid>Page 70 </unitid>
+                  <unittitle>
+                     <persname>Bache, A.D. (Alexander Dallas), 1806-1867. </persname>Letter to J.R.?,
+                <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+              </unitdate>June 18. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00166">
+               <did>
+                  <unitid>Page 71 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Scott, Winfield, 1786-1866. </persname>Letter to unidentified recipient;
+                    <geogname>Washington D.C., </geogname>
+                           <unitdate calendar="gregorian" endYear="1852" era="ce" startYear="1852">1852
+                  </unitdate>September 15. </item>
+                        <item>
+                           <persname>Bancroft, George, 1800-1891. </persname>Letter to unidentified
+                  recipient, <unitdate calendar="gregorian" endYear="1855" era="ce" startYear="1855">1855 </unitdate> January. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00167">
+               <did>
+                  <unitid>Page 72 </unitid>
+                  <unittitle>
+                     <persname>Duffy, Charles Gavan, Sir, 1816-1903. </persname>Autograph. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00168">
+               <did>
+                  <unitid>Page 73 </unitid>
+                  <unittitle>
+                     <persname>Hagkill, D.H.? </persname>Autograph. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00169">
+               <did>
+                  <unitid>Page 74 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">A Short History of Lorenzo Da Ponte's Life</title> :
+              autograph manuscript, undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00170">
+               <did>
+                  <unitid>Page 75 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">John Sartain</title> : <genreform>engraving,
+              </genreform>undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00171">
+               <did>
+                  <unitid>Page 76</unitid>
+                  <unittitle>
+                     <persname>Kean, Ellen, 1805-1880. </persname>Letter to unknown recipient, undated.
+            </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00172">
+               <did>
+                  <unitid>Page 77</unitid>
+                  <unittitle>
+                     <persname>Burton, William E. (William Evans), 1802-1860. </persname>Letter to Foster?,
+                <unitdate calendar="gregorian" endYear="1851" era="ce" startYear="1851">1851
+              </unitdate>July 5. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00173">
+               <did>
+                  <unitid>Page 78 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>Newspaper <genreform>clipping, </genreform>obituary of Jacqueline S.
+                  Pendleton. <unitdate calendar="gregorian" endYear="1859" era="ce" startYear="1859">1859 </unitdate>April 12. </item>
+                        <item>
+                           <title xlink:type="simple">Hope</title> : autograph manuscript poem, undated. </item>
+                        <item>
+                           <persname>Pendleton, Jacqueline S. </persname>Autograph, <unitdate calendar="gregorian" endYear="1858" era="ce" startYear="1858">1858
+                  </unitdate>March 15. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00174">
+               <did>
+                  <unitid>Page 80 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Hughes, John. </persname>Autograph. </item>
+                        <item>
+                           <persname>?, Frank. </persname>Autograph. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00175">
+               <did>
+                  <unitid>Page 81 </unitid>
+                  <unittitle>
+                     <persname>Shillaber, B.P. (Benjamin Penhallow), 1814-1890. </persname>Letter written
+              under the pen name <persname>Ruth Parington </persname>to an unidentified recipient,
+              undated. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00176">
+               <did>
+                  <unitid>Page 82 </unitid>
+                  <unittitle>
+                     <persname>Irving, Washington, 1783-1859. </persname>Letter to William, <geogname>New
+                York, </geogname>
+                     <unitdate calendar="gregorian" endYear="1834" era="ce" startYear="1834">1834
+              </unitdate>May 8. </unittitle>
+               </did>
+               <note>
+                  <p>Signature has been cut out. </p>
+               </note>
+            </c>
+            <c id="hou01547c00177">
+               <did>
+                  <unitid>Page 84 </unitid>
+                  <unittitle>
+                     <persname>Bull, Ole, 1810-1880. </persname>Letter to unidentified recipient; Astor
+              House, <geogname>New York, </geogname>
+                     <unitdate calendar="gregorian" endYear="1875" era="ce" startYear="1875">1875?
+              </unitdate>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00178">
+               <did>
+                  <unitid>Page 85 </unitid>
+                  <unittitle>
+                     <persname>Sully, Thomas, 1783-1872. </persname>Letter to <persname>Solyman Brown; </persname>
+                     <geogname>Philadelphia, Pennsylvania, </geogname>
+                     <unitdate calendar="gregorian" endYear="1837" era="ce" startYear="1837">1837
+              </unitdate>May 18. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00179">
+               <did>
+                  <unitid>Page 87 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Horace Greeley</title> : <genreform>engraving, </genreform>
+              undated. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <persname>Greeley, Horace, 1811-1872. </persname>Autograph; <geogname>New
+                York, </geogname>
+                     <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+              </unitdate>April 16. </p>
+               </note>
+            </c>
+            <c id="hou01547c00180">
+               <did>
+                  <unitid>Page 90 </unitid>
+                  <unittitle>
+                     <persname>Tupper, Martin Farquhar, 1810-1889. </persname>Autograph note; <geogname>New
+                York, </geogname>
+                     <unitdate calendar="gregorian" endYear="1851" era="ce" startYear="1851">1851
+              </unitdate>May 23. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00181">
+               <did>
+                  <unitid>Page 106 </unitid>
+                  <unittitle>
+                     <persname>Prescott, William Hickling, 1796-1859. </persname>Autograph note, <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848 </unitdate>March
+              17. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00182">
+               <did>
+                  <unitid>Page 107 </unitid>
+                  <unittitle>
+                     <persname>Burritt, Elihu, 1810-1879. </persname>Letter to <persname>Horace Mann; </persname>
+                     <geogname>London, England, </geogname>
+                     <unitdate calendar="gregorian" endYear="1851" era="ce" startYear="1851">1851
+              </unitdate>February 14. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00183">
+               <did>
+                  <unitid>Page 113 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Nott, Eliphalet, 1773-1866. </persname>Autograph note. </item>
+                        <item>International Exchange logo. </item>
+                        <item>
+                           <persname>Vattemare, Alexandre, 1796-1864. </persname>Autograph;
+                    <geogname>Washington, </geogname>
+                           <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+                  </unitdate>January 21. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00184">
+               <did>
+                  <unitid>Page 116 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Vermont Autograph and Remarker</title> : pen printed
+              newspaper, <geogname>Huntington, Vermont, </geogname>
+                     <unitdate calendar="gregorian" endYear="1845" era="ce" startYear="1845">1845
+              </unitdate>April 8. </unittitle>
+               </did>
+               <note>
+                  <p>Possibly written by <persname>James Johns. </persname>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00185">
+               <did>
+                  <unitid>Page 118 </unitid>
+                  <unittitle>
+                     <persname>Marsh, George Perkins, 1801-1882. </persname>Letter to unknown recipient;
+                <geogname>Burlington, </geogname>
+                     <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+              </unitdate>October 5. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00186">
+               <did>
+                  <unitid>Page 119 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <title xlink:type="simple">Of all the poets of our time,</title> [first line] :
+                  manuscript poem, undated. </item>
+                        <item>
+                           <persname>Kimball, J.F.? </persname>Autograph. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00187">
+               <did>
+                  <unitid>Page 127 </unitid>
+                  <unittitle>
+                     <persname>Kellogg, Miner K. (Miner Kilbourne), 1814-1899. </persname>Autograph,
+                <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+              </unitdate>April 21. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00188">
+               <did>
+                  <unitid>Page 129 </unitid>
+                  <unittitle>
+                     <title xlink:type="simple">Portrait of William Lloyd Garrison</title> :
+                <genreform>advertisement. </genreform>
+                  </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00189">
+               <did>
+                  <unitid>Page 130 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>Illegible autograph, includes address, <geogname>Boston. </geogname>
+                        </item>
+                        <item>
+                           <persname>Phelps, Charles A. (Charles Abner), 1820-1902. </persname> Autograph,
+                  includes address, <geogname>Boston. </geogname>
+                        </item>
+                        <item>Illegible autograph, includes address, Custom House. </item>
+                        <item>
+                           <persname>Sawyer, Warren. </persname>Autograph, includes address, 65 Kilby Street. </item>
+                        <item>
+                           <persname>Slack, Charles W. (Charles Wesley), 1825-1885. </persname> Autograph,
+                  includes address, W. Garland Street. </item>
+                        <item>
+                           <persname>Sewall, Samuel E. (Samuel Edmund), 1799-1888. </persname>Autograph,
+                  includes address, 46 Washington Street. </item>
+                        <item>
+                           <persname>Henshaw, Fred H. </persname>Autograph, includes address, 112 Washington
+                  Street. </item>
+                        <item>
+                           <persname>Hick, Amos? </persname>Autograph, includes address, <geogname>Boston.
+                  </geogname>
+                        </item>
+                        <item>
+                           <persname>Phillips, Wendell, 1811-1884. </persname>Autograph. </item>
+                        <item>
+                           <persname>Smith, Garrett, 1812-1892. </persname>Autograph. </item>
+                        <item>
+                           <persname>Drew, John G. </persname>Autograph, includes address, 180 Read Street,
+                    <geogname>New York. </geogname>
+                        </item>
+                        <item>
+                           <persname>Sumner, Charles, 1811-1874. </persname>Autograph. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00190">
+               <did>
+                  <unitid>Page 131 </unitid>
+                  <unittitle>Publication announcement of <title xlink:type="simple">A Large Lithographic
+                Portrait of Dr. G. Bailey. </title>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>Subscribers include: <list>
+                        <item>
+                           <persname>Colfax, Schuyler, 1823-1885. </persname>Autograph, includes addresss,
+                    <geogname>South Bend, Indiana. </geogname>
+                        </item>
+                        <item>
+                           <persname>Brigham, Jason A.? </persname>Autograph. </item>
+                        <item>
+                           <persname>Poore, Benjamin Perley, 1820-1887. </persname>Autograph, includes
+                  address, <geogname>Newburyport, Massachusetts. </geogname>
+                        </item>
+                        <item>
+                           <persname>Burlingame, N.? </persname>Autograph, includes address,
+                    <geogname>Cambridge. </geogname>
+                        </item>
+                        <item>
+                           <persname>Spinner, Francis Elias, 1802-1890. </persname>Autograph, includes
+                  address, <geogname>Mohawk, New York. </geogname>
+                        </item>
+                        <item>
+                           <persname>Washburn, Israel, 1813-1883. </persname>Autograph, includes address,
+                    <persname>Orono, Maine. </persname>
+                        </item>
+                        <item>
+                           <persname>Blair, J.P.? </persname>Autograph, includes address, <geogname>St.
+                    Louis, Missouri. </geogname>
+                        </item>
+                        <item>
+                           <persname>Decker, Charles? </persname>Autograph, includes address,
+                    <geogname>Kenosha, Wisconsin. </geogname>
+                        </item>
+                        <item>
+                           <persname>Seward, William Henry, 1801-1872. </persname>Autograph, includes
+                  address, Auburn. </item>
+                        <item>
+                           <persname>King, Preston, 1806-1865. </persname>Autograph, includes address,
+                    <geogname>Ogdensburgh, New York. </geogname>
+                        </item>
+                        <item>
+                           <persname>Hamlin, Hannibal, 1809-1891? </persname>Autograph, includes address,
+                    <geogname>Hampden, Maine. </geogname>
+                        </item>
+                        <item>Newspaper <genreform>clipping </genreform>describes D'Avignon, a prominent
+                  lithographic artist. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00191">
+               <did>
+                  <unitid>Page 132 </unitid>
+                  <unittitle>Letter recommending Charles Henry Brainard for office of Messenger of the
+              House; <geogname>Washington, </geogname>
+                     <unitdate calendar="gregorian" endYear="1847" era="ce" startYear="1847">1847
+              </unitdate>December 7. </unittitle>
+               </did>
+               <note>
+                  <p>Includes signatures of: <list>
+                        <item>
+                           <persname>King, Daniel P. (Daniel Putnam), 1801-1850. </persname>
+                        </item>
+                        <item>
+                           <persname>Hudson, Charles, 1795-1881. </persname>
+                        </item>
+                        <item>
+                           <persname>Hale, Artemas, 1783-1882. </persname>
+                        </item>
+                        <item>
+                           <persname>Roshwell, J.? </persname>
+                        </item>
+                        <item>
+                           <persname>Adams, John Quincy, 1767-1848. </persname>
+                        </item>
+                        <item>
+                           <persname>Grinnell, Joseph, 1788-1885. </persname>
+                        </item>
+                        <item>
+                           <persname>George Arkman? </persname>
+                        </item>
+                        <item>
+                           <persname>Abbott, Amos, 1786-1868. </persname>
+                        </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00192">
+               <did>
+                  <unitid>Page 133 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Chih-ta-jin, </persname>Minister of China, autograph. </item>
+                        <item>
+                           <persname>Sun-ta-jin, </persname>Minister of China, autograph. </item>
+                     </list>
+                  </p>
+                  <p>Autographs are in Chinese characters. </p>
+               </note>
+            </c>
+            <c id="hou01547c00193">
+               <did>
+                  <unitid>Page 134 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Fung-jee, </persname>Attaché, autograph. </item>
+                        <item>
+                           <persname>Jn. Têh, </persname>from <geogname>Peking, China. </geogname>Autograph.
+                </item>
+                     </list>
+                  </p>
+                  <p>Autographs are in Chinese characters. </p>
+               </note>
+            </c>
+            <c id="hou01547c00194">
+               <did>
+                  <unitid>Page 135 </unitid>
+                  <unittitle>
+                     <persname>Adams, John Quincy, 1767-1848. </persname>Letter (facsimile) to Edmund
+              Quincy, <unitdate calendar="gregorian" endYear="1838" era="ce" startYear="1838">1838
+              </unitdate>July 28. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00195">
+               <did>
+                  <unitid>Page 136 </unitid>
+                  <unittitle>
+                     <persname>Channing, W.H. (William Henry), 1810-1884. </persname>Letter to unidentified
+              recipient; <geogname>Boston, Massachusetts, </geogname>
+                     <unitdate calendar="gregorian" endYear="1849" era="ce" startYear="1849">1849
+              </unitdate>January 8. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00196">
+               <did>
+                  <unitid>Page 137 </unitid>
+                  <unittitle>
+                     <persname>Lieber, Francis, 1800-1872. </persname>Letter to unidentified recipient;
+                <geogname>Columbia, South Carolina, </geogname>
+                     <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+              </unitdate>January 15. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00197">
+               <did>
+                  <unitid>Page 139 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Snelling, William Joseph, 1804-1848. </persname>Autograph pasted onto an
+                    <genreform>epigram. </genreform>
+                        </item>
+                        <item>
+                           <persname>Champagny, Jean-Baptiste Nompère de, duc de Cadore, 1756-1834.
+                  </persname>Autograph note; <geogname>Paris, France, </geogname>
+                           <unitdate calendar="gregorian" endYear="1811" era="ce" startYear="1811">1811
+                  </unitdate>January 26, in French. </item>
+                        <item>
+                           <persname>Johnson, Richard M. (Richard Mentor), 1780-1850. </persname>Autograph
+                  note. <unitdate calendar="gregorian" endYear="1848" era="ce" startYear="1848">1848
+                  </unitdate>February 8. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00198">
+               <did>
+                  <unitid>Page 140 </unitid>
+                  <unittitle>
+                     <persname>Beattie, William, 1793-1875. </persname>Letter to unidentified recipient;
+                <geogname>London, England, </geogname>
+                     <unitdate calendar="gregorian" endYear="1833" era="ce" startYear="1833">1833
+              </unitdate>March 27. </unittitle>
+               </did>
+            </c>
+            <c id="hou01547c00199">
+               <did>
+                  <unitid>Page 141 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>Addressed envelope with postmark to unknown recipient, <unitdate calendar="gregorian" endYear="1835" era="ce" startYear="1835">1835
+                  </unitdate>June 6. </item>
+                        <item>Addressed envelope to Postmaster in Plymouth, <unitdate calendar="gregorian" endYear="1835" era="ce" startYear="1835">1835? </unitdate>June 29. </item>
+                        <item>Addressed envelope with postmark, <unitdate calendar="gregorian" endYear="1833" era="ce" startYear="1833">1833 </unitdate>to unknown recipient. </item>
+                        <item>Addressed envelope to Lt. Col Thornhill, <unitdate calendar="gregorian" endYear="1827" era="ce" startYear="1827">1827 </unitdate>January 30. </item>
+                     </list>
+                  </p>
+                  <p>All envelopes are excised and pasted on Page. </p>
+               </note>
+            </c>
+            <c id="hou01547c00200">
+               <did>
+                  <unitid>Page 142 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Palmerston, Henry John Temple, Viscount, 1784-1865.
+                  </persname>Autograph, <unitdate calendar="gregorian" endYear="1829" era="ce" startYear="1829">1829 </unitdate>July 29. </item>
+                        <item>
+                           <persname>Melville,</persname>correspondent. Cut envelope addressed to
+                    <persname>Robert Trotter, </persname>Esq.; <geogname>London, </geogname>
+                           <unitdate calendar="gregorian" endYear="1838" era="ce" startYear="1838">1838
+                  </unitdate>November 15. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00201">
+               <did>
+                  <unitid>Page 143 </unitid>
+                  <unittitle>Multiple items. </unittitle>
+               </did>
+               <note>
+                  <p>Includes: <list>
+                        <item>
+                           <persname>Royall, Anne Newport, 1769-1854. </persname>Autograph. </item>
+                        <item>
+                           <persname>Adams, Charles Francis, 1807-1886. </persname>Letter excerpt to unknown
+                  recipient. </item>
+                        <item>
+                           <persname>Brisbane, Albert, 1809-1890. </persname>Letter excerpt to unknown
+                  recipient. </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01547c00202">
+               <did>
+                  <unitid>Page 144 </unitid>
+                  <unittitle>Letter recommending Charles Henry Brainard for a clerkship in the New York
+              Custom House by members of the Thirtieth Congress, <unitdate calendar="gregorian" endYear="1849" era="ce" startYear="1849">1849 </unitdate>February 24. </unittitle>
+               </did>
+               <note>
+                  <p>Signatures include: <list>
+                        <item>
+                           <persname>King, Daniel P. (Daniel Putnam), 1801-1850. </persname>
+                        </item>
+                        <item>
+                           <persname>Chapman, John G. (John Grant), 1798-1856. </persname>
+                        </item>
+                        <item>
+                           <persname>Canby, R.S. </persname>
+                        </item>
+                        <item>
+                           <persname>Crowell, John, 1801-1883. </persname>
+                        </item>
+                        <item>
+                           <persname>Slingerland, John I., 1804-1862. </persname>
+                        </item>
+                        <item>
+                           <persname>Blackmar, Esbon. </persname>
+                        </item>
+                        <item>
+                           <persname>Rockwell, Julius, 1805-1888. </persname>
+                        </item>
+                        <item>
+                           <persname>Strohm, John, 1793-1884. </persname>
+                        </item>
+                        <item>
+                           <persname>Nes, Henry, 1799-1850. </persname>
+                        </item>
+                        <item>
+                           <persname>Putnam, Harvey. </persname>
+                        </item>
+                        <item>
+                           <persname>Baker, E.D.? </persname>
+                        </item>
+                     </list>
+                  </p>
+               </note>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

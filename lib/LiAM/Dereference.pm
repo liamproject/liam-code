@@ -4,6 +4,7 @@ package Apache2::LiAM::Dereference;
 
 # Eric Lease Morgan <eric_morgan@infomotions.com>
 # December 7, 2013 - first investigations; based on Apache2::Alex::Dereference
+# January  7, 2014  - by default return HTML, not RDF
 
 
 # configure
@@ -23,25 +24,35 @@ sub handler {
 	my $cgi = CGI->new;
 	my $id  = substr( $r->uri, length $r->location );
 	
-	# wants RDF
-	if ( $cgi->Accept( 'text/html' )) {
+	# wants html
+	if ( $cgi->Accept( 'text/html' ) ) {
 	
 		print $cgi->header( -status => '303 See Other', 
 		-Location => PAGES . $id . '.html', 
-		-Vary     => 'Accept' )
+		-Vary     => 'Accept' , 
+		"Content-Type" => 'text/html' )
 		
 	}
 
-	# give them RDF
-	else {
+	# check for rdf
+	elsif ( $cgi->Accept( 'application/rdf+xml' ) ) {
 	
 		print $cgi->header( -status => '303 See Other', 
 		-Location      => DATA . $id . '.rdf', 
 		-Vary          => 'Accept', 
 		"Content-Type" => 'application/rdf+xml' )
-		
+
 	}
 	
+	# give them html, anyway 
+	else {
+	
+		print $cgi->header( -status => '303 See Other', 
+		-Location => PAGES . $id . '.html', 
+		-Vary     => 'Accept' , 
+		"Content-Type" => 'text/html' )
+		
+	}
 	# done
 	return Apache2::Const::OK;
 

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" fileSize="16455" maxcomponentid="19">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid identifier="009527425">hou01600</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Minot, Samuel Lawrence, 1826-1853. Letters to John Sherman Minot (MS Am 1106): Guide.</titleproper>
+         </titlestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>
+            <date calendar="gregorian" era="ce">10/24/2004 </date>Pacific Data Services </creation>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date calendar="gregorian" era="ce" normal="20131107">11/07/2013</date>
+            <item>Loaded into OASIS</item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce">01/07/2005</date>
+            <item>
+               <name>Diane Booton </name>
+            </item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce" normal="20060517">June 8, 2006</date>
+            <item>hou01600 converted by Harvard University Library OIS from EAD 1.0 to 2002 by v1to02.xsl (sy2006-06-08).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <num>MS Am 1106 </num>
+         <titleproper>Minot, Samuel Lawrence, 1826-1853. Letters to John Sherman Minot: Guide. </titleproper>
+         <author>Houghton Library, Harvard College Library </author>
+         <p>
+            <extptr xlink:href="http://nrs.harvard.edu/urn-3:HUL.OIS:fas_shield" xlink:type="simple" />
+         </p>
+         <publisher>Harvard University, Cambridge, MA 02138 </publisher>
+         <p>© 2005 The President and Fellows of Harvard College </p>
+      </titlepage>
+   </frontmatter>
+   <archdesc level="collection">
+      <did>
+         <repository>Houghton Library, Harvard College Library, Harvard University </repository>
+         <physloc>b </physloc>
+         <unitid>MS Am 1106 </unitid>
+         <origination label="&quot;creator&quot;">
+            <persname>Minot, Samuel
+Lawrence, 1826-1853. </persname>
+         </origination>
+         <unittitle>Letters to John Sherman Minot, </unittitle>
+         <unitdate calendar="gregorian" endYear="1847" era="ce" startYear="1845">1845-1847. </unitdate>
+         <physdesc>
+            <extent>1 box (.5 linear ft.) </extent>
+         </physdesc>
+         <abstract>Letters from Phillips
+Academy student Samuel Lawrence Minot to his brother John living in Belgrade, Maine. </abstract>
+      </did>
+      <acqinfo>
+         <p>
+            <num>Recat. from Cl 9886. </num>
+         </p>
+         <p>Bequest of <persname role="Donor">Mrs. G.
+Reed Kelly</persname>; received: <date calendar="gregorian" era="ce">1938. </date>
+         </p>
+      </acqinfo>
+      <arrangement>
+         <p>Arranged chronologically. </p>
+      </arrangement>
+      <scopecontent>
+         <p>Samuel
+Minot's letters to his brother John chiefly describe his studies at Phillips Academy in Andover,
+Massachusetts. He also discusses travels in New England, and his political support of the Whig
+Party and of the abolition of slavery in New Hampshire.</p>
+      </scopecontent>
+      <dsc type="in-depth">
+         <c id="hou01600c00001">
+            <did>
+               <unitid>(1) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>14 Jan <unitdate calendar="gregorian" datechar="single" endYear="1845" era="ce" startYear="1845">1845. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00002">
+            <did>
+               <unitid>(2) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Manchester,
+N.H., </geogname>6 Mar <unitdate calendar="gregorian" datechar="single" endYear="1845" era="ce" startYear="1845">1845. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00003">
+            <did>
+               <unitid>(3) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Manchester,
+N.H., </geogname>24 May <unitdate calendar="gregorian" datechar="single" endYear="1845" era="ce" startYear="1845">1845. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00004">
+            <did>
+               <unitid>(4) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Manchester,
+N.H., </geogname>14 Jun <unitdate calendar="gregorian" datechar="single" endYear="1845" era="ce" startYear="1845">1845. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00005">
+            <did>
+               <unitid>(5) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Manchester,
+N.H., </geogname>3 Sep <unitdate calendar="gregorian" datechar="single" endYear="1845" era="ce" startYear="1845">1845. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00006">
+            <did>
+               <unitid>(6) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>9 Oct <unitdate calendar="gregorian" datechar="single" endYear="1845" era="ce" startYear="1845">1845. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(4p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00007">
+            <did>
+               <unitid>(7) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Manchester,
+N.H., </geogname>12 Dec <unitdate calendar="gregorian" datechar="single" endYear="1845" era="ce" startYear="1845">1845. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00008">
+            <did>
+               <unitid>(8) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>16 Feb <unitdate calendar="gregorian" datechar="single" endYear="1846" era="ce" startYear="1846">1846. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00009">
+            <did>
+               <unitid>(9) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>18 Mar <unitdate calendar="gregorian" datechar="single" endYear="1846" era="ce" startYear="1846">1846. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00010">
+            <did>
+               <unitid>(10) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>22 Apr <unitdate calendar="gregorian" datechar="single" endYear="1846" era="ce" startYear="1846">1846. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00011">
+            <did>
+               <unitid>(11) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>15 Jul <unitdate calendar="gregorian" datechar="single" endYear="1846" era="ce" startYear="1846">1846. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00012">
+            <did>
+               <unitid>(12) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>9 Sep <unitdate calendar="gregorian" datechar="single" endYear="1846" era="ce" startYear="1846">1846. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00013">
+            <did>
+               <unitid>(13) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>23 Nov <unitdate calendar="gregorian" datechar="single" endYear="1846" era="ce" startYear="1846">1846. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00014">
+            <did>
+               <unitid>(14) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>10 Feb <unitdate calendar="gregorian" datechar="single" endYear="1847" era="ce" startYear="1847">1847. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(4p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00015">
+            <did>
+               <unitid>(15) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>25 Apr <unitdate calendar="gregorian" datechar="single" endYear="1847" era="ce" startYear="1847">1847. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(4p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00016">
+            <did>
+               <unitid>(16) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>3 Jul <unitdate calendar="gregorian" datechar="single" endYear="1847" era="ce" startYear="1847">1847. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(4p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00017">
+            <did>
+               <unitid>(17) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Andover,
+Mass., </geogname>16 Jul <unitdate calendar="gregorian" datechar="single" endYear="1847" era="ce" startYear="1847">1847. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00018">
+            <did>
+               <unitid>(18) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Manchester,
+N.H., </geogname>8 Aug <unitdate calendar="gregorian" datechar="single" endYear="1847" era="ce" startYear="1847">1847. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(2p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01600c00019">
+            <did>
+               <unitid>(19) </unitid>
+               <unittitle>
+                  <persname>Minot, Samuel Lawrence, 1826-1853. </persname>A.L.s. to <persname>John Sherman Minot; </persname>
+                  <geogname>Manchester,
+N.H., </geogname>28 Aug <unitdate calendar="gregorian" datechar="single" endYear="1847" era="ce" startYear="1847">1847. </unitdate>
+               </unittitle>
+               <physdesc>
+                  <extent>1s.(3p.)</extent>
+               </physdesc>
+            </did>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

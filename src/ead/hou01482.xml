@@ -1,0 +1,3118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" fileSize="157154" maxcomponentid="278" xsi:noNamespaceSchemaLocation="http://hul.harvard.edu/ois/xml/xsd/oasis/ead2002/ead.xsd">
+   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid identifier="008964994">hou01482</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Pierce, Edward Lillie, 1829-1897, recipient. Edward Lillie Pierce letters from various correspondents, 1854-1897 (MS Am 1.65): Guide.</titleproper>
+         </titlestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>
+            <date calendar="gregorian" era="ce">09/30/2002 </date>David Clough </creation>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date calendar="gregorian" era="ce" normal="20131107">11/07/2013</date>
+            <item>Loaded into OASIS</item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce">04/25/2004</date>
+            <item>
+               <name>Jackie Dean </name>
+            </item>
+         </change>
+         <change>
+            <date calendar="gregorian" era="ce" normal="20060517">June 8, 2006</date>
+            <item>hou01482 converted by Harvard University Library OIS from EAD 1.0 to 2002 by v1to02.xsl
+(sy2006-06-08).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <num>MS Am 1.65 </num>
+         <titleproper>Pierce, Edward Lillie, 1829-1897, recipient. Edward Lillie Pierce letters from various
+correspondents, 1854-1897: Guide. </titleproper>
+         <author>Houghton Library, Harvard College Library </author>
+         <p>
+            <extptr xlink:href="http://nrs.harvard.edu/urn-3:HUL.OIS:fas_shield" xlink:type="simple" />
+         </p>
+         <publisher>Harvard University, Cambridge, Massachusetts 02138 USA </publisher>
+         <p>© 2004 The President and Fellows of Harvard College </p>
+         <edition>Last update on 2013 March 8. </edition>
+      </titlepage>
+   </frontmatter>
+   <archdesc level="collection">
+      <did>
+         <repository>Houghton Library, Harvard College Library, Harvard University </repository>
+         <physloc>b</physloc>
+         <unitid>MS Am 1.65 </unitid>
+         <origination label="&quot;creator&quot;">
+            <persname>Pierce, Edward Lillie, 1829-1897, recipient. </persname>
+         </origination>
+         <unittitle>Edward Lillie Pierce letters from various correspondents, </unittitle>
+         <unitdate calendar="gregorian" endYear="1897" era="ce" startYear="1854">1854-1897. </unitdate>
+         <physdesc>
+            <extent>1 box (.5 linear ft.) </extent>
+         </physdesc>
+         <langmaterial>Collection materials are in <language langcode="eng">English.
+</language>
+         </langmaterial>
+         <abstract>Letters to Massachusetts lawyer Edward Lillie Pierce from Charles Francis Adams, Samuel
+Portland Chase, Henry Wadsworth Longfellow, Carl Schurz, and many other correspondents. </abstract>
+      </did>
+      <acqinfo>
+         <p>Gift of the family of Edward Lillie Pierce; received: <date calendar="gregorian" era="ce">1918.
+</date>
+         </p>
+      </acqinfo>
+      <accessrestrict>
+         <p>There are no restrictions on physical access to this material. Collection is open for research.
+</p>
+      </accessrestrict>
+      <prefercite>
+         <head>Preferred Citation for Publication: </head>
+         <p>Edward Lillie Pierce Letters from Various Correspondents, 1854-1897 (MS Am 1.65). Houghton
+Library, Harvard University. </p>
+      </prefercite>
+      <bioghist>
+         <p>Pierce, a lawyer, held many civil offices in Massachusetts, was active in Republican politics,
+and was the official biographer and executor of Charles Sumner. </p>
+      </bioghist>
+      <arrangement>
+         <p>Arranged alphabetically by author.</p>
+      </arrangement>
+      <scopecontent>
+         <p>Includes letters to Pierce from Charles Francis Adams, Salmon Portland Chase, Henry Wadsworth
+Longfellow, and Carl Schurz, among many others. Items with an asterisk also include a typed
+transcription. </p>
+      </scopecontent>
+      <dsc type="in-depth">
+         <c id="hou01482c00001" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(1) </unitid>
+               <unittitle>
+                  <persname>Adams, Charles F. </persname>TLS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00002">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>May 8. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00003">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>May 11. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00004">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>May 13. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00005">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Nov.4. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp (ALS). </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00006">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Dec.17. <geogname>So. Lincoln. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp (ALS). </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00007" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(2) </unitid>
+               <unittitle>
+                  <persname>Andrew, John A. </persname>ALS to: <persname>Henry L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00008">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Jan.15. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00009">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Feb.11. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00010">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Mar.23. <geogname>Boston. </geogname>1 p* (A.n.s.). </unittitle>
+               </did>
+            </c>
+            <c id="hou01482c00011">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Apr.1. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00012">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Apr. 5. np. (A.n.s.). </unittitle>
+                  <physdesc>
+                     <extent> 1 p*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00013">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>May 8. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00014">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Jun. 4. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00015">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Jul. 9. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 5 pp*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00016">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1862" era="ce" startYear="1862">1862
+</unitdate>Jan. 23. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00017">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1862" era="ce" startYear="1862">1862
+</unitdate>Aug.16. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00018">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1864" era="ce" startYear="1864">1864
+</unitdate>Aug.15. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00019">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1866" era="ce" startYear="1866">1866
+</unitdate>May 24. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp*. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00020" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(3) </unitid>
+               <unittitle>
+                  <persname>Andrew, John A. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00021">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860
+</unitdate>Sep.5. <geogname>Boston. </geogname>1 p (LS). </unittitle>
+               </did>
+            </c>
+            <c id="hou01482c00022">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Jan.12. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00023">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Feb.6. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00024">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Jun.19. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00025">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1862" era="ce" startYear="1862">1862
+</unitdate>Sep.17. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00026" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(4) </unitid>
+               <unittitle>
+                  <persname>Angell, James B. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Jun.3. <geogname>Ann Arbor. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 4 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00027" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(5) </unitid>
+               <unittitle>
+                  <persname>Bass, Lewis. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Aug.12. <geogname>Quincy. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 2 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00028" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(6) </unitid>
+               <unittitle>
+                  <persname>Bigelow, John. </persname>ALS to: <persname>[Edward L.] Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00029">
+               <did>
+                  <unittitle>nd. <geogname>Highland Falls on the Hudson. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00030">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896.
+</unitdate>Jan.13. </unittitle>
+                  <physdesc>
+                     <extent>3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00031" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(7) </unitid>
+               <unittitle>
+                  <persname>Boutwell, George S. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Jun.1. <geogname>Boston. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 2 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00032" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(8) </unitid>
+               <unittitle>
+                  <persname>Brainerd, Cephas. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00033">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Jan.25. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent>2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00034">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>May 26. <geogname>New York. </geogname>2 pp (TLS). </unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00035" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(9) </unitid>
+               <unittitle>
+                  <persname>Bright, John. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00036">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884
+</unitdate>Aug.15. <geogname>Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent>2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00037">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884
+</unitdate>Aug. 25. <geogname>Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00038">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1885" era="ce" startYear="1885">1885
+</unitdate>Jan. 5. <geogname>Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 8 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00039">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1886" era="ce" startYear="1886">1886
+</unitdate>Jan.17. <geogname>Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 8 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00040">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1887" era="ce" startYear="1887">1887
+</unitdate>Apr.1. <geogname>London. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00041">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1887" era="ce" startYear="1887">1887
+</unitdate>Apr.7. <geogname>Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00042">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1887" era="ce" startYear="1887">1887
+</unitdate>May 13. <geogname>Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00043">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1879" era="ce" startYear="1879">1879
+</unitdate>Jul.3. House of Commons. </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00044">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881
+</unitdate>Aug.29.<geogname> Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00045">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881
+</unitdate>Sep.2. <geogname>Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00046">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">1881
+</unitdate>Oct.28. <geogname>Rochdale.</geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00047">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1882" era="ce" startYear="1882">1882
+</unitdate>May 2. <geogname>London. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00048">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1882" era="ce" startYear="1882">1882
+</unitdate>May 27. <geogname>Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00049">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1883" era="ce" startYear="1883">1883
+</unitdate>Jan.10. <geogname>Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 6 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00050">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1884" era="ce" startYear="1884">1884
+</unitdate>Jun.27. <geogname>London. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00051" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(10) </unitid>
+               <unittitle>
+                  <persname>Bright, John A. (Jr.). </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00052">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Nov.20. <geogname>Rochdale. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00053" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(11) </unitid>
+               <unittitle>
+                  <persname>Brinton, B. H. </persname>ALS to: <persname>Henry L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>Dec.6. <geogname>Louisville, Ky. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 2 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00054" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(12) </unitid>
+               <unittitle>
+                  <persname>Brown, Martha. </persname>ALS to: <persname>E. L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875
+</unitdate>May 15. <geogname>New Brunswick?, </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent>4 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00055" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(13) </unitid>
+               <unittitle>
+                  <persname>Bryce, James. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1897" era="ce" startYear="1897">1897
+</unitdate>Mar.22. <geogname>London. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 3 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00056" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(14) </unitid>
+               <unittitle>
+                  <persname>Carstensen, A. Riis. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1894" era="ce" startYear="1894">1894
+</unitdate>Aug.28. <geogname>Hornby, Denmark. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 3 pp. </extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>Enclosure in Danish. </p>
+            </note>
+         </c>
+         <c id="hou01482c00057" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(15) </unitid>
+               <unittitle>
+                  <persname>Chamberlain, Daniel H. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Feb.17. <geogname>New York. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent>2 pp (TLS). </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00058" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(16) </unitid>
+               <unittitle>
+                  <persname>Chamberlain, Mellen. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Jul.27. <geogname>Chelsea. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 3 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00059" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(17) </unitid>
+               <unittitle>
+                  <persname>Chase, Salmon Portland. </persname>MS: <title altrender="normal" render="altrender" xlink:type="simple">"Notes on Critical notice of Greeley's American Conflict ---" </title>
+               </unittitle>
+               <physdesc>
+                  <extent> 8 pp*. </extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>Found in papers of <persname>E. L. Pierce. </persname>
+               </p>
+            </note>
+         </c>
+         <c id="hou01482c00060" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(18a) </unitid>
+               <unittitle>
+                  <persname>Chase, Salmon Portland. </persname>Signature on official document appointing
+<persname>E.L.Pierce </persname>a commissioner for the State of <geogname>Ohio. </geogname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1857" era="ce" startYear="1857">1857
+</unitdate>Apr.6. </unittitle>
+               <physdesc>
+                  <extent> 1 p. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00061" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(18b) </unitid>
+               <unittitle>
+                  <persname>Chase, Salmon Portland. </persname>ALS (COPY) to: <persname>Andrew Jackson. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>May 12. <geogname>Charleston, S.C. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 7 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00062" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(18c) </unitid>
+               <unittitle>
+                  <persname>Chase, Salmon Portland (1808-1872). </persname>ALS to: <persname>Edward L. Pierce.
+</persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00063">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1854" era="ce" startYear="1854">1854
+</unitdate>Apr.13. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00064">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1854" era="ce" startYear="1854">1854
+</unitdate>Sep.1. <geogname>Concord. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00065">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1854" era="ce" startYear="1854">1854
+</unitdate>Sep.20. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00066">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1854" era="ce" startYear="1854">1854
+</unitdate>Oct.10. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00067">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1854" era="ce" startYear="1854">1854
+</unitdate>Nov.28. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00068">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1854" era="ce" startYear="1854">1854
+</unitdate>Dec.8. <geogname>Worcester. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00069">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1855" era="ce" startYear="1855">1855
+</unitdate>May 14. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00070">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1855" era="ce" startYear="1855">1855
+</unitdate>Jun.20. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00071">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1855" era="ce" startYear="1855">1855
+</unitdate>Oct.20. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00072">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1855" era="ce" startYear="1855">1855
+</unitdate>Oct.27. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00073">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1855" era="ce" startYear="1855">1855
+</unitdate>Nov.13. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00074">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1856" era="ce" startYear="1856">1856
+</unitdate>Apr.15. <geogname>Columbus, Ohio. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00075">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1856" era="ce" startYear="1856">1856
+</unitdate>May 19. <geogname>Columbus, Ohio. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+               <note>
+                  <p>Signature cut off. </p>
+               </note>
+            </c>
+            <c id="hou01482c00076">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1856" era="ce" startYear="1856">1856
+</unitdate>May 26. <geogname>Columbus, Ohio. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00077">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1856" era="ce" startYear="1856">1856
+</unitdate>Sep.2. <geogname>Columbus, Ohio. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00078">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1856" era="ce" startYear="1856">1856
+</unitdate>Dec.7. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00079">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1856" era="ce" startYear="1856">1856
+</unitdate>Dec.21. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00080">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1857" era="ce" startYear="1857">1857
+</unitdate>Jan.1. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00081">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1857" era="ce" startYear="1857">1857
+</unitdate>Jan.19. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00082">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1857" era="ce" startYear="1857">1857
+</unitdate>Mar.13. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00083">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1857" era="ce" startYear="1857">1857
+</unitdate>Apr. 27. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00084">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1857" era="ce" startYear="1857">1857
+</unitdate>Jul. 4. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00085">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1857" era="ce" startYear="1857">1857
+</unitdate>Aug. 5. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00086">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1857" era="ce" startYear="1857">1857
+</unitdate>Oct. 15. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00087">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1857" era="ce" startYear="1857">1857
+</unitdate>Nov. 7. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00088">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1857" era="ce" startYear="1857">1857
+</unitdate>Dec. 8. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00089">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Jan. 2. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00090">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Jan. 30. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00091">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Mar .25. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00092">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Apr.29. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00093">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Jun. 28. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00094">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Jul. 15. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00095">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Aug.3. <geogname>Concord. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00096">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Aug. np. </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00097">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Sep.13. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00098">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Nov.10. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00099">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1858" era="ce" startYear="1858">1858
+</unitdate>Dec.11. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00100">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859
+</unitdate>Feb. 28. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+               <note>
+                  <p>Mutilated.</p>
+               </note>
+            </c>
+            <c id="hou01482c00101">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859
+</unitdate>Mar. 29. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00102">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">[1859]
+</unitdate>May 24. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00103">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">[1859]
+</unitdate>Jun.2. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00104">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">[1859]
+</unitdate>Jul.2. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00105">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">[1859]
+</unitdate>Jul.9. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00106">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">[1859]
+</unitdate>Aug.28. <geogname>Medina, Ohio. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00107">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">[1859]
+</unitdate>Oct.7. </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+               <note>
+                  <p>On cars. </p>
+               </note>
+            </c>
+            <c id="hou01482c00108">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">[1859]
+</unitdate>Nov.25. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00109">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860
+</unitdate>Jan.18. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00110">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860
+</unitdate>Jan.29. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00111">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860
+</unitdate>Mar.4. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00112">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860
+</unitdate>Mar.19. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00113">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860
+</unitdate>Apr.2. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00114">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860
+</unitdate>May 10. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00115">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860
+</unitdate>Aug.31. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00116">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860
+</unitdate>Sep.23. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00117">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1860" era="ce" startYear="1860">1860
+</unitdate>Nov.7. <geogname>Columbus. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00118">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Apr.7. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00119">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1861" era="ce" startYear="1861">1861
+</unitdate>Sep.24. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00120">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1862" era="ce" startYear="1862">1862
+</unitdate>Feb.19. <geogname>Washington. </geogname>3 pp (LS). </unittitle>
+               </did>
+            </c>
+            <c id="hou01482c00121">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1862" era="ce" startYear="1862">1862
+</unitdate>Jun.18. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00122">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1862" era="ce" startYear="1862">1862
+</unitdate>Jun.18. <geogname>Washington. </geogname>3 pp (LS). </unittitle>
+               </did>
+            </c>
+            <c id="hou01482c00123">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1863" era="ce" startYear="1863">1863
+</unitdate>Sep.23. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00124">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1864" era="ce" startYear="1864">[1864]
+</unitdate>Sep.23. ?</unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00125">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1864" era="ce" startYear="1864">[1864]
+</unitdate>np. </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00126">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1864" era="ce" startYear="1864">1864
+</unitdate>Jan.14. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00127">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1864" era="ce" startYear="1864">1864
+</unitdate>Apr.4. <geogname>Washington. </geogname>1 p (LS). </unittitle>
+               </did>
+            </c>
+            <c id="hou01482c00128">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1864" era="ce" startYear="1864">1864
+</unitdate>May. np. </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00129">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1864" era="ce" startYear="1864">1864
+</unitdate>Jul.20. <geogname>Newport. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00130">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1864" era="ce" startYear="1864">1864
+</unitdate>Aug.23. Cherry Hill. </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00131">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>Apr.25. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00132">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>Jul.8. <geogname>Wakefield, R.I. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00133">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>Jul.12. <geogname>Wakefield, R.I. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00134">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>Jul.27. <geogname>Hanover, N. H. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00135">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>Aug.3. np. </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00136">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>Aug.4. <geogname>Boston. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00137">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>Aug.11. <geogname>Wakefield. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00138">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>Aug.? 12. Mr. Hooper's. </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00139">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>Oct.14. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00140">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1865" era="ce" startYear="1865">1865
+</unitdate>Nov.7. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00141">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1866" era="ce" startYear="1866">1866
+</unitdate>Apr.29. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00142">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1866" era="ce" startYear="1866">[1866]
+</unitdate>May 9. np. </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00143">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1866" era="ce" startYear="1866">[1866]
+</unitdate>Sep.18. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00144">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1867" era="ce" startYear="1867">1867
+</unitdate>Jan.28. Supreme Court. </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00145" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(19) </unitid>
+               <unittitle>
+                  <persname>Clafin, William. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Apr.12. <geogname>Boston. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 3 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00146" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(20) </unitid>
+               <unittitle>
+                  <persname>Cox, Jacob D. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00147">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Apr.18. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00148">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Aug.13. <geogname>Magnolia. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00149">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>May 20. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 7 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00150">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Jun.12. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00151">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1897" era="ce" startYear="1897">1897
+</unitdate>Mar. 6. <geogname>Cincinnati. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00152" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(21) </unitid>
+               <unittitle>
+                  <persname>Crapo, William W. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Nov.19. <geogname>New Bedford. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 3 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00153" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(22) </unitid>
+               <unittitle>
+                  <persname>Crooks, J. Kirke. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Jan.18. <geogname>Liverpool. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent>2 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00154" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(23) </unitid>
+               <unittitle>
+                  <persname>Dawes, H. L. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>May 30. <geogname>Pittsfield, Mass. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 2 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00155" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(24) </unitid>
+               <unittitle>
+                  <persname>Downing, George T. </persname>ALS to: <persname>Henry L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Jan.23. <geogname>Newport. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 1 p. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00156" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(25) </unitid>
+               <unittitle>
+                  <persname>Eliot, Charles W. </persname>TLS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Feb.14. <geogname>Cambridge. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 1 p. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00157" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(26) </unitid>
+               <unittitle>
+                  <persname>Forbes, J. M. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Oct.3. np.</unittitle>
+               <physdesc>
+                  <extent> 2 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00158" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(27) </unitid>
+               <unittitle>
+                  <persname>Green, Samuel G. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Jul.4 <geogname>Interlacken, Switz. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 4 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00159" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unittitle />
+            </did>
+            <odd>
+               <p>Grote, H. [Mrs.] ALS to: E. L. Pierce. SEE: Longfellow, Henry W. 1877. </p>
+            </odd>
+         </c>
+         <c id="hou01482c00160" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(28) </unitid>
+               <unittitle>
+                  <persname>Hoar, George F. </persname>ALS to: Edward L. Pierce. </unittitle>
+            </did>
+            <c id="hou01482c00161">
+               <did>
+                  <unittitle>nd. np [Fragment]. </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00162">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Mar.11. <geogname>Worcester. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00163">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Jan.3. <geogname>Worcester. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00164">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Aug.5. <geogname>Worcester. </geogname>1 p (TLS). </unittitle>
+               </did>
+            </c>
+            <c id="hou01482c00165">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Apr.18. <geogname>Washington. </geogname>1 p (TLS). </unittitle>
+               </did>
+            </c>
+            <c id="hou01482c00166">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Jun.10. <geogname>Paris. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00167">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Aug.20. <geogname>Reichenhull. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00168">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Dec.18 <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00169">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1897" era="ce" startYear="1897">1897
+</unitdate>Mar.17. <geogname>Washington. </geogname>1 p (TLS). </unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00170" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(29) </unitid>
+               <unittitle>
+                  <persname>Huntington, F. D. </persname>ALS to: <persname>[Edward L. Pierce]. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00171">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Nov.19 ? <geogname>Syracuse, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00172">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1897" era="ce" startYear="1897">1897
+</unitdate>Jan.26. <geogname>Syracuse, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00173" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(30) </unitid>
+               <unittitle>
+                  <persname>Hutchinson, P.O. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Aug.15. <geogname>Sidmouth, Eng. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 4 pp. </extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>Also ALS to: E.L.Pierce. from <persname>William John Stirling, </persname>Aug.15, <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895, </unitdate>2
+pp. </p>
+            </note>
+         </c>
+         <c id="hou01482c00174" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(31) </unitid>
+               <unittitle>
+                  <persname>Jameson, J. Franklin. </persname>TLS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00175">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Nov.10. <geogname>Providence, R. I. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00176">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Nov.14. <geogname>Providence, R. I. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00177" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(32) </unitid>
+               <unittitle>
+                  <persname>Johnson, A. B. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00178">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Apr.4. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+               <note>
+                  <p>Encloses COPY of ALS to: <persname>Capt. L.G. Shepard </persname>from <persname>C. M. Scammon,
+</persname>Mar.11, <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895 </unitdate>--2 pp. </p>
+               </note>
+            </c>
+            <c id="hou01482c00179">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Jun.14. <persname>SE Alaska. </persname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00180" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(33) </unitid>
+               <unittitle>
+                  <persname>Julian, George Washington, 1817-1899. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Jun.13. <geogname>Irvington. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 3 pp. </extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>Re: Chase at Free Soil Convention, <unitdate calendar="gregorian" datechar="single" endYear="1851" era="ce" startYear="1851">1851. </unitdate>
+               </p>
+            </note>
+         </c>
+         <c id="hou01482c00181" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(34) </unitid>
+               <unittitle>
+                  <persname>Langel, G. B. </persname>ALS to: <persname>Edward L. Pierce </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>May 8. <geogname>[Paris]. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 4 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00182" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(35) </unitid>
+               <unittitle>
+                  <persname>Lecky, W. E. H. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1897" era="ce" startYear="1897">1897
+</unitdate>Mar.18. <geogname>London. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 1 p. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00183" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(36) </unitid>
+               <unittitle>
+                  <persname>Lodge, Henry Cabot. </persname>TLS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Dec.17. <geogname>Washington. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 1 p. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00184" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(37) </unitid>
+               <unittitle>
+                  <persname>Long, John D. </persname>LS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1897" era="ce" startYear="1897">1897
+</unitdate>Jan.30. <geogname>Boston. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 1 p. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00185" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(38) </unitid>
+               <unittitle>Omitted from series. </unittitle>
+            </did>
+         </c>
+         <c id="hou01482c00186" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(39a) </unitid>
+               <unittitle>
+                  <persname>Longfellow, Henry W. </persname>ALS to: <persname>Mr. Balch. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Sep.29. <geogname>Cambridge. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent>3 pp. </extent>
+               </physdesc>
+            </did>
+            <note>
+               <p>Re: Biography of Sumner. </p>
+            </note>
+         </c>
+         <c id="hou01482c00187" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(39b) </unitid>
+               <unittitle>
+                  <persname>Longfellow, Henry W. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00188">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Jun.3. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00189">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Aug.3. <geogname>Nahant. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00190">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Aug.16. <geogname>Nahant. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00191">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Sep.5. <geogname>Nahant. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00192">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Oct.19. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00193">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Nov.2. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00194">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Nov.29. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00195">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Dec.6. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+               <note>
+                  <p>Signature cut off. </p>
+               </note>
+            </c>
+            <c id="hou01482c00196">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1876" era="ce" startYear="1876">1876
+</unitdate>Nov.4. <geogname>Cambridge</geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00197">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>Mar.4. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00198">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>Mar.17. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00199">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>May 17. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00200">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>May 17. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00201">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>May 21. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+               <note>
+                  <p>Encloses ALS to: E.L.Pierce from <persname>H. Grote. </persname>May 9, <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877, </unitdate>
+                     <geogname>London </geogname>-3 pp. </p>
+               </note>
+            </c>
+            <c id="hou01482c00202">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875
+</unitdate>Nov.9. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+               <note>
+                  <p>Enclosing directions for finding Allston's grave, from <persname>Miss Judkins. </persname>
+                  </p>
+               </note>
+            </c>
+            <c id="hou01482c00203">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1876" era="ce" startYear="1876">1876
+</unitdate>Feb.14. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00204">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1876" era="ce" startYear="1876">1876
+</unitdate>Feb.26. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00205">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1876" era="ce" startYear="1876">1876
+</unitdate>Jul.16. <geogname>Portland. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00206">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1876" era="ce" startYear="1876">1876
+</unitdate>Oct. 24. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00207">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1876" era="ce" startYear="1876">1876
+</unitdate>Nov.1. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00208">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Dec.16. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00209">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Dec.20. <geogname>Cambridge. </geogname>1 card. </unittitle>
+               </did>
+            </c>
+            <c id="hou01482c00210">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1874" era="ce" startYear="1874">1874
+</unitdate>Dec.29. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00211">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875
+</unitdate>Feb.16. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+               <note>
+                  <p>Wrapper enclosed. </p>
+               </note>
+            </c>
+            <c id="hou01482c00212">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875
+</unitdate>Sep.6. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+               <note>
+                  <p>Encloses ALS to: H.W.Longfellow from <persname>J.G.Palfrey, </persname>Sep.6, <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875, </unitdate>
+                     <geogname>Cambridge </geogname>-1 p. </p>
+               </note>
+            </c>
+            <c id="hou01482c00213">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>Jun.12. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00214">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>Jun.15. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00215">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>Nov.13. <geogname>Cambridge. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00216" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(40) </unitid>
+               <unittitle>
+                  <persname>Murray, James Ormsbee. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00217">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1890" era="ce" startYear="1890">1890
+</unitdate>Jul.28. <geogname>Princeton, N.J. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00218">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Jun.3. <geogname>Princeton, N.J. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00219">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1897" era="ce" startYear="1897">1897
+</unitdate>Mar.5. <geogname>Princeton, N.J. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00220" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unittitle />
+            </did>
+            <odd>
+               <p>Palfrey, J. G. ALS to: Henry W. Longfellow. SEE: Longfellow, Henry W. 1875. </p>
+            </odd>
+         </c>
+         <c id="hou01482c00221" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(41) </unitid>
+               <unittitle>
+                  <persname>Parker, H.T. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875
+</unitdate>May 11. <geogname>Kensington Park, London. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent>2 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00222" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(42) </unitid>
+               <unittitle>
+                  <persname>Perkins, J.L. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875
+</unitdate>Nov. 16. </unittitle>
+               <physdesc>
+                  <extent>7 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00223" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(43) </unitid>
+               <unittitle>
+                  <persname>R, Henry. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1875" era="ce" startYear="1875">1875
+</unitdate>May 10. <geogname>South Kensington. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 4 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00224" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(44) </unitid>
+               <unittitle>
+                  <persname>Reed, Thomas B. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Aug. 23. <geogname>Grand Beach. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 5 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00225" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(45) </unitid>
+               <unittitle>
+                  <persname>Rhodes, James Ford. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00226">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Jul.10. <geogname>Grasmere, Eng. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 8 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00227">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Aug.17. <geogname>Llangollen, N. Wales. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00228">
+               <did>
+                  <unittitle>ny Oct.27.<geogname> [Boston]. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00229" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(46) </unitid>
+               <unittitle>
+                  <persname>Rice, W. W. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Jan.29. <geogname>Worcester. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent>3 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00230" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(47) </unitid>
+               <unittitle>
+                  <persname>Richman, Irving B. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Jan.15. <geogname>St. Gall, Switz. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 4 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00231" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(48) </unitid>
+               <unittitle>
+                  <persname>Sayler, Samuel M. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00232">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Nov.28. <geogname>Huntington, Ind. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00233">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Dec.5. Huntington, Ind. </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00234" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unittitle />
+            </did>
+            <odd>
+               <p>Scammon, C. M. TL (COPY) to: Capt. L. G. Shepard. SEE: Johnson, A. B. </p>
+            </odd>
+         </c>
+         <c id="hou01482c00235" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(49) </unitid>
+               <unittitle>
+                  <persname>Schurz, Carl. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00236">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859
+</unitdate>Mar.26. <geogname>Milwaukee. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 8 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00237">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859
+</unitdate>Apr.6. <geogname>Milwaukee. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00238">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859
+</unitdate>Apr.7. <geogname>Milwaukee. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00239">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859
+</unitdate>Apr.22. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00240">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859
+</unitdate>Apr.30. <geogname>Milwaukee. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00241">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859
+</unitdate>May 2. <geogname>Milwaukee. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00242">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1859" era="ce" startYear="1859">1859
+</unitdate>May 12. <geogname>Milwaukee. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00243">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1869" era="ce" startYear="1869">1869
+</unitdate>Jan.28. <geogname>St. Louis, </geogname>Mo. </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00244">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>May 4. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00245">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1877" era="ce" startYear="1877">1877
+</unitdate>Dec.30. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00246">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1881" era="ce" startYear="1881">[1881]
+</unitdate>Dec.30. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00247">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1887" era="ce" startYear="1887">1887
+</unitdate>Mar.18. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00248">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1888" era="ce" startYear="1888">1888
+</unitdate>Mar.31. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00249">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1888" era="ce" startYear="1888">1888
+</unitdate>Apr.4. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00250">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1889" era="ce" startYear="1889">1889
+</unitdate>Nov.23. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 12 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00251">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1889" era="ce" startYear="1889">1889
+</unitdate>Dec.26. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00252">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1891" era="ce" startYear="1891">1891
+</unitdate>Jul.10. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00253">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1891" era="ce" startYear="1891">1891
+</unitdate>Jul.15. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00254">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1892" era="ce" startYear="1892">1892
+</unitdate>Jan.13. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00255">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1892" era="ce" startYear="1892">1892
+</unitdate>May 24. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00256">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1892" era="ce" startYear="1892">1892
+</unitdate>Oct.7. <geogname>Pocantico Hills, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00257">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1892" era="ce" startYear="1892">1892
+</unitdate>Nov.28. <geogname>Pocantico Hills, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00258">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1892" era="ce" startYear="1892">1892
+</unitdate>Nov.4. <geogname>Pocantico Hills, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00259">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1893" era="ce" startYear="1893">1893
+</unitdate>Mar.27. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00260">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1894" era="ce" startYear="1894">1894
+</unitdate>Sep.4. <geogname>Pocantico Hills, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00261">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1894" era="ce" startYear="1894">1894
+</unitdate>Sep.10. <geogname>Pocantico Hills, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00262">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1894" era="ce" startYear="1894">1894
+</unitdate>Dec.17. <geogname>Pocantico Hills, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00263">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1894" era="ce" startYear="1894">1894
+</unitdate>Dec.25. <geogname>Pocantico Hills, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00264">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Jan.26. <geogname>Pocantico Hills, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00265">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Dec.26. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00266" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(50) </unitid>
+               <unittitle>
+                  <persname>Sherman, John. </persname>TLS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00267">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Feb.25. <geogname>Washington. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent>1 p. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00268" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unittitle />
+            </did>
+            <odd>
+               <p>Stirling, William John. ALS to: E. L. Pierce. SEE: Hutchinson, P. O. </p>
+            </odd>
+         </c>
+         <c id="hou01482c00269" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(51) </unitid>
+               <unittitle>
+                  <persname>Stowe, Harriet Beecher. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1889" era="ce" startYear="1889">1889
+</unitdate>Jan.13. <geogname>Hartford. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 1 p. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00270" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(52) </unitid>
+               <unittitle>
+                  <persname>Thayer, J. B. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+                  <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Feb.15. <geogname>Cambridge. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 1 p. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00271" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(53) </unitid>
+               <unittitle>
+                  <persname>Washburn, John D. </persname>ALS to: <persname>Edward L. Pierce. </persname>ny Aug.6.
+<geogname>New York. </geogname>
+               </unittitle>
+               <physdesc>
+                  <extent> 3 pp. </extent>
+               </physdesc>
+            </did>
+         </c>
+         <c id="hou01482c00272" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(54) </unitid>
+               <unittitle>
+                  <persname>White, Andrew D. </persname>ALS to: <persname>Edward L. Pierce.</persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00273">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1895" era="ce" startYear="1895">1895
+</unitdate>Sep.26. <geogname>Ithaca, N.Y. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 3 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00274">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>Jun.5. <geogname>Washington. </geogname>1 p (TLS). </unittitle>
+               </did>
+            </c>
+            <c id="hou01482c00275">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1897" era="ce" startYear="1897">1897
+</unitdate>May 6. <geogname>Ithaca, N.Y. </geogname>2 pp (TLS). </unittitle>
+               </did>
+            </c>
+         </c>
+         <c id="hou01482c00276" level="otherlevel" otherlevel="namegroup">
+            <did>
+               <unitid>(55) </unitid>
+               <unittitle>
+                  <persname>White, Horace. </persname>ALS to: <persname>Edward L. Pierce. </persname>
+               </unittitle>
+            </did>
+            <c id="hou01482c00277">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>May 26. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 4 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+            <c id="hou01482c00278">
+               <did>
+                  <unittitle>
+                     <unitdate calendar="gregorian" datechar="single" endYear="1896" era="ce" startYear="1896">1896
+</unitdate>May 30. <geogname>New York. </geogname>
+                  </unittitle>
+                  <physdesc>
+                     <extent> 2 pp. </extent>
+                  </physdesc>
+               </did>
+            </c>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>
